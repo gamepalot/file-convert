@@ -1,0 +1,163 @@
+17	NLBL|LovewithBPD	NCMN
+หลังจาก	JSBR|ได้รับ	VSTA|อิสระ	NCMN|จาก	RPRE|กรง	NCMN|ใหญ่	VATT
+ฉัน	PPRS|กับ	RPRE|คู่หมั้น	NCMN|ได้รับ	VSTA|อิสระ	NCMN|เต็มที่	ADVN|กับ	RPRE|การดำเนินชีวิต	NCMN
+เรา	PPRS|สอง	DCNM|คน	CNIT|ค่อยๆ	XVAM|เริ่ม	VSTA|กลับ	VACT|สู่	RPRE|ชีวิตประจำวัน	NCMN|ของ	RPRE|เรา	PPRS
+เขา	PPRS|ทำงาน	VACT|อยู่	VSTA|ออฟฟิศ	NCMN|ชั้นบน	NCMN
+ฉัน	PPRS|วาดรูป	VACT|เพื่อ	JSBR|แสดง	VACT|งานศิลปะ	NCMN|ต่อไป	ADVN|ให้	JSBR|ครบ	VSTA|สำหรับ	RPRE|exhibition	NCMN|ครั้งแรก	NCMN|ของ	RPRE|ฉัน	PPRS|ใน	RPRE|อีก	DDBQ|1	DCNM|เดือน	CMTR|ข้างหน้า	NCMN
+เรา	PPRS|ยังคง	XVBM|ใกล้ชิด	VSTA|กัน	ADVN|เหมือนเดิม	ADVN
+รัก	VSTA|และ	JCRG|แสดง	VACT|ความรัก	NCMN|ต่อกัน	ADVN|เช่นเดิม	ADVN
+อาการ	NCMN|ของ	RPRE|ฉัน	PPRS|ภายหลัง	NCMN|ที่	PREL|ออกจาก	VACT|วอร์ด	NCMN|จิตเวช	NCMN|แล้ว	XVAE|ยาก	ADVN|ที่จะ	JSBR|เรียก	VACT|ว่า	RPRE|ดีขึ้น	VATT|ทันตา	ADVN|หรือ	JCRG|แย่ลง	VATT|อย่าง	FIXV|เห็นได้ชัด	VATT
+แต่	JCRG|ฉัน	PPRS|ยังคง	XVBM|กิน	VACT|ยา	NCMN|ต่อเนื่อง	ADVN|จาก	RPRE|คลินิก	NCMN|ที่	PREL|คู่หมั้น	NCMN|ฉัน	PPRS|ไป	XVAM|สืบค้น	VACT|มา	XVAE|แล้ว	XVAE|ว่า	JSBR|ดี	VATT|ที่สุด	ADVN
+เรา	PPRS|มีความสุข	VSTA|กัน	ADVN|ได้	XVAE|อีก	DDBQ|พักใหญ่ๆ	ADVI
+จน	JSBR|งาน	NCMN|exhibition	NCMN|ของ	RPRE|ฉัน	PPRS|สำเร็จ	VSTA|ไป	XVAE|ได้	XVAE|ด้วยดี	ADVP
+หลังจากนั้น	JSBR|ภายใน	RPRE|ใจ	NCMN|ฉัน	PPRS|ก็	JSBR|ค่อยๆ	XVAM|เริ่ม	VSTA|กลับมา	XVAE|ปั่นป่วน	VSTA|อีกครั้ง	ADVN
+ฉัน	PPRS|เริ่ม	VSTA|มี	VSTA|ความรู้สึก	NCMN|ว่า	JSBR|คู่หมั้น	NCMN|ของ	RPRE|ฉัน	PPRS|เริ่ม	VSTA|ออกห่าง	VACT|จาก	RPRE|ฉัน	PPRS|ไป	VACT|สนิทสนม	VSTA|สนุกสนาน	VSTA|กับ	RPRE|เพื่อนๆ	NCMN|ของ	RPRE|เขา	PPRS
+เขา	PPRS|เริ่ม	XVAM|สนใจ	VACT|ฉัน	PPRS|น้อยลง	ADVN
+ทุกอย่าง	PNTR|เป็น	VSTA|เพียง	DDBQ|ความรู้สึก	NCMN|ของ	RPRE|ฉัน	PPRS|ล้วนๆ	ADVI
+ฉัน	PPRS|ไม่รู้	NEG|ด้วยซ้ำ	ADVN|ว่า	JSBR|มัน	PPRS|เคย	XVMM|เป็น	VSTA|ความจริง	NCMN|หรือ	JCRG|เป็น	VSTA|เพียง	DDBQ|ความระแวง	NCMN|ใน	RPRE|จินตนาการ	NCMN|ฉัน	PPRS
+ฉัน	PPRS|ยอมรับ	VACT|ว่า	JSBR|จริงๆ	VATT|แล้ว	XVAE|การรักษาโรค	NCMN|ของ	RPRE|ฉัน	PPRS|ให้	VACT|บรรเทา	VATT
+หลักๆ	NCMN|ต้อง	XVMM|ทำ	VACT|ดี	NLBL|ปี	NCMN|ที่	NCMN|และ	JCRG|ซี	NLBL|บี	NLBL|ที่	PREL|ไม่ใช่	NEG|กิน	VACT
+แต่	JCRG|ยา	NCMN|แล้ว	JSBR|ระบบ	NCMN|ความคิด	NCMN|ที่	PREL|กลัว	VSTA|การ	FIXN|ถูก	XVAM|ทอดทิ้ง	VACT|ใน	RPRE|ใจ	NCMN|หรือ	JCRG|ความหวาดระแวง	NCMN|ต่างๆ	DIAC|จะ	XVBM|หาย	VSTA|ไป	XVAE|ได้	XVAE|นั่น	PDMN|คง	XVBM|เป็น	VSTA|สิ่ง	NCMN|ที่	PREL|ฉัน	PPRS|ปฏิเสธ	VACT|ที่จะ	JSBR|ได้รับ	VSTA|จาก	RPRE|วอร์ด	NCMN|จิตเวช	NCMN|ละ	RPRE|มั้ง	NCMN
+ฉัน	PPRS|รัก	VSTA|อิสระ	NCMN|มาก	ADVN|เมื่อ	JSBR|ได้	VSTA|ออกมา	XVAE
+แต่	JCRG|ไม่แน่ใจ	NEG|ว่า	JSBR|มัน	PPRS|เร็ว	VATT|เกินไป	ADVN|ไหม	EITT
+ฉัน	PPRS|พร้อม	VSTA|แล้ว	JSBR|จริง	VATT|หรือ	EITT|กับ	RPRE|การ	FIXN|กลับมา	VACT|เผชิญหน้า	VACT|กับ	RPRE|โลก	NCMN|แห่ง	RPRE|ความเป็นจริง	NCMN|ข้างนอก	NCMN|นี้	DDAC
+และ	JCRG|แล้ว	JSBR|ความหวาดระแวง	NCMN|กลัว	VSTA|ถูก	XVAM|คนรัก	NCMN|ทอดทิ้ง	VACT|ความกลัว	NCMN|ใน	RPRE|ความรัก	NCMN|ความกลัว	NCMN|ที่	PREL|เขา	PPRS|จะ	XVBM|ไม่รัก	NEG|ฉัน	PPRS|และ	JCRG|ไป	XVAE|รัก	VSTA|คนอื่น	NCMN|ความรู้สึก	NCMN|เหล่านั้น	DDAC|ก็	JSBR|เริ่ม	VSTA|ก่อตัว	VACT|ใน	RPRE|ใจ	NCMN|ฉัน	PPRS
+เหมือน	VSTA|ระเบิดเวลา	NCMN|ที่	PREL|ค่อยๆ	XVAM|โต	VATT|ขึ้น	XVAE|เรื่อยๆ	ADVI
+เพื่อ	JSBR|รอ	VSTA|วัน	NCMN|ทำลายล้าง	VACT
+ไม่	NEG|นาน	VATT|นัก	ADVN|มัน	PPRS|ก็	JSBR|ระเบิด	VATT|ออกมา	XVAE
+กลายเป็น	VSTA|ฉัน	PPRS|คน	CNIT|เดิม	VATT|คน	CNIT|ที่	PREL|เคย	XVMM|ผ่าน	VSTA|เหตุการณ์	NCMN|พยายาม	VACT|ฆ่าตัวตาย	VACT
+ฉัน	PPRS|ทำ	VACT|พฤติกรรม	NCMN|เดิมๆ	VATT|ที่	PREL|เคย	XVMM|ทำ	VACT|ทั้งหมด	DDAN
+ไม่	NEG|ว่า	JSBR|จะ	XVBM|พยายาม	VACT|รัก	VSTA|เขา	PPRS|ให้	JSBR|น้อยลง	ADVN|ด้วย	RPRE|การมีเพศสัมพันธ์	NCMN|กับ	RPRE|คนแปลกหน้า	NCMN|เรื่อยๆ	ADVI|ลับหลัง	VACT|เขา	PPRS
+ทำร้ายร่างกาย	VACT|เขา	PPRS
+เวลา	NCMN|ฉัน	PPRS|ไม่พอใจ	NEG|ที่	PREL|เขา	PPRS|อยู่	XVAE|กับ	RPRE|กลุ่ม	NCMN|เพื่อน	NCMN|นาน	ADVN|เกินไป	ADVN|ฉัน	PPRS|เรียกร้อง	VACT|ความสนใจ	NCMN|จาก	RPRE|เขา	PPRS|มากเกินไป	ADVN
+ฉัน	PPRS|กลับมา	VACT|ซื้อ	VACT|คัตเตอร์	NCMN|อีกครั้ง	ADVN
+และ	JCRG|ปาด	VACT|มัน	PPRS|ที่	PREL|ร่าง	NCMN|ฉัน	PPRS|ต่อหน้า	RPRE|เขา	PPRS
+จน	JSBR|เขา	PPRS|ร้องไห้	VACT
+ฉัน	PPRS|พยายาม	VACT|ทำให้	JSBR|เขา	PPRS|รู้สึก	VSTA|ผิด	ADVN
+รู้สึก	VSTA|ว่า	JSBR|ต้อง	XVMM|รัก	VSTA|ฉัน	PPRS|ให้	VACT|มากกว่า	ADVN|เดิม	VATT
+ฉัน	PPRS|บีบคั้น	VSTA|เขา	PPRS|จนถึงที่สุด	ADVN
+“	PUNC|เธอ	PPRS|ทำ	VACT|แบบนี้	NCMN|อีกแล้ว	ADVN
+เรา	PPRS|ทำ	VACT|อะไร	PNTR|ผิด	ADVN|นัก	ADVN|เหรอ	EITT
+ทำไม	NCMN|ต้อง	XVMM|ทำร้าย	VACT|ตัวเอง	PPRS
+ที่ผ่านมา	NCMN|มัน	PPRS|ก็	JSBR|หนัก	VATT|กับ	RPRE|เรา	PPRS|มาก	VATT|แล้ว	ADVN|นะ	EAFF
+เรา	PPRS|พยายาม	VACT|อย่าง	FIXV|มาก	VATT
+เรา	PPRS|ค้นหา	VACT|ทางออก	NCMN|ที่จะ	JSBR|อยู่	VSTA|ร่วมกับ	RPRE|โรค	NCMN|ของ	RPRE|เธอ	PPRS|แทบ	ADVN|ทุกวัน	ADVN
+อะไร	PNTR|ที่	PREL|ขัดใจ	VSTA|เธอ	PPRS|หรือ	JCRG|อาจ	XVMM|ทำให้	VACT|เธอ	PPRS|แย่ลง	ADVN
+เรา	PPRS|ก็	JSBR|ระวังตัว	VACT|ไม่ทำ	NEG|เลย	XVAE|นี่	PDMN
+เรา	PPRS|ยัง	XVBM|พิสูจน์	VACT|ตัวเอง	PPRS|ไม่พอ	NEG|อีก	DDBQ|หรือ	EITT|ว่า	JSBR|เรา	PPRS|รัก	VSTA|เธอ	PPRS|แค่	DDBQ|ไหน	PNTR
+ทำไม	NCMN|ต้อง	XVMM|บีบคั้น	VSTA|เรา	PPRS|จน	JSBR|ถึงขั้น	NCMN|นี้	DDAN|”	PUNC
+เขา	PPRS|พูด	VACT|ไป	XVAE|น้ำตาไหล	VACT|ไป	XVAE
+ฉัน	PPRS|สะอึก	VACT|กับ	RPRE|คำพูด	NCMN|ทั้งหมด	DDAN|ของ	RPRE|เขา	PPRS
+นี่	PDMN|เขา	PPRS|พยายาม	VACT|มาก	ADVN|ขนาด	NCMN|นี้	DDAC|เลย	XVAE|หรือ	EITT
+ในขณะที่	JSBR|ฉัน	PPRS|ทำ	VACT|เลวๆ	ADVI|ลับหลัง	VACT|เขา	PPRS
+แต่	JCRG|เขา	PPRS|กลับ	VACT|พยายาม	VACT|สู้	XVAM|เพื่อ	JSBR|ฉัน	PPRS
+ฉัน	PPRS|เข้าไป	VACT|กอด	VACT|และ	JCRG|ร้องไห้	VACT|ขอโทษ	VACT|เขา	PPRS
+ฉัน	PPRS|จูบ	VACT|เขา	PPRS|ที่	RPRE|หน้าผาก	NCMN
+และ	JCRG|สัญญา	VACT|อย่าง	FIXV|หนักแน่น	VATT|ว่า	JSBR|ฉัน	PPRS|จะ	XVBM|ไม่	NEG|เป็น	VSTA|แบบนี้	NCMN|อีกแล้ว	ADVN
+เรา	PPRS|สอง	DCNM|คน	CNIT|ร้องไห้	VACT|กอด	VACT|กัน	ADVN
+น้ำตา	NCMN|ที่	PREL|ไหล	VACT|ของ	RPRE|ฉัน	PPRS|เกิด	VSTA|จาก	RPRE|ความสำนึกผิด	NCMN|ที่	PREL|ไป	XVAE|มีอะไร	VACT|กับ	RPRE|คนอื่น	NCMN|ระหว่าง	RPRE|ที่	PREL|ฉัน	PPRS|ยัง	XVBM|เป็น	VSTA|ระเบิดเวลา	NCMN|ที่	PREL|หลงทาง	VACT
+ส่วน	NCMN|น้ำตา	NCMN|ของ	RPRE|เขา	PPRS|เกิด	VSTA|จาก	RPRE|ความเหนื่อยล้า	NCMN|มา	XVAE|นาน	ADVN|จาก	RPRE|ความพยายาม	NCMN|อย่าง	FIXV|มาก	VATT|เพื่อที่จะ	JSBR|ดูแล	VACT|ฉัน	PPRS
+ฉัน	PPRS|ย้อน	VACT|เวลา	NCMN|กลับ	VACT|ไป	XVAE|แก้ไข	VACT|อะไร	PNTR|ไม่ได้	NEG|แล้ว	XVAE
+มัน	PPRS|สาย	VATT|เกินไป	ADVN
+ฉัน	PPRS|ได้	XVAM|แต่	JCRG|ภาวนา	VACT|ว่า	JSBR|ผู้ชาย	NCMN|เหล่านั้น	DDAC|จะ	XVBM|ไม่มีวัน	NEG|วก	VACT|กลับมา	VACT|เจอ	VACT|เขา	PPRS
+หรือ	JCRG|เอา	VACT|เรื่อง	NCMN|ฉัน	PPRS|ไป	VACT|เล่า	VACT
+จน	JSBR|ได้ยิน	VACT|ถึง	RPRE|หู	NCMN|ของ	RPRE|เขา	PPRS
+เพราะ	JSBR|ฉัน	PPRS|คงจะ	XVBM|อยู่	VSTA|ไม่ได้	NEG|โดย	JSBR|ไม่มี	NEG|เขา	PPRS
+เวลา	NCMN|กับ	RPRE|มนุษย์	NCMN|เรา	PPRS|บางที	VSTA|เรา	PPRS|ก็	JSBR|ใช้	VACT|เพื่อ	JSBR|พิสูจน์	VACT|อะไร	PNTR|ใน	RPRE|หลายๆ	DIBQ|อย่าง	NCMN
+และ	JCRG|ใน	RPRE|หลายๆ	DIBQ|ครั้ง	CFQC|ที่	PREL|เรา	PPRS|ภาวนา	VSTA|ให้	JSBR|มี	VSTA|เครื่องมือ	NCMN|ยืด	VACT|หด	VACT|และ	JCRG|ย้อนกลับ	VACT
+ถ้า	JSBR|มัน	PPRS|มี	VSTA|จริงๆ	ADVI|บน	RPRE|โลก	NCMN|ใบ	NCMN|นี้	DDAC
+ฉัน	PPRS|ใน	RPRE|วันนี้	NCMN|อยากได้	VSTA|เครื่องมือ	NCMN|นั้น	DDAC
+เพื่อ	JSBR|กลับ	VACT|ไป	XVAE|แก้ไข	VACT|อดีต	NCMN
+หรือ	JCRG|จะ	XVBM|เร่ง	VACT|ให้	JSBR|เวลา	NCMN|มัน	PPRS|ผ่าน	VACT|ไป	XVAE|ไวๆ	ADVI|ก็ได้	XVAE
+เร่ง	VACT|จน	JSBR|ทำให้	VACT|คน	NCMN|ที่	PREL|ฉัน	PPRS|เคย	XVMM|หลับนอน	VACT|ลับหลัง	VACT|เขา	PPRS|ลืม	VSTA|ฉัน	PPRS|ไป	XVAE
+แต่	JCRG|แล้ว	JSBR|เวลา	NCMN|ก็	JSBR|เป็น	VSTA|เพียง	DDBQ|เวลา	NCMN|ธรรมดา	VATT|ที่	PREL|ไม่	NEG|มี	VSTA|ใคร	PNTR|ไป	XVAE|มีอำนาจ	VSTA|ปรับเปลี่ยน	VACT|อะไร	PNTR|มัน	PPRS|ได้	XVAM
+คู่หมั้น	NCMN|ฉัน	PPRS|เดิน	VACT|น้ำตาไหล	VACT|มาหา	VACT|ฉัน	PPRS
+ใน	NCMN|เย็น	VATT|วันหนึ่ง	NCMN|เขา	PPRS|ถาม	VACT|ฉัน	PPRS|ตรงๆ	ADVI|ว่า	JSBR|ฉัน	PPRS|ไป	XVAE|มีอะไร	VACT|กับ	RPRE|คนอื่น	NCMN|ใช่ไหม	EITT
+เขา	PPRS|อยาก	XVMM|ได้ยิน	VACT|จาก	RPRE|ปาก	NCMN|ฉัน	PPRS
+เขา	PPRS|ขอร้อง	VACT|ครั้งสุดท้าย	NCMN|ให้	JSBR|ฉัน	PPRS|พูดความจริง	VACT|กับ	RPRE|เขา	PPRS
+แต่	JCRG|ฉัน	PPRS|กลับ	VACT|ปฏิเสธ	VACT|ที่จะ	JSBR|พูดความจริง	VACT
+ฉัน	PPRS|บอก	VACT|เขา	PPRS|ว่า	JSBR|ฉัน	PPRS|ไม่รู้จัก	NEG|ผู้ชาย	NCMN|คน	CNIT|นั้น	DDAC
+ฉัน	PPRS|ไม่ได้ทำ	NEG|ขอให้	VACT|เชื่อ	VSTA|ใน	RPRE|ความรัก	NCMN|ของ	RPRE|ฉัน	PPRS
+แต่	JCRG|เขา	PPRS|ยังคง	XVBM|ร้องไห้	VACT|สะอื้น	VACT
+ทั้งๆ	NCMN|ที่ผ่านมา	NCMN|ก่อนหน้านี้	NCMN|เขา	PPRS|มักจะ	XVBM|เชื่อ	VSTA|ใน	RPRE|สิ่ง	NCMN|ที่	PREL|ฉัน	PPRS|โกหก	VACT|เสมอ	ADVN
+และ	JCRG|มักจะ	XVBM|ยิ้ม	VACT|ให้	JSBR|ฉัน	PPRS|อย่าง	FIXV|โล่งใจ	VSTA
+เพราะ	JSBR|เชื่อใจ	VSTA|แม้ว่า	JSBR|ฉัน	PPRS|จะ	XVBM|เพียงแค่	VACT|โกหก	VACT|ไป	XVAE|ว่า	JSBR|ไม่มี	NEG|อะไร	PNTR|เกิดขึ้น	VSTA
+แต่	JCRG|คราวนี้	NCMN|ต่าง	VSTA|จาก	RPRE|คราว	NCMN|อื่น	DIAC
+เขา	PPRS|เดิน	VACT|ขึ้นไป	VACT|บน	RPRE|ออฟฟิศ	NCMN
+ฉัน	PPRS|รอ	VSTA|เขา	PPRS|สักพัก	ADVN
+แต่	JCRG|เขา	PPRS|ก็	XVBM|ไม่	NEG|ลงมา	VACT
+ฉัน	PPRS|จึง	XVBM|ค่อยๆ	XVAM|เดิน	VACT|ขึ้น	XVAE|ตาม	RPRE|เขา	PPRS|ไป	XVAE
+ฉัน	PPRS|แทบ	ADVN|ช็อก	VSTA|ที่	PREL|เห็น	VSTA|เขา	PPRS|ดื่มเหล้า	VACT|และ	JCRG|ร้องไห้	VACT
+ใน	RPRE|มือ	NCMN|ถือ	VACT|กระดาษ	NCMN|ที่	PREL|พรินต์	VACT|ภาพถ่าย	NCMN|จาก	RPRE|กล้องวงจรปิด	NCMN|ที่นี่	NCMN
+ใน	RPRE|ภาพ	NCMN|เห็น	VSTA|ฉัน	PPRS|ขับรถ	VACT|ไป	XVAE|กับ	RPRE|ผู้ชาย	NCMN|คน	CNIT|นั้น	DDAC|อย่าง	FIXV|ชัดเจน	VATT
+ฉัน	PPRS|ใจสลาย	VSTA|หมด	VSTA|คำแก้ตัว	NCMN
+เขา	PPRS|ไม่	NEG|ยอม	VACT|พูด	VACT|อะไร	PNTR|เลย	XVAE
+ไม่	NEG|ว่า	JSBR|จะ	XVBM|ขอโทษ	VACT|อ้อนวอน	VACT|เขา	PPRS|เพียงใด	ADVN|ก็ตาม	JCRG
+ฉัน	PPRS|กอด	VACT|เขา	PPRS|แน่น	ADVN|อยู่	VSTA|อย่างนั้น	NCMN|หวัง	VSTA|ว่า	JSBR|เขา	PPRS|จะ	XVBM|ใจอ่อน	VSTA|ลง	XVAE
+“	PUNC|เรา	PPRS|พยายาม	VACT|ขนาด	NCMN|นี้	DDAC
+เธอ	PPRS|ยัง	XVBM|ทำ	VACT|กับ	RPRE|เรา	PPRS|ลง	XVAE|ได้	XVAM|ไง	ADVN|”	PUNC
+ฉัน	PPRS|ไม่มี	NEG|คำพูด	NCMN|ใด	DIAC|จะ	XVBM|แก้ตัว	VSTA
+มัน	PPRS|เหมือน	VSTA|คน	NCMN|จมน้ำ	VACT|ที่	PREL|พูด	VACT|อะไร	PNTR|ไม่ออก	NEG
+หายใจ	VACT|ก็	JSBR|แทบ	ADVN|ไม่ได้	NEG
+“	PUNC|ฝ้าย	NPRP|เรา	PPRS|คง	XVBM|ทำ	VACT|แบบนี้	NCMN|ต่อไป	DDAC|ไม่ไหว	NEG|อีกแล้ว	ADVN
+เรา	PPRS|หมดกำลัง	VACT|แล้ว	XVAE
+เรา	PPRS|คง	XVBM|แต่งงาน	VACT|กับ	RPRE|เธอ	PPRS|ไม่ได้	NEG|แล้ว	JSBR
+เรา	PPRS|รับ	VACT|ไม่ได้	NEG|จริงๆ	ADVI|เธอ	PPRS|เข้าใจ	VSTA|เรา	PPRS|เถอะ	VACT|นะ	EAFF|”	PUNC
+เขา	PPRS|พูด	VACT|นิ่งๆ	ADVI
+แต่	JCRG|น้ำตา	NCMN|ยัง	XVBM|ไหล	VACT
+ฉัน	PPRS|กอด	VACT|เขา	PPRS|รั้ง	VACT|เขา	PPRS
+ฉัน	PPRS|กราบ	VACT|เขา	PPRS
+ขอให้	VACT|เขา	PPRS|อภัย	VSTA|ให้	JSBR|ฉัน	PPRS
+และ	JCRG|กลับมา	VACT|รัก	VSTA|กัน	ADVN|เหมือนเดิม	ADVN
+เขา	PPRS|ยังคง	XVBM|นิ่ง	VACT|อยู่	VSTA|อย่างนั้น	NCMN
+ฉัน	PPRS|ไม่	NEG|อาจ	XVMM|รู้	VSTA|ถึง	RPRE|เสี้ยว	NCMN|แห่ง	CNIT|ความเจ็บปวด	NCMN|ใน	RPRE|ใจ	NCMN|ความอับอาย	NCMN|ความอ่อนล้า	NCMN|ของ	RPRE|เขา	PPRS|ได้	VSTA|เลย	ADVN|ว่า	JSBR|มัน	PPRS|ถึง	RPRE|ขีดจำกัด	NCMN|ของ	RPRE|เขา	PPRS|แล้ว	JSBR|จริงๆ	ADVI
+เขา	PPRS|ค่อยๆ	XVAM|แกะ	VACT|มือ	NCMN|ฉัน	PPRS|ออก	XVAE
+และ	JCRG|บอก	VACT|ฉัน	PPRS|ว่า	JSBR|เขา	PPRS|รัก	VSTA|ฉัน	PPRS|มาก	ADVN|และ	JCRG|เสียใจ	VSTA|มาก	ADVN|แค่	DDBQ|ไหน	DIAC
+เขา	PPRS|เดิน	VACT|คอตก	VACT|ออกไป	XVAE
+ฉัน	PPRS|ไม่	NEG|ได้	XVAM|ตาม	RPRE|เขา	PPRS|ไป	XVAE|ด้วย	RPRE|ความรู้สึกผิด	NCMN
+แต่	JCRG|ฉัน	PPRS|ยังคง	XVBM|มีความหวัง	VSTA|ว่า	JSBR|เขา	PPRS|จะ	XVBM|เดิน	VACT|กลับมา	VACT|ให้อภัย	VSTA|ฉัน	PPRS
+และ	JCRG|เรา	PPRS|กลับมา	VACT|รัก	VSTA|กัน	ADVN|เหมือนเดิม	ADVN|ดัง	RPRE|ที่ผ่านมา	NCMN
+ที่นี่	NCMN|เป็น	VSTA|บ้าน	NCMN|เรา	PPRS|สอง	DCNM|คน	CNIT
+อย่างไร	PNTR|เสีย	VSTA|เขา	PPRS|ก็	JSBR|จะ	XVBM|กลับมา	VACT
+ฉัน	PPRS|คิด	VACT|อยู่	VSTA|อย่างนั้น	NCMN
+แต่	JCRG|แล้ว	JSBR|เวลา	NCMN|ก็ได้	XVAE|บอก	VACT|กับ	RPRE|ฉัน	PPRS|ว่า	JSBR|ทุกอย่าง	PNTR|มัน	PPRS|จบ	VSTA|แล้ว	XVAE|จริงๆ	ADVI
+เขา	PPRS|ไม่กลับมา	NEG|บ้าน	NCMN|อีก	ADVN|เลย	XVAE
+ฉัน	PPRS|รอ	VSTA|อยู่	VSTA|อย่างนั้น	NCMN|หลาย	DIBQ|วัน	CMTR
+ทั้ง	JCRG|โทร	VACT|ตาม	XVAE|ที่ไหน	PNTR|ก็	JSBR|ติดต่อ	VACT|เขา	PPRS|ไม่ได้	NEG
+ฉัน	PPRS|ร้อนใจ	VSTA|อยู่	VSTA|อย่างนั้น	NCMN
+สักพัก	NCMN|เลขา	NCMN|เขา	PPRS|เดิน	VACT|เข้ามา	VACT|บอก	VACT|ความจริง	NCMN|ทุกอย่าง	PNTR|กับ	RPRE|ฉัน	PPRS|ว่า	JSBR|เขา	PPRS|ได้	XVAM|เดินทาง	VACT|ไป	XVAE|ต่างประเทศ	NCMN|แล้ว	XVAE
+เพราะ	JSBR|เขา	PPRS|ทนไม่ไหว	VSTA|ที่จะ	JSBR|มอง	VACT|ฉัน	PPRS
+เขา	PPRS|ทิ้ง	VACT|เงินก้อน	NCMN|ใหญ่	VATT|ไว้	XVAE|ให้	JSBR|ฉัน	PPRS
+เลขา	NCMN|บอก	VACT|ว่า	JSBR|เขา	PPRS|ฝาก	VACT|ให้	JSBR|ฉัน	PPRS|ใช้	VACT|มัน	PPRS|เรียนต่อ	VACT
+ใช้	VACT|ทำตาม	VACT|ความฝัน	NCMN|ฉัน	PPRS|ต่อไป	ADVN
+ฉัน	PPRS|ยังอยู่	VSTA|ใน	RPRE|บ้าน	NCMN|หลัง	DONM|นี้	DDAC|ได้	XVAE
+แต่	JCRG|เขา	PPRS|จะ	XVBM|ไม่มีวัน	NEG|กลับมา	VACT|อีกแล้ว	ADVN
+สุดท้าย	JSBR|เขา	PPRS|ฝาก	VACT|มา	VACT|ขอโทษ	VACT|ที่	PREL|เขา	PPRS|ไม่สามารถ	NEG|แต่งงาน	VACT|หรือ	JCRG|อยู่	VSTA|กับ	RPRE|ฉัน	PPRS|ได้	XVAE|อีกแล้ว	ADVN
+โลก	NCMN|ของ	RPRE|ฉัน	PPRS|พังทลาย	VACT
+ฉัน	PPRS|รีบ	VACT|เก็บ	VACT|ข้าวของ	NCMN|ใส่	VACT|รถ	NCMN|พร้อม	VSTA|เงินก้อน	NCMN|นั้น	DDAC
+ฉัน	PPRS|เก็บ	VACT|แมว	NCMN|ของ	RPRE|เรา	PPRS|ที่	PREL|เลี้ยง	VACT|ด้วยกัน	ADVN|ไป	XVAE|ด้วย	ADVN
+ฉัน	PPRS|เก็บ	VACT|ทุกอย่าง	PNTR|เข้า	VACT|รถ	NCMN
+รีบ	VACT|ขับรถ	VACT|ออกจาก	RPRE|บ้าน	NCMN|ที่	PREL|เคย	XVMM|เกือบจะ	XVBM|เป็น	VSTA|เรือนหอ	NCMN|ของ	RPRE|เรา	PPRS|ไป	XVAE
+ฉัน	PPRS|ไม่สามารถ	NEG|อยู่	VSTA|ที่นั่น	PDMN|ได้	XVAE|เช่นกัน	ADVN
+ฉัน	PPRS|หยุด	VACT|ร้องไห้	VACT|เพื่อที่จะ	JSBR|สามารถ	XVAM|ขับรถ	VACT|นานๆ	ADVI|กลับ	VACT|กรุงเทพฯ	NPRP|ได้	XVAE
+ฉัน	PPRS|มุ่ง	VACT|กลับ	VACT|ไป	XVAE|คอนโด	NCMN|ของ	RPRE|ฉัน	PPRS
+ที่	NCMN|ที่	PREL|เป็น	VSTA|ของ	RPRE|ฉัน	PPRS
+ที่	NCMN|ที่	PREL|ปลอดภัย	VSTA|จาก	RPRE|ทุกอย่าง	PNTR
+ท่ามกลาง	RPRE|การ	FIXN|พยายาม	VACT|ดึง	VACT|รั้ง	VACT|ฉัน	PPRS|ไม่	NEG|ให้	VACT|ไป	XVAE|ไหน	PNTR|ของ	RPRE|พ่อ	NCMN|และ	JCRG|แม่	NCMN
+แต่	JCRG|ฉัน	PPRS|ก็	JSBR|คือ	VSTA|ฉัน	PPRS
+ไม่	NEG|มี	VSTA|ใคร	PNTR|มีอิทธิพล	VSTA|เหนือ	VSTA|ฉัน	PPRS
+ฉัน	PPRS|ขับ	VACT|ออก	XVAE|ไป	XVAE|ไกล	ADVN
+ใจ	NCMN|หยุด	VACT|คิดถึง	VSTA|เรื่อง	NCMN|ของ	RPRE|เขา	PPRS|เหมือน	VSTA|สับ	VACT|สวิตช์	NCMN|ลง	XVAE
+และ	JCRG|ตั้งใจ	VSTA|คิด	VSTA|ว่า	JSBR|ต่อไป	ADVN|ฉัน	PPRS|จะ	XVBM|ทำ	VACT|อย่างไร	PNTR|กับ	RPRE|ชีวิต	NCMN|ดี	VATT|หนอ	ADVN
+ใน	RPRE|เสี้ยว	NCMN|สุดท้าย	DONM|ก่อน	RPRE|สวิตช์	NCMN|นั้น	DDAC|จะ	XVBM|สับ	VACT|ลง	XVAE
+ฉัน	PPRS|นึก	VSTA|เสียดาย	VSTA|ที่	PREL|รีบ	VACT|ออกมา	XVAE|จาก	RPRE|วอร์ด	NCMN|จิตเวช	NCMN|นั้น	DDAC|เร็ว	VATT|เกินไป	ADVN
+ฉัน	PPRS|นึก	VSTA|สงสัย	VSTA|ว่า	JSBR|ถ้า	JSBR|ฉัน	PPRS|แค่	DDBQ|ยอมรับ	VACT|การบำบัด	NCMN|ต่อไป	ADVN
+ฉัน	PPRS|อาจ	XVMM|ไม่ต้อง	NEG|สูญเสีย	VACT|คน	NCMN|ที่	PREL|รัก	VSTA|ฉัน	PPRS|มาก	VATT|ที่สุด	ADVN|อย่าง	JSBR|เขา	PPRS|ไป	XVAE|ก็	JSBR|เป็นได้	VSTA
+แต่	JCRG|จบ	VSTA|ก็	JSBR|คือ	VSTA|จบ	VSTA
+ชีวิต	NCMN|ฉัน	PPRS|ต้อง	XVMM|วิ่ง	VACT|ต่อไป	ADVN|ไม่	NEG|ว่า	JSBR|มัน	PPRS|จะ	XVBM|ล้ม	VACT
+แต่	JCRG|ฉัน	PPRS|ไม่ใช่	NEG|คน	NCMN|ที่จะ	JSBR|ยอมแพ้	VACT|อะไร	PNTR|ง่ายๆ	VATT
+รถ	NCMN|ฉัน	PPRS|แล่น	VACT|ผ่าน	VACT|ไป	XVAE|จังหวัด	NCMN|ต่อ	RPRE|จังหวัด	NCMN|จนถึง	RPRE|คอนโด	NCMN|ฉัน	PPRS|รวดเดียว	DCNM|ใน	RPRE|7	DCNM|ชั่วโมง	CMTR
+ฉัน	PPRS|ทิ้งตัว	VACT|ลง	XVAE|กับ	RPRE|เตียง	NCMN
+ร้องไห้	VACT|ด้วย	RPRE|ความเหนื่อยล้า	NCMN|และ	JCRG|ปวดร้าวใจ	NCMN|จน	JSBR|หลับ	VACT|ไป	XVAE|ทั้งอย่างนั้น	NCMN
+นี่	PDMN|น่ะ	VACT|หรือ	EITT|สัญญา	NCMN|ที่ว่า	PREL|จะ	XVBM|ไม่มีวัน	NEG|ทอดทิ้ง	VACT|ฉัน	PPRS
+นั่น	PDMN|คือ	VSTA|ความคิด	NCMN|สุดท้าย	DONM|ก่อน	RPRE|ตา	NCMN|ฉัน	PPRS|จะ	XVBM|ปิด	VACT|ลง	XVAE

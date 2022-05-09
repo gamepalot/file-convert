@@ -1,0 +1,2279 @@
+14BorderlinePersonalityDisorder
+14	NLBL
+BorderlinePersonalityDisorder	PUNC
+EOS
+หลังจากกลับมายังบ้านเราสองคนที่เชียงใหม่เราใช้เวลาอยู่ด้วยกันอย่างมีความสุขจนฉันลืมว่าฉันเคยทำอะไรลงไปเมื่อสัปดาห์ที่ผ่านมา
+หลังจาก	JSBR
+กลับ	VACT
+มายัง	RPRE
+บ้าน	NCMN
+เรา	PPRS
+สอง	DCNM
+คน	NCMN
+ที่	PREL
+เชียงใหม่	NPRP
+เรา	PPRS
+ใช้เวลา	VSTA
+อยู่	XVAE
+ด้วยกัน	ADVN
+อย่าง	FIXV
+มีความสุข	VATT
+จน	JSBR
+ฉัน	NCMN
+ลืม	NCMN
+ว่า	JSBR
+ฉัน	PPRS
+เคย	XVMM
+ทำ	VACT
+อะไร	PNTR
+ลง	XVAE
+ไป	XVAE
+เมื่อ	JSBR
+สัปดาห์	NCMN
+ที่ผ่านมา	NCMN
+EOS
+คู่หมั้นฉันมาวาดรูปกับฉันบ่อยๆ
+คู่หมั้น	NCMN
+ฉัน	PPRS
+มา	VACT
+วาดรูป	NCMN
+กับ	RPRE
+ฉัน	NCMN
+บ่อยๆ	ADVI
+EOS
+เราทำงานด้วยกันในห้องเดียวกัน
+เรา	PPRS
+ทำงาน	VACT
+ด้วยกัน	ADVN
+ใน	RPRE
+ห้อง	NCMN
+เดียวกัน	DDAC
+EOS
+เขาเฝ้าฉันไม่ให้คลาดสายตาอย่างที่สัญญากับแม่ฉันไว้จริงๆ
+เขา	PPRS
+เฝ้า	VSTA
+ฉัน	PPRS
+ไม่	NEG
+ให้	XVAM
+คลาด	VACT
+สายตา	NCMN
+อย่าง	NCMN
+ที่	PREL
+สัญญา	VACT
+กับ	RPRE
+แม่	NCMN
+ฉัน	NCMN
+ไว้	XVAE
+จริงๆ	ADVI
+EOS
+เขานั่งพิมพ์งานที่โต๊ะคอมพิวเตอร์ส่วนฉันก็ยืนวาดรูปไปเรื่อยๆตามแต่ใจฉันคิดนำไป
+เขา	PPRS
+นั่ง	VACT
+พิมพ์	VACT
+งาน	NCMN
+ที่	PREL
+โต๊ะ	NCMN
+คอมพิวเตอร์	NCMN
+ส่วน	NCMN
+ฉัน	NCMN
+ก็	JSBR
+ยืน	VACT
+วาดรูป	VACT
+ไป	XVAE
+เรื่อยๆ	ADVI
+ตามแต่	JSBR
+ใจ	NCMN
+ฉัน	PPRS
+คิด	VACT
+นำ	VACT
+ไป	XVAE
+EOS
+เราไม่ได้อยู่ห่างกันสักนิดเลย
+เรา	PPRS
+ไม่	NEG
+ได้	XVAM
+อยู่	VSTA
+ห่าง	VATT
+กัน	ADVN
+สักนิด	ADVN
+เลย	XVAE
+EOS
+ฉันมีความสุขมากจนลืมไปเลยว่าฉันยังมีข้อสงสัยว่าอีกโรคที่ฉันเป็นมันเป็นโรคอะไร
+ฉัน	PPRS
+มีความสุข	VATT
+มาก	ADVN
+จน	JSBR
+ลืม	VACT
+ไป	XVAE
+เลย	XVAE
+ว่า	JSBR
+ฉัน	PPRS
+ยังมี	VACT
+ข้อสงสัย	NCMN
+ว่า	JSBR
+อีก	ADVN
+โรค	NCMN
+ที่	PREL
+ฉัน	PPRS
+เป็นมัน	NCMN
+เป็นโรค	NCMN
+อะไร	PNTR
+EOS
+ช่วงแรกๆที่เรากลับมาเชียงใหม่ก่อนอื่นเขาพาฉันไปลาออกจากมหาวิทยาลัยพร้อมยื่นใบส่งตัวว่าฉันป่วยเกินไปเกินกว่าจะเรียนต่อ
+ช่วงแรก	NCMN
+ๆ	PUNC
+ที่	PREL
+เรา	PPRS
+กลับมา	VACT
+เชียงใหม่	NPRP
+ก่อนอื่น	RPRE
+เขา	PPRS
+พา	VACT
+ฉัน	PPRS
+ไป	XVAE
+ลา	NCMN
+ออกจาก	VACT
+มหาวิทยาลัย	NCMN
+พร้อม	VSTA
+ยื่น	NCMN
+ใบ	NCMN
+ส่งตัว	NCMN
+ว่า	JSBR
+ฉัน	PPRS
+ป่วย	VACT
+เกินไป	ADVN
+เกิน	ADVN
+กว่า	JCMP
+จะ	NCMN
+เรียนต่อ	NCMN
+EOS
+ใจฉันนึกเสียดายอยู่มากเพราะใกล้จะจบแล้วแต่เขาบอกฉันว่าการตัดสินใจนี้จะทำให้ฉันคลายกังวลลงและดีขึ้น(ซึ่งก็จริงดังเขาพูด)
+ใจ	NCMN
+ฉัน	PPRS
+นึก	VACT
+เสียดาย	NCMN
+อยู่	XVAE
+มาก	ADVN
+เพราะ	JSBR
+ใกล้	VATT
+จะ	XVBM
+จบ	VSTA
+แล้วแต่	JSBR
+เขา	PPRS
+บอก	VACT
+ฉัน	PPRS
+ว่า	JSBR
+การตัดสินใจ	NCMN
+นี้	DDAC
+จะ	XVBM
+ทำให้	VACT
+ฉัน	NCMN
+คลายกังวล	NCMN
+ลง	XVAE
+และ	JCRG
+ดีขึ้น	NCMN
+<left_parenthesis>	PUNC
+ซึ่ง	JSBR
+ก็	JSBR
+จริง	VATT
+ดัง	RPRE
+เขา	PPRS
+พูด	VACT
+<right_parenthesis>	PUNC
+EOS
+เขายังบอกอีกว่ารอให้ฉันหายดีเขาจะพาฉันไปสมัครเรียนต่อเอกด้านศิลปะและปรัชญาดังที่ฉันอยากเรียนด้วยตัวของเขาเอง
+เขา	PPRS
+ยัง	XVBM
+บอก	VACT
+อีก	NCMN
+ว่า	JCMP
+รอ	VSTA
+ให้	JSBR
+ฉัน	PPRS
+หาย	VSTA
+ดี	NCMN
+เขา	PPRS
+จะ	XVBM
+พา	VACT
+ฉัน	NCMN
+ไป	XVAE
+สมัคร	VACT
+เรียนต่อ	NCMN
+เอก	NCMN
+ด้าน	NCMN
+ศิลปะ	NCMN
+และ	JCRG
+ปรัชญา	NCMN
+ดังที่	JSBR
+ฉัน	PPRS
+อยาก	XVMM
+เรียน	VACT
+ด้วย	RPRE
+ตัว	NCMN
+ของ	RPRE
+เขา	PPRS
+เอง	PDMN
+EOS
+ฉันยังคงสงสัยไม่หายว่าโรคอีกโรคที่ฉันถูกวินิจฉัยไว้ว่าอันตรายมันคือโรคอะไร
+ฉัน	PPRS
+ยังคง	XVBM
+สงสัย	VACT
+ไม่	NEG
+หาย	VSTA
+ว่า	JSBR
+โรค	NCMN
+อีก	DDBQ
+โรค	NCMN
+ที่	PREL
+ฉัน	PPRS
+ถูก	XVAM
+วินิจฉัย	VACT
+ไว้	XVAE
+ว่า	JSBR
+อันตราย	VATT
+มัน	PPRS
+คือ	VSTA
+โรค	NCMN
+อะไร	PNTR
+EOS
+คำว่า“BorderlinePersonalityDisorder”แปลเป็นไทยตรงๆคือเหมือนอยู่ระหว่างขอบของอะไรสักอย่าง
+คำ	NCMN
+ว่า	RPRE
+“	NCMN
+BorderlinePersonalityDisorder	NCMN
+”	NCMN
+แปล	VACT
+เป็น	VSTA
+ไทย	NCMN
+ตรงๆ	NCMN
+คือ	VSTA
+เหมือน	VSTA
+อยู่	XVAE
+ระหว่าง	RPRE
+ขอบ	NCMN
+ของ	RPRE
+อะไร	PNTR
+สัก	XVAE
+อย่าง	FIXV
+EOS
+ฉันยังไม่เข้าใจมัน
+ฉัน	PPRS
+ยัง	XVBM
+ไม่	NEG
+เข้าใจ	VSTA
+มัน	PPRS
+EOS
+เพื่อให้หายสงสัยฉันจึงเปิดคอมพิวเตอร์หลังจากไม่ได้แตะมันมานานตั้งแต่เกิดเรื่องขึ้นมา
+เพื่อให้	JSBR
+หาย	VSTA
+สงสัย	VACT
+ฉัน	PPRS
+จึง	XVBM
+เปิด	VACT
+คอมพิวเตอร์	NCMN
+หลังจาก	JSBR
+ไม่	NEG
+ได้	XVAM
+แตะ	VACT
+มัน	VATT
+มา	XVAE
+นาน	ADVN
+ตั้งแต่	RPRE
+เกิดเรื่อง	NCMN
+ขึ้น	XVAE
+มา	XVAE
+EOS
+ฉันเริ่มค้นถึงชื่อของโรคโดยตรงตามเว็บไซต์ทั้งภาษาไทยและภาษาอังกฤษแล้วพรินต์ออกมาอ่านให้เข้าใจถ่องแท้
+ฉัน	PPRS
+เริ่ม	XVAM
+ค้น	VACT
+ถึง	RPRE
+ชื่อ	NCMN
+ของ	RPRE
+โรค	NCMN
+โดยตรง	ADVP
+ตาม	RPRE
+เว็บไซต์	NCMN
+ทั้ง	DDBQ
+ภาษาไทย	NPRP
+และ	JCRG
+ภาษาอังกฤษ	NPRP
+แล้ว	XVAE
+พรินต์	VACT
+ออกมา	XVAE
+อ่าน	VACT
+ให้	RPRE
+เข้าใจถ่องแท้	NCMN
+EOS
+เมื่อฉันอ่านถึงหน้าสุดท้ายฉันถอนหายใจยาวเฮือกใหญ่
+เมื่อ	JSBR
+ฉัน	PPRS
+อ่าน	VACT
+ถึง	RPRE
+หน้า	NCMN
+สุดท้าย	DONM
+ฉัน	PPRS
+ถอนหายใจ	NCMN
+ยาว	VATT
+เฮือก	DIAQ
+ใหญ่	VATT
+EOS
+น้ำตาคลอจะร้องไห้
+น้ำตา	NCMN
+คลอ	VACT
+จะ	XVBM
+ร้องไห้	VACT
+EOS
+แต่ฉันยังคงค้นหาโอกาสที่จะหายขาดแต่หาเท่าไรก็หาไม่เจอ
+แต่	JCRG
+ฉัน	PPRS
+ยังคง	XVBM
+ค้นหา	VACT
+โอกาส	NCMN
+ที่จะ	JSBR
+หายขาด	VSTA
+แต่	JCRG
+หา	VACT
+เท่าไร	PNTR
+ก็	JSBR
+หาไม่	NCMN
+เจอ	VACT
+EOS
+เว็บไซต์NIHMที่เป็นเว็บไซต์ของสถาบันด้านจิตเวชแห่งชาติของสหรัฐอเมริกาเว็บนี้ให้ความรู้อย่างมาก
+เว็บไซต์	NCMN
+NIHM	NCMN
+ที่	PREL
+เป็น	VSTA
+เว็บไซต์	NCMN
+ของ	RPRE
+สถาบันด้านจิตเวชแห่งชาติของสหรัฐอเมริกา	NPRP
+เว็บ	NCMN
+นี้	DDAC
+ให้ความรู้	FIXN
+อย่าง	FIXV
+มาก	VATT
+EOS
+หลังจากฉันอ่านครบหมดแล้วทำให้ฉันเกิดความเข้าใจในตัวเองและข้อมูลในนั้นสามารถอธิบายการกระทำประหลาดๆก่อนหน้านี้ได้
+หลังจาก	JSBR
+ฉัน	PPRS
+อ่าน	VACT
+ครบ	ADVN
+หมด	ADVN
+แล้ว	ADVN
+ทำให้	JSBR
+ฉัน	PPRS
+เกิด	VSTA
+ความเข้าใจ	NCMN
+ใน	RPRE
+ตัวเอง	PDMN
+และ	JCRG
+ข้อมูล	NCMN
+ใน	RPRE
+นั้น	DDAC
+สามารถ	XVAM
+อธิบาย	VACT
+การกระทำ	NCMN
+ประหลาด	NCMN
+ๆ	NCMN
+ก่อนหน้านี้	NCMN
+ได้	XVAE
+EOS
+แต่ถึงอย่างนั้นก็เถอะอีกความรู้สึกที่โดดเด่นออกมาหลังจากฉันรวบรวมหาข้อมูลทั้งหมดฉันได้แต่นั่งน้ำตาตกเพราะโรคนี้เป็นโรคทางบุคลิกภาพไม่มีวันจะหายขาด
+แต่	JCRG
+ถึง	RPRE
+อย่างนั้น	NCMN
+ก็	JSBR
+เถอะ	NCMN
+อีก	DDBQ
+ความรู้สึก	NCMN
+ที่	PREL
+โดดเด่น	VSTA
+ออกมา	XVAE
+หลังจาก	JSBR
+ฉัน	PPRS
+รวบรวม	VACT
+หา	VACT
+ข้อมูล	NCMN
+ทั้งหมด	DDAN
+ฉัน	PPRS
+ได้	XVAE
+แต่	JCRG
+นั่ง	VACT
+น้ำตา	NCMN
+ตก	VACT
+เพราะ	JSBR
+โรค	NCMN
+นี้	DDAC
+เป็นโรค	VSTA
+ทาง	RPRE
+บุคลิกภาพ	NCMN
+ไม่	NEG
+มี	VSTA
+วัน	NCMN
+จะ	XVBM
+หายขาด	VSTA
+EOS
+ฉันต้องเป็นคนแบบนี้ทรมานแบบนี้ไปตลอดชีวิตไม่มีแม้กระทั่งยาที่แปะป้ายไว้ว่าใช้รักษาโรคBorderlinePersonalityDisorderหรือที่เขาย่อกันในเอกสารที่ฉันรวบรวมมาว่า“BPD”
+ฉัน	PPRS
+ต้อง	XVMM
+เป็น	VSTA
+คน	NCMN
+แบบนี้	NCMN
+ทรมาน	NCMN
+แบบนี้	NPRP
+ไป	XVAE
+ตลอดชีวิต	NCMN
+ไม่	NEG
+มี	VSTA
+แม้กระทั่ง	RPRE
+ยา	NCMN
+ที่	PREL
+แปะ	VSTA
+ป้าย	NCMN
+ไว้	XVAE
+ว่า	JSBR
+ใช้	VACT
+รักษาโรค	NCMN
+BorderlinePersonalityDisorder	NCMN
+หรือ	JCRG
+ที่	JSBR
+เขา	PPRS
+ย่อ	VACT
+กัน	PDMN
+ใน	RPRE
+เอกสาร	NCMN
+ที่	PREL
+ฉัน	PPRS
+รวบรวม	VACT
+มา	XVAE
+ว่า	JSBR
+“	NCMN
+BPD	NCMN
+”	NPRP
+EOS
+ไม่มีปาฏิหาริย์ใดๆที่จะทำให้ฉันหายขาดได้มีแต่การบำบัดด้วยวิธีดีบีที(DBT:DialecticalBehaviorTherapy)ซึ่งเป็นการบำบัดด้วยการพูดคุยหรือวิธีซีบีที(CBT:CognitiveBehaviorTherapy)คือการบำบัดด้านการเรียนรู้การจดจำ
+ไม่	NEG
+มี	VSTA
+ปาฏิหาริย์	NCMN
+ใดๆ	DIAC
+ที่จะ	JSBR
+ทำให้	JSBR
+ฉัน	PPRS
+หายขาด	VSTA
+ได้	XVAE
+มี	VSTA
+แต่	JCRG
+การบำบัด	NCMN
+ด้วย	RPRE
+วิธี	NCMN
+ดีบีที	NPRP
+<left_parenthesis>	PUNC
+DBT	NCMN
+<colon>	PUNC
+DialecticalBehaviorTherapy	NPRP
+<right_parenthesis>	PUNC
+ซึ่ง	JSBR
+เป็น	VSTA
+การบำบัด	NCMN
+ด้วย	RPRE
+การ	FIXN
+พูดคุย	VACT
+หรือ	JCRG
+วิธี	NCMN
+ซีบีที	NPRP
+<left_parenthesis>	PUNC
+CBT	NCMN
+<colon>	PUNC
+CognitiveBehaviorTherapy	NCMN
+<right_parenthesis>	PUNC
+คือ	VSTA
+การบำบัด	NCMN
+ด้าน	NCMN
+การเรียนรู้	NCMN
+การ	FIXN
+จดจำ	VACT
+EOS
+สรุปแล้วฉันต้องเรียนรู้เพียงเพื่อจะอยู่กับโรคร้ายนี้อย่างไรให้ได้เพียงแค่นั้นใช่ไหม
+สรุป	VACT
+แล้ว	JSBR
+ฉัน	PPRS
+ต้อง	XVMM
+เรียนรู้	VACT
+เพียง	ADVN
+เพื่อ	JSBR
+จะ	XVBM
+อยู่	VSTA
+กับ	RPRE
+โรค	NCMN
+ร้าย	VATT
+นี้	DDAC
+อย่างไร	PNTR
+ให้ได้	NCMN
+เพียง	DDBQ
+แค่นั้น	NCMN
+ใช่ไหม	DCNM
+EOS
+ฉันยิ่งอ่านก็ยิ่งรู้สึกผิดหวังในตัวเองปลงและสิ้นหวัง
+ฉัน	PPRS
+ยิ่ง	XVBM
+อ่าน	VACT
+ก็	JSBR
+ยิ่ง	ADVN
+รู้สึก	VSTA
+ผิดหวัง	NCMN
+ใน	RPRE
+ตัวเอง	PDMN
+ปลง	VACT
+และ	JCRG
+สิ้นหวัง	NPRP
+EOS
+ถ้าถามว่ายาที่ฉันได้มาจากโรงพยาบาลล่ะมันช่วยรักษาฉันอย่างไร
+ถ้า	JSBR
+ถาม	VACT
+ว่า	JSBR
+ยา	NCMN
+ที่	PREL
+ฉัน	PPRS
+ได้	XVAM
+มาจาก	VACT
+โรงพยาบาล	NCMN
+ล่ะ	PDMN
+มัน	PPRS
+ช่วย	VACT
+รักษา	VACT
+ฉัน	NCMN
+อย่างไร	PNTR
+EOS
+คำตอบคือมันแค่ทำให้พฤติกรรมฉันนิ่งขึ้นอารมณ์ไม่ขึ้นๆลงๆมากมาย
+คำตอบ	NCMN
+คือ	VSTA
+มัน	PPRS
+แค่	DDBQ
+ทำให้	VACT
+พฤติกรรม	NCMN
+ฉัน	PPRS
+นิ่ง	VACT
+ขึ้น	XVAE
+อารมณ์	NCMN
+ไม่	NEG
+ขึ้นๆลงๆ	ADVN
+มากมาย	ADVN
+EOS
+และช่วยในเรื่องความหุนหันพลันแล่นความรู้สึกเสียใจซึ่งก็เป็นตัวเดียวกับยารักษาโรคMajorDepressiveDisorderด้วยนั้นแหละ
+และ	JCRG
+ช่วย	VACT
+ใน	RPRE
+เรื่อง	NCMN
+ความ	FIXN
+หุนหันพลันแล่น	VACT
+ความรู้สึก	NCMN
+เสียใจ	NPRP
+ซึ่ง	PREL
+ก็	JSBR
+เป็นตัว	NCMN
+เดียว	DIAC
+กับ	RPRE
+ยารักษาโรค	NCMN
+MajorDepressiveDisorder	NCMN
+ด้วย	RPRE
+นั้นแหละ	NCMN
+EOS
+คุณอยากรู้หรือยังว่าทำไมหลังฉันอ่านฉันถึงเกิดแต่ความคิดและความรู้สึกที่ติดลบกับตัวเองได้มากมายถึงขนาดนี้
+คุณ	NTTL
+อยากรู้	NPRP
+หรือยัง	EITT
+ว่า	JSBR
+ทำไม	VACT
+หลัง	RPRE
+ฉัน	PPRS
+อ่าน	VACT
+ฉัน	PPRS
+ถึง	RPRE
+เกิด	VSTA
+แต่	JCRG
+ความคิด	NCMN
+และ	JCRG
+ความรู้สึก	NCMN
+ที่	PREL
+ติดลบ	VSTA
+กับ	RPRE
+ตัวเอง	PDMN
+ได้	XVAE
+มากมาย	ADVN
+ถึงขนาด	NCMN
+นี้	DDAC
+EOS
+ฉันจะย่อยจากบทความในNIHMให้คุณฟังดังนี้
+ฉัน	PPRS
+จะ	XVBM
+ย่อย	VACT
+จาก	RPRE
+บท	NCMN
+ความใน	NCMN
+NIHM	NCMN
+ให้	JSBR
+คุณ	PPRS
+ฟัง	VACT
+ดังนี้	JSBR
+EOS
+โรคBorderlinePersonalityDisorderเป็นโรคที่มีลักษณะมุ่งตรงไปยังเรื่องของอารมณ์และความสัมพันธ์เป็นที่ตั้ง
+โรค	NCMN
+BorderlinePersonalityDisorder	NCMN
+เป็นโรค	NCMN
+ที่	PREL
+มี	VSTA
+ลักษณะ	NCMN
+มุ่ง	VACT
+ตรง	VATT
+ไป	XVAE
+ยัง	RPRE
+เรื่อง	NCMN
+ของ	RPRE
+อารมณ์	NCMN
+และ	JCRG
+ความสัมพันธ์	NCMN
+เป็นที่ตั้ง	NCMN
+EOS
+โรคนี้เป็นปัญหาอย่างมากในเรื่องความสัมพันธ์ไม่ว่าจะในความสัมพันธ์ระหว่างคนรักครอบครัวหรือเพื่อนร่วมงานแทบจะในทุกความสัมพันธ์ที่ผู้ป่วยมีเลยก็ว่าได้
+โรค	NCMN
+นี้	DDAC
+เป็นปัญหา	XVAE
+อย่าง	FIXV
+มาก	VATT
+ใน	RPRE
+เรื่อง	NCMN
+ความสัมพันธ์	NCMN
+ไม่	NEG
+ว่า	JSBR
+จะ	XVBM
+ใน	RPRE
+ความสัมพันธ์	NCMN
+ระหว่าง	RPRE
+คนรัก	NCMN
+ครอบครัว	NCMN
+หรือ	JCRG
+เพื่อนร่วมงาน	NCMN
+แทบจะ	NCMN
+ใน	RPRE
+ทุก	DIBQ
+ความสัมพันธ์	NCMN
+ที่	PREL
+ผู้ป่วย	NCMN
+มี	VSTA
+เลย	XVAE
+ก็	JSBR
+ว่า	JSBR
+ได้	XVAM
+EOS
+อย่างแรกคือกลัวการถูกทอดทิ้งอย่างรุนแรงและพยายามทำทุกอย่างเพื่อไม่ให้มันเกิดขึ้น
+อย่าง	NCMN
+แรก	DONM
+คือ	VSTA
+กลัว	VSTA
+การ	FIXN
+ถูก	XVAM
+ทอดทิ้ง	VACT
+อย่าง	FIXV
+รุนแรง	VATT
+และ	JCRG
+พยายาม	VACT
+ทำ	VACT
+ทุกอย่าง	PDMN
+เพื่อ	JSBR
+ไม่	NEG
+ให้	VACT
+มัน	PPRS
+เกิดขึ้น	VSTA
+EOS
+ผู้ป่วยจะกลัวมากจะนึกไปเสมอว่ามันจะต้องเกิดขึ้นแน่นอนโดยเกิดขึ้นได้ทั้งในจินตนาการและในความเป็นจริง
+ผู้ป่วย	NCMN
+จะ	XVBM
+กลัว	VSTA
+มาก	ADVN
+จะ	XVBM
+นึก	VACT
+ไป	XVAE
+เสมอ	ADVN
+ว่า	JSBR
+มัน	PPRS
+จะ	XVBM
+ต้อง	XVMM
+เกิดขึ้น	VSTA
+แน่นอน	ADVN
+โดย	FIXV
+เกิดขึ้น	VSTA
+ได้	XVAE
+ทั้ง	DDBQ
+ในจินตนาการ	NCMN
+และ	JCRG
+ในความเป็นจริง	NPRP
+EOS
+ทั้งนี้เมื่อคนไข้เริ่มเห็นลางบอกเหตุนั้นๆจะมีปฏิกิริยาอันไม่พึงประสงค์มากมายเกิดขึ้นเพื่อพยายามรั้งความสัมพันธ์นั้นๆไม่ให้หายไป
+ทั้งนี้	JCRG
+เมื่อ	JSBR
+คนไข้	NCMN
+เริ่ม	VSTA
+เห็น	VSTA
+ลางบอกเหตุ	NCMN
+นั้นๆ	DDAN
+จะ	XVBM
+มี	VSTA
+ปฏิกิริยา	NCMN
+อัน	PREL
+ไม่	NEG
+พึงประสงค์	VATT
+มากมาย	ADVN
+เกิดขึ้น	VSTA
+เพื่อ	JSBR
+พยายาม	VACT
+รั้ง	NCMN
+ความสัมพันธ์	NCMN
+นั้นๆ	DDAC
+ไม่	NEG
+ให้	XVAM
+หาย	VSTA
+ไป	XVAE
+EOS
+จะรุนแรงหรือไม่ขึ้นอยู่กับช่วงระยะเวลาของความสัมพันธ์นั้นๆที่ได้เกิดขึ้นมาแล้วหรือระดับความใกล้ชิดของความสัมพันธ์
+จะ	NCMN
+รุนแรง	VATT
+หรือไม่	EITT
+ขึ้นอยู่กับ	VSTA
+ช่วง	NCMN
+ระยะเวลา	NCMN
+ของ	RPRE
+ความสัมพันธ์	NCMN
+นั้นๆ	DDAN
+ที่	PREL
+ได้	VSTA
+เกิดขึ้น	VSTA
+มา	XVAE
+แล้ว	ADVN
+หรือ	JCRG
+ระดับ	NCMN
+ความใกล้ชิด	NCMN
+ของ	RPRE
+ความสัมพันธ์	NCMN
+EOS
+ความกลัวเหล่านั้นอาจก่อให้เกิดพฤติกรรมเรียกร้องความสนใจอย่างรุนแรงจากคนรักเช่นขู่จะทำร้ายตนเองถ้าคนรักจะทิ้งไป
+ความกลัว	NCMN
+เหล่านั้น	DDAC
+อาจ	XVMM
+ก่อให้เกิด	VACT
+พฤติกรรม	NCMN
+เรียกร้อง	VACT
+ความสนใจ	NCMN
+อย่าง	FIXV
+รุนแรง	VATT
+จาก	RPRE
+คนรัก	NCMN
+เช่น	RPRE
+ขู่	NPRP
+จะ	XVBM
+ทำร้าย	NCMN
+ตนเอง	PDMN
+ถ้า	JSBR
+คนรัก	NCMN
+จะ	XVBM
+ทิ้ง	VACT
+ไป	XVAE
+EOS
+การโทร.ติดตามคนรักทุกๆวินาทีกลัวเขาจะหายไป
+การ	NCMN
+โทร.	VACT
+ติดตาม	VACT
+คนรัก	NCMN
+ทุกๆ	DIBQ
+วินาที	CMTR
+กลัว	VSTA
+เขา	PPRS
+จะ	XVBM
+หาย	VSTA
+ไป	XVAE
+EOS
+กลัวเขาไปมีคนอื่น
+กลัว	VSTA
+เขา	PPRS
+ไป	XVAE
+มี	VSTA
+คนอื่น	NCMN
+EOS
+หนักๆเข้าคือเริ่มก่อกวน
+หนัก	VATT
+ๆ	PUNC
+เข้า	XVAE
+คือ	JSBR
+เริ่ม	VSTA
+ก่อกวน	NCMN
+EOS
+ทำร้ายร่างกาย
+ทำร้ายร่างกาย	NCMN
+EOS
+แต่ก็ยังมิวายที่จะวนเวียนทดสอบคนรักของตนว่าความสัมพันธ์นั้นจะยั่งยืนหรือไม่เช่นทดลองทำพฤติกรรมร้ายกาจเพื่อทดสอบว่าเขาจะยังรับตนได้และรักตนอยู่หรือไม่
+แต่	JCRG
+ก็	JSBR
+ยัง	XVBM
+มิ	NEG
+วาย	VSTA
+ที่จะ	JSBR
+วนเวียน	VACT
+ทดสอบ	VACT
+คนรัก	NCMN
+ของ	RPRE
+ตน	PDMN
+ว่า	JSBR
+ความสัมพันธ์	NCMN
+นั้น	DDAC
+จะ	XVBM
+ยั่งยืน	VSTA
+หรือไม่	EITT
+เช่น	JSBR
+ทดลอง	VACT
+ทำ	VACT
+พฤติกรรม	NCMN
+ร้ายกาจ	NCMN
+เพื่อ	JSBR
+ทดสอบ	VACT
+ว่า	JSBR
+เขา	PPRS
+จะ	XVBM
+ยัง	XVBM
+รับ	VACT
+ตน	PPRS
+ได้	XVAM
+และ	JCRG
+รัก	VSTA
+ตน	PPRS
+อยู่	XVAE
+หรือไม่	EITT
+EOS
+อย่างในกรณีฉันคือไปมีคนอื่นและสงสัยอยู่เสมอในคำว่ารักและคำว่าตลอดไปว่าความรักจะจริงจังสักแค่ไหน
+อย่าง	NCMN
+ใน	RPRE
+กรณี	NCMN
+ฉัน	PPRS
+คือ	VSTA
+ไป	XVAE
+มี	VSTA
+คนอื่น	NCMN
+และ	JCRG
+สงสัย	VACT
+อยู่	XVAE
+เสมอ	ADVN
+ใน	RPRE
+คำ	NCMN
+ว่า	JSBR
+รัก	VSTA
+และ	JCRG
+คำ	NCMN
+ว่า	JSBR
+ตลอดไป	ADVN
+ว่า	JSBR
+ความรัก	NCMN
+จะ	XVBM
+จริงจัง	VSTA
+สัก	NCMN
+แค่	DDBQ
+ไหน	DIAC
+EOS
+ผู้ป่วยโรคนี้เหมือนกลัวที่จะรักและเมื่อรักก็กลัวที่จะจากลาจึงทดสอบทำร้ายจิตใจ
+ผู้ป่วย	NCMN
+โรค	NCMN
+นี้	DDAC
+เหมือน	JCMP
+กลัว	VSTA
+ที่จะ	JSBR
+รัก	VSTA
+และ	JCRG
+เมื่อ	JSBR
+รัก	VSTA
+ก็	JSBR
+กลัว	VSTA
+ที่จะ	JSBR
+จา	NCMN
+กลา	NCMN
+จึง	XVBM
+ทดสอบ	VACT
+ทำร้าย	NCMN
+จิตใจ	NCMN
+EOS
+ใช้ความรุนแรงในทุกพฤติกรรม
+ใช้	VACT
+ความรุนแรง	NCMN
+ใน	RPRE
+ทุก	DIBQ
+พฤติกรรม	NCMN
+EOS
+รวมทั้งเตรียมพร้อมที่จะตายและมักจะเสียใจแทบสิ้นสติเมื่อความสัมพันธ์นั้นได้หายไปจริงๆ
+รวมทั้ง	JCRG
+เตรียมพร้อม	VSTA
+ที่จะ	JSBR
+ตาย	VSTA
+และ	JCRG
+มักจะ	XVBM
+เสียใจ	NCMN
+แทบ	ADVN
+สิ้นสติ	DCNM
+เมื่อ	JSBR
+ความสัมพันธ์	NCMN
+นั้น	DDAC
+ได้	XVAM
+หาย	VSTA
+ไป	XVAE
+จริงๆ	ADVI
+EOS
+นอกเหนือจากเรื่องความสัมพันธ์ยังอาจมีลักษณะที่ไม่พึงประสงค์อีกมากมาย
+นอกเหนือจาก	RPRE
+เรื่อง	NCMN
+ความสัมพันธ์	NCMN
+ยัง	XVBM
+อาจ	XVMM
+มี	VSTA
+ลักษณะ	NCMN
+ที่	PREL
+ไม่	NEG
+พึงประสงค์	VATT
+อีก	ADVN
+มากมาย	ADVN
+EOS
+เช่นพฤติกรรมหุนหันพลันแล่นซึ่งอาจก่อให้เกิดอันตรายต่างๆได้
+เช่น	RPRE
+พฤติกรรม	NCMN
+หุนหันพลันแล่น	VATT
+ซึ่ง	PREL
+อาจ	XVMM
+ก่อให้เกิด	VACT
+อันตราย	NCMN
+ต่างๆ	DIAC
+ได้	XVAE
+EOS
+ไม่ว่าจะเป็นใช้เงินสุรุ่ยสุร่าย
+ไม่	NEG
+ว่า	JSBR
+จะ	XVBM
+เป็น	VSTA
+ใช้	VACT
+เงิน	NCMN
+สุรุ่ยสุร่าย	VATT
+EOS
+มีเพศสัมพันธ์กับคนแปลกหน้ามากมายโดยไม่ป้องกัน
+มีเพศสัมพันธ์	NCMN
+กับ	RPRE
+คนแปลกหน้า	NCMN
+มากมาย	ADVN
+โดย	JSBR
+ไม่	NEG
+ป้องกัน	VACT
+EOS
+พฤติกรรมใช้ยาเสพติด
+พฤติกรรม	NCMN
+ใช้	VACT
+ยาเสพติด	NCMN
+EOS
+พฤติกรรมขับรถอย่างหวาดเสียวไม่ระมัดระวัง
+พฤติกรรม	NCMN
+ขับรถ	NCMN
+อย่าง	FIXV
+หวาดเสียว	VACT
+ไม่	NEG
+ระมัดระวัง	VSTA
+EOS
+อีกทั้งในบางกรณียังอาจมีปัญหาทางด้านการกิน
+อีก	DDBQ
+ทั้ง	DDBQ
+ในบางกรณี	NCMN
+ยัง	XVBM
+อาจ	XVMM
+มีปัญหา	NCMN
+ทาง	RPRE
+ด้าน	NCMN
+การ	FIXN
+กิน	VACT
+EOS
+ไม่ว่าจะกินมากไปหรือกินน้อยไป
+ไม่	NEG
+ว่า	JSBR
+จะ	XVBM
+กิน	VACT
+มาก	ADVN
+ไป	XVAE
+หรือ	JCRG
+กิน	VACT
+น้อย	ADVN
+ไป	XVAE
+EOS
+ส่วนพฤติกรรมที่ฉันเห็นว่าแสนจะสำคัญและอันตรายคือ1.มักทำร้ายตัวเองเช่นกรีดร่างกายดึงทิ้งผม
+ส่วน	NCMN
+พฤติกรรม	NCMN
+ที่	PREL
+ฉัน	PPRS
+เห็น	VSTA
+ว่า	JSBR
+แสน	DCNM
+จะ	XVBM
+สำคัญ	VATT
+และ	JCRG
+อันตราย	NCMN
+คือ	VSTA
+1.	NLBL
+มัก	XVBM
+ทำร้าย	VACT
+ตัวเอง	PDMN
+เช่น	RPRE
+กรีด	NCMN
+ร่างกาย	NCMN
+ดึง	VACT
+ทิ้ง	VACT
+ผม	PPRS
+EOS
+มีพฤติกรรมที่ก่อให้ร่างกายเกิดความเจ็บปวดแต่ไม่ถึงขั้นเสียชีวิต
+มี	VSTA
+พฤติกรรม	NCMN
+ที่	PREL
+ก่อ	VACT
+ให้	JSBR
+ร่างกาย	NCMN
+เกิด	VSTA
+ความเจ็บปวด	NCMN
+แต่	JCRG
+ไม่	NEG
+ถึงขั้น	JSBR
+เสียชีวิต	VACT
+EOS
+2.คิดจะฆ่าตัวตายหรือพยายามวางแผนฆ่าตัวตาย
+2.	NLBL
+คิด	VACT
+จะ	XVBM
+ฆ่าตัวตาย	VACT
+หรือ	JCRG
+พยายาม	VACT
+วางแผน	VACT
+ฆ่าตัวตาย	VACT
+EOS
+3.มักมีความคิดด้านลบกับความเป็นตัวตนของผู้ป่วย
+3.	NLBL
+มัก	XVBM
+มี	VSTA
+ความคิด	NCMN
+ด้าน	NCMN
+ลบ	VACT
+กับ	RPRE
+ความ	FIXN
+เป็น	VSTA
+ตัวตน	NCMN
+ของ	RPRE
+ผู้ป่วย	NCMN
+EOS
+เช่นไม่รู้ว่าจริงๆแล้วตนเองคือใครต้องการอะไรอันก่อให้เกิดความรู้สึกที่ว่างเปล่าและทรมานกับความรู้สึกนั้นบ่อยครั้งหรือตลอดเวลา
+เช่น	JSBR
+ไม่	NEG
+รู้	VSTA
+ว่า	JSBR
+จริงๆ	VATT
+แล้ว	XVAE
+ตนเอง	PDMN
+คือ	JSBR
+ใคร	PNTR
+ต้องการ	VACT
+อะไร	NCMN
+อัน	PREL
+ก่อให้เกิด	VACT
+ความรู้สึก	NCMN
+ที่ว่างเปล่า	NCMN
+และ	JCRG
+ทรมาน	NCMN
+กับ	RPRE
+ความรู้สึก	NCMN
+นั้น	DDAC
+บ่อยครั้ง	ADVN
+หรือ	JCRG
+ตลอดเวลา	ADVN
+EOS
+4.มีอารมณ์โกรธที่รุนแรงมาก
+4.	NCMN
+มี	VSTA
+อารมณ์	NCMN
+โกรธ	NCMN
+ที่	PREL
+รุนแรง	VATT
+มาก	ADVN
+EOS
+ควบคุมไม่ได้และมักจะแสดงออกอย่างไม่เหมาะสม
+ควบคุม	VACT
+ไม่	NEG
+ได้	VSTA
+และ	JCRG
+มักจะ	XVBM
+แสดงออก	VSTA
+อย่าง	FIXV
+ไม่	NEG
+เหมาะสม	VSTA
+EOS
+สาเหตุของการเป็นโรคนี้ยังไม่ชัดเจนนักแต่มีแนวโน้มสูงที่จะเกิดจากพันธุกรรมและสภาพแวดล้อมรอบข้างที่กระตุ้นให้เกิดโรค
+สาเหตุ	NCMN
+ของ	RPRE
+การ	FIXN
+เป็นโรค	VACT
+นี้	DDAC
+ยัง	XVBM
+ไม่	NEG
+ชัดเจน	VATT
+นัก	ADVN
+แต่	JCRG
+มีแนวโน้ม	VACT
+สูง	VATT
+ที่จะ	JSBR
+เกิด	VSTA
+จาก	RPRE
+พันธุกรรม	NCMN
+และ	JCRG
+สภาพแวดล้อม	NCMN
+รอบข้าง	VATT
+ที่	PREL
+กระตุ้น	VACT
+ให้	JSBR
+เกิด	VSTA
+โรค	NCMN
+EOS
+เช่นมีประสบการณ์ที่ไม่ดีจากครอบครัวหรือผู้เลี้ยงดูเมื่อยังอยู่ในวัยเด็กอาจถูกทำร้ายไม่ว่าจะทางร่างกายหรือจิตใจตั้งแต่ช่วงก่อนแตกเนื้อหนุ่มสาว(ก่อนอายุ15ปี)
+เช่น	RPRE
+มีประสบการณ์	NCMN
+ที่	PREL
+ไม่	NEG
+ดี	VATT
+จาก	RPRE
+ครอบครัว	NCMN
+หรือ	JCRG
+ผู้เลี้ยงดู	NCMN
+เมื่อ	JSBR
+ยังอยู่	NCMN
+ใน	RPRE
+วัยเด็ก	NCMN
+อาจ	XVBM
+ถูก	XVAM
+ทำร้าย	VACT
+ไม่	NEG
+ว่า	JSBR
+จะ	XVBM
+ทาง	RPRE
+ร่างกาย	NCMN
+หรือ	JCRG
+จิตใจ	NCMN
+ตั้งแต่	RPRE
+ช่วง	NCMN
+ก่อน	RPRE
+แตกเนื้อหนุ่ม	NCMN
+สาว	NCMN
+<left_parenthesis>	PUNC
+ก่อน	RPRE
+อายุ	NCMN
+15	DCNM
+ปี	CMTR
+<right_parenthesis>	PUNC
+EOS
+และยังมีอีกหลายปัจจัยเช่นการทำงานของสมองผิดเพี้ยนไปอย่างที่ฉันบอกไปแต่ต้น
+และ	JCRG
+ยังมี	NCMN
+อีก	DDBQ
+หลาย	DIBQ
+ปัจจัย	NCMN
+เช่น	RPRE
+การทำงาน	NCMN
+ของ	RPRE
+สมอง	NCMN
+ผิดเพี้ยน	VATT
+ไป	XVAE
+อย่าง	NCMN
+ที่	PREL
+ฉัน	PPRS
+บอก	VACT
+ไป	XVAE
+แต่ต้น	ADVN
+EOS
+ถ้าฉันโชคดีการเวียนกลับมาของพฤติกรรมอันไม่พึงประสงค์นั้นจะเกิดน้อยลง
+ถ้า	JSBR
+ฉัน	PPRS
+โชคดี	VSTA
+การ	FIXN
+เวียน	VACT
+กลับมา	VACT
+ของ	RPRE
+พฤติกรรม	NCMN
+อัน	PREL
+ไม่	NEG
+พึงประสงค์	NCMN
+นั้น	DDAC
+จะ	XVBM
+เกิด	VSTA
+น้อยลง	ADVN
+EOS
+แต่ความรู้สึกว่างเปล่าเศร้าโศกและความกลัวการถูกทอดทิ้งจะไม่มีวันหายขาดไปได้
+แต่	JCRG
+ความรู้สึก	NCMN
+ว่างเปล่า	NCMN
+เศร้าโศก	NPRP
+และ	JCRG
+ความกลัว	NCMN
+การ	FIXN
+ถูก	VATT
+ทอดทิ้ง	NCMN
+จะ	XVBM
+ไม่	NEG
+มี	VSTA
+วัน	NCMN
+หายขาด	VSTA
+ไป	XVAE
+ได้	XVAE
+EOS
+ฉันยังพยายามค้นหาวิธีการรักษาโรคให้หายขาดทางอินเทอร์เน็ตอยู่อีกพักใหญ่คู่หมั้นฉันก็เดินเข้ามา
+ฉัน	PPRS
+ยัง	XVBM
+พยายาม	VACT
+ค้นหา	VACT
+วิธีการ	NCMN
+รักษาโรค	NCMN
+ให้	JSBR
+หายขาด	VSTA
+ทาง	RPRE
+อินเทอร์เน็ต	NCMN
+อยู่	VSTA
+อีก	DDBQ
+พักใหญ่	NCMN
+คู่หมั้น	DCNM
+ฉัน	NCMN
+ก็	JSBR
+เดิน	VACT
+เข้ามา	XVAE
+EOS
+เขากวาดสายตามองไปที่กองเอกสารที่ฉันพรินต์ออกมาจากคอมพิวเตอร์ล้วนมีแต่คำว่า“BPD”เต็มไปหมด
+เขา	PPRS
+กวาดสายตา	XVAM
+มอง	VACT
+ไป	XVAE
+ที่	RPRE
+กอง	NCMN
+เอกสาร	NCMN
+ที่	PREL
+ฉัน	PPRS
+พรินต์	VACT
+ออก	XVAE
+มาจาก	VSTA
+คอมพิวเตอร์	NCMN
+ล้วน	PDMN
+มี	VSTA
+แต่	JCRG
+คำ	NCMN
+ว่า	RPRE
+“	NCMN
+BPD	NCMN
+”	NCMN
+เต็มไปหมด	NPRP
+EOS
+เขาเดินเข้ามาหาฉันและพูดว่า“อย่าไปอ่านอะไรพวกนี้มากเลยเดี๋ยวสักพักเธอจะค่อยๆดีขึ้น
+เขา	PPRS
+เดิน	VACT
+เข้า	VACT
+มาหา	NCMN
+ฉัน	NCMN
+และ	JCRG
+พูดว่า	NCMN
+“	NCMN
+อย่า	NPRP
+ไป	XVAE
+อ่าน	VACT
+อะไร	PNTR
+พวก	CLTV
+นี้	DDAC
+มาก	ADVN
+เลย	XVAE
+เดี๋ยว	DIBQ
+สักพัก	CNIT
+เธอ	PPRS
+จะ	XVBM
+ค่อยๆ	VACT
+ดีขึ้น	NCMN
+EOS
+เรารักเธอมากนะไม่ว่าเธอจะเป็นอะไร
+เรา	PPRS
+รัก	VSTA
+เธอ	PPRS
+มาก	VATT
+นะ	NCMN
+ไม่	NEG
+ว่า	JSBR
+เธอ	PPRS
+จะ	XVBM
+เป็น	VSTA
+อะไร	PNTR
+EOS
+เราจะไม่มีวันทิ้งเธอ
+เรา	PPRS
+จะ	XVBM
+ไม่	NEG
+มี	VSTA
+วัน	NCMN
+ทิ้ง	VACT
+เธอ	NCMN
+EOS
+เราจะดูแลเธอเอง
+เรา	PPRS
+จะ	XVBM
+ดูแล	VACT
+เธอ	NCMN
+เอง	PDMN
+EOS
+แค่เชื่อเราก็พอเนอะ
+แค่	DDBQ
+เชื่อ	VSTA
+เรา	PPRS
+ก็	JSBR
+พอ	VSTA
+เนอะ	NCMN
+EOS
+ปะเที่ยงแล้วเราไปหาอะไรกินกันเถอะ”
+ปะ	VACT
+เที่ยง	NCMN
+แล้ว	JSBR
+เรา	PPRS
+ไปหา	VACT
+อะไร	NCMN
+กินกัน	NCMN
+เถอะ	NCMN
+”	NPRP
+EOS
+เขาพูดพลางเก็บเอกสารที่ฉันพรินต์ออกมาใส่ไว้ใต้โต๊ะแล้วเดินมาจับมือฉัน
+เขา	PPRS
+พูด	VACT
+พลาง	NCMN
+เก็บ	VACT
+เอกสาร	NCMN
+ที่	PREL
+ฉัน	PPRS
+พรินต์	VACT
+ออกมา	XVAE
+ใส่	VACT
+ไว้	XVAE
+ใต้โต๊ะ	VACT
+แล้ว	XVAE
+เดิน	VACT
+มา	XVAE
+จับมือ	ADVN
+ฉัน	PPRS
+EOS
+จูบฉันและพาฉันเดินออกไปจากโต๊ะคอมพิวเตอร์
+จูบ	NCMN
+ฉัน	PPRS
+และ	JCRG
+พา	VACT
+ฉัน	PPRS
+เดิน	VACT
+ออก	XVAE
+ไป	XVAE
+จาก	RPRE
+โต๊ะ	NCMN
+คอมพิวเตอร์	NCMN
+EOS
+“เดี๋ยวก่อนเรายังไม่ได้ปิดคอมฯเลย”
+“	NCMN
+เดี๋ยวก่อน	NPRP
+เรา	PPRS
+ยัง	XVBM
+ไม่	NEG
+ได้	XVAM
+ปิด	VACT
+คอมฯ	NCMN
+เลย	XVAE
+”	NCMN
+EOS
+ฉันดึงเขาไว้และกำลังจะเดินไปที่โต๊ะคอมฯ
+ฉัน	PPRS
+ดึง	VACT
+เขา	PPRS
+ไว้	XVAE
+และ	JCRG
+กำลังจะ	XVBM
+เดิน	VACT
+ไป	XVAE
+ที่	RPRE
+โต๊ะ	NCMN
+คอมฯ	NCMN
+EOS
+เขารั้งฉันไว้และส่ายหน้า
+เขา	PPRS
+รั้ง	VSTA
+ฉัน	PPRS
+ไว้	XVAE
+และ	JCRG
+ส่ายหน้า	NCMN
+EOS
+เขาพูดว่า“ช่างมันเถอะกลับมาค่อยทำก็ได้
+เขา	PPRS
+พูดว่า	VACT
+“	NCMN
+ช่างมันเถอะ	NPRP
+กลับมา	VACT
+ค่อย	XVAM
+ทำ	VACT
+ก็ได้	XVAE
+EOS
+วันนี้เรามีอะไรสนุกๆให้เธอเล่นเยอะแยะเลย
+วันนี้	NCMN
+เรา	PPRS
+มี	VSTA
+อะไร	PDMN
+สนุก	ADVN
+ๆ	PUNC
+ให้	JSBR
+เธอ	PPRS
+เล่น	VACT
+เยอะแยะ	NCMN
+เลย	XVAE
+EOS
+รีบไปหาอะไรกินกันก่อนดีกว่า
+รีบ	VACT
+ไปหา	VACT
+อะไร	PNTR
+กินกัน	VSTA
+ก่อน	ADVN
+ดีกว่า	VSTA
+EOS
+เดียวก๋วยเตี๋ยวเธอหมดไม่รู้นะ”
+เดียว	VSTA
+ก๋วยเตี๋ยว	NCMN
+เธอ	NCMN
+หมด	ADVN
+ไม่	NEG
+รู้	VSTA
+นะ	NCMN
+”	NCMN
+EOS
+เขายิ้มและหัวเราะเมื่อฉันตีเขาเบาๆที่ล้อเรื่องก๋วยเตี๋ยว
+เขา	PPRS
+ยิ้ม	VACT
+และ	JCRG
+หัวเราะ	NCMN
+เมื่อ	JSBR
+ฉัน	PPRS
+ตี	VACT
+เขา	PPRS
+เบา	VATT
+ๆ	PUNC
+ที่	PREL
+ล้อ	VSTA
+เรื่อง	NCMN
+ก๋วยเตี๋ยว	NPRP
+EOS
+เราสองคนยิ้มให้กัน
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+ยิ้ม	NCMN
+ให้	VACT
+กัน	ADVN
+EOS
+จูบกัน
+จูบ	NCMN
+กัน	ADVN
+EOS
+กอดกัน
+กอด	NCMN
+กัน	ADVN
+EOS
+นิ่งสักพักอีกครั้งแล้วเดินออกจากห้องไป
+นิ่ง	VACT
+สักพัก	NCMN
+อีกครั้ง	ADVN
+แล้ว	JSBR
+เดิน	VACT
+ออกจาก	VACT
+ห้อง	NCMN
+ไป	XVAE
+EOS
+ใจฉันมีความสุข
+ใจ	NCMN
+ฉัน	NCMN
+มีความสุข	NPRP
+EOS
+ฉันคิดว่าไม่ว่าโรคนี้จะดูน่ากลัวสักเพียงไหน
+ฉัน	PPRS
+คิด	VACT
+ว่า	JSBR
+ไม่	NEG
+ว่า	JSBR
+โรค	NCMN
+นี้	DDAC
+จะ	XVBM
+ดู	VACT
+น่ากลัว	NCMN
+สัก	NCMN
+เพียง	DDBQ
+ไหน	DIAC
+EOS
+แต่ถ้าฉันยังมีเขาอยู่อย่างนี้ตลอดไปฉันคงไม่เป็นอะไรอย่างที่ในเอกสารว่าหรอก
+แต่	JCRG
+ถ้า	JSBR
+ฉัน	PPRS
+ยังมี	VSTA
+เขา	PPRS
+อยู่	VSTA
+อย่างนี้	NCMN
+ตลอดไป	ADVN
+ฉัน	PPRS
+คง	XVBM
+ไม่เป็นอะไร	VACT
+อย่าง	FIXV
+ที่	PREL
+ใน	RPRE
+เอกสาร	NCMN
+ว่า	RPRE
+หรอก	NCMN
+EOS
+ไม่แน่ฉันอาจเป็นเคสที่หายขาดคนแรกเลยก็ได้
+ไม่	NEG
+แน่	ADVN
+ฉัน	PPRS
+อาจ	XVMM
+เป็น	VSTA
+เคส	NCMN
+ที่	PREL
+หายขาด	VSTA
+คน	CNIT
+แรก	DONM
+เลย	XVAE
+ก็ได้	ADVN
+EOS
+คิดแล้วฉันก็ยิ่งมีความสุข
+คิด	VACT
+แล้ว	JSBR
+ฉัน	PPRS
+ก็	JSBR
+ยิ่ง	XVBM
+มีความสุข	VACT
+EOS
+เราสองคนจูงมือกันไปที่ร้านอาหาร
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+จูงมือ	NCMN
+กัน	PDMN
+ไป	XVAE
+ที่	RPRE
+ร้านอาหาร	NCMN
+EOS
+ฉันรักเขาเหลือเกิน
+ฉัน	PPRS
+รัก	VSTA
+เขา	PPRS
+เหลือเกิน	VACT
+EOS
+15ฉันในวอร์ดจิตเวช(ภาคแรก)
+15	NCMN
+ฉัน	PPRS
+ใน	RPRE
+วอร์ดจิตเวช	NCMN
+<left_parenthesis>	PUNC
+ภาค	NCMN
+แรก	DONM
+<right_parenthesis>	PUNC
+EOS
+และแล้ววันที่เราต้องทำตามสัญญาที่ให้ไว้กับแม่ก่อนออกจากโรงพยาบาลที่กรุงเทพฯก็มาถึง
+และ	JCRG
+แล้ว	JSBR
+วันที่	NCMN
+เรา	PPRS
+ต้อง	XVMM
+ทำตาม	VACT
+สัญญา	NCMN
+ที่	PREL
+ให้	VACT
+ไว้	XVAE
+กับ	RPRE
+แม่	NCMN
+ก่อน	JSBR
+ออกจาก	VACT
+โรงพยาบาล	NCMN
+ที่	PREL
+กรุงเทพฯ	NPRP
+ก็	JSBR
+มาถึง	VACT
+EOS
+ฉันต้องเข้ารับการรักษาที่วอร์ดจิตเวชของโรงพยาบาลในเชียงใหม่
+ฉัน	PPRS
+ต้อง	XVMM
+เข้า	VACT
+รับ	VACT
+การรักษา	NCMN
+ที่	PREL
+วอร์	NCMN
+ด	NCMN
+จิตเวช	NPRP
+ของ	RPRE
+โรงพยาบาล	NCMN
+ใน	RPRE
+เชียงใหม่	NPRP
+EOS
+ฉันไม่ได้อยากไปคู่หมั้นฉันเองก็เช่นกัน
+ฉัน	PPRS
+ไม่	NEG
+ได้	XVAM
+อยาก	XVMM
+ไป	VACT
+คู่หมั้น	NCMN
+ฉัน	NCMN
+เอง	PDMN
+ก็	JSBR
+เช่นกัน	ADVN
+EOS
+วันนั้นแม่และฉันมาพบกันที่ทางเข้าวอร์ดจิตเวช
+วันนั้น	NCMN
+แม่	NCMN
+และ	JCRG
+ฉัน	NCMN
+มา	XVAE
+พบ	VACT
+กันที่	NCMN
+ทางเข้า	NCMN
+วอร์ดจิตเวช	NPRP
+EOS
+ฉันเตรียมเครื่องอาบน้ำและของกินมามากมาย
+ฉัน	PPRS
+เตรียม	VACT
+เครื่อง	NCMN
+อาบน้ำ	NCMN
+และ	JCRG
+ของกิน	NCMN
+มา	XVAE
+มากมาย	ADVN
+EOS
+ฉันถามแม่อีกครั้งว่าฉันไม่เข้าไปในนั้นได้ไหม
+ฉัน	PPRS
+ถาม	VACT
+แม่	NCMN
+อีกครั้ง	ADVN
+ว่า	JSBR
+ฉัน	PPRS
+ไม่	NEG
+เข้าไป	VACT
+ใน	NCMN
+นั้น	DDAC
+ได้	XVAE
+ไหม	NCMN
+EOS
+ฉันดีขึ้นแล้ว
+ฉัน	PPRS
+ดีขึ้น	VACT
+แล้ว	XVAE
+EOS
+แต่แม่ไม่ยอมรีบคว้ามือฉันที่จับอยู่กับคู่หมั้นให้ผละออกจากกันและดึงฉันเข้าไปในนั้น
+แต่	JCRG
+แม่	NCMN
+ไม่	NEG
+ยอม	VACT
+รีบ	VACT
+คว้า	NCMN
+มือ	NCMN
+ฉัน	PPRS
+ที่จับ	VACT
+อยู่	XVAE
+กับ	RPRE
+คู่หมั้น	NCMN
+ให้	JSBR
+ผละออก	NCMN
+จากกัน	NCMN
+และ	JCRG
+ดึง	VACT
+ฉัน	PPRS
+เข้าไป	XVAE
+ใน	RPRE
+นั้น	PDMN
+EOS
+ที่นี่บรรยากาศวังเวงอย่างไร้หวัง
+ที่นี่	NCMN
+บรรยากาศ	NCMN
+วังเวง	NPRP
+อย่าง	FIXV
+ไร้	VSTA
+หวัง	VSTA
+EOS
+ไม่ได้ดูสดใสสวยงาม44เหมือนในหนังเรื่องต่างๆที่ฉันเคยดูหรือจินตนาการไว้เลย
+ไม่	NEG
+ได้	XVAM
+ดู	VACT
+สดใส	NCMN
+สวยงาม	VATT
+44	NCNM
+เหมือน	VATT
+ใน	RPRE
+หนัง	NCMN
+เรื่อง	NCMN
+ต่างๆ	DIAC
+ที่	PREL
+ฉัน	PPRS
+เคย	XVMM
+ดูหรือ	VACT
+จินตนาการ	NCMN
+ไว้	XVAE
+เลย	ADVN
+EOS
+มันดูเรียบง่ายกว่าที่ฉันนึก
+มัน	PPRS
+ดู	VACT
+เรียบง่าย	NCMN
+กว่า	NCMN
+ที่	PREL
+ฉัน	PPRS
+นึก	VACT
+EOS
+“หนูต้องการห้องเดียวค่ะ
+“	NCMN
+หนู	NCMN
+ต้องการ	VACT
+ห้อง	NCMN
+เดียว	DIAC
+ค่ะ	NCMN
+EOS
+หนูจะไม่นอนรวมกับคนอื่น”
+หนู	NCMN
+จะ	XVBM
+ไม่	NEG
+นอน	VACT
+รวม	VACT
+กับ	RPRE
+คนอื่น	NCMN
+”	NCMN
+EOS
+ฉันพูดกับพยาบาลในนั้นที่คอยจัดการเรื่องเอกสารที่แม่ฉันยื่นให้เขาอยู่
+ฉัน	PPRS
+พูด	VACT
+กับ	RPRE
+พยาบาล	NCMN
+ใน	RPRE
+นั้น	DDAC
+ที่	PREL
+คอย	VACT
+จัดการ	VACT
+เรื่อง	NCMN
+เอกสาร	NCMN
+ที่	PREL
+แม่	NCMN
+ฉัน	NCMN
+ยื่น	NCMN
+ให้	JSBR
+เขา	PPRS
+อยู่	VSTA
+EOS
+คู่หมั้นยังไม่ได้เดินตามเข้ามา
+คู่หมั้น	NCMN
+ยัง	XVBM
+ไม่	NEG
+ได้	XVAM
+เดินตาม	VACT
+เข้ามา	XVAE
+EOS
+เขาคงยังสูบบุหรี่อยู่มั้ง
+เขา	PPRS
+คง	XVBM
+ยัง	XVBM
+สูบบุหรี่	VACT
+อยู่	XVAE
+มั้ง	NCMN
+EOS
+ฉันต่อรองมากมายและเริ่มเกรี้ยวกราดเมื่อฉันไม่ได้หลายๆอย่างดังที่ฉันต้องการ
+ฉัน	PPRS
+ต่อรอง	VACT
+มากมาย	ADVN
+และ	JCRG
+เริ่ม	VSTA
+เกรี้ยวกราด	NCMN
+เมื่อ	JSBR
+ฉัน	PPRS
+ไม่	NEG
+ได้	XVAM
+หลาย	DIBQ
+ๆ	NCMN
+อย่าง	NCMN
+ดังที่	JSBR
+ฉัน	PPRS
+ต้องการ	VACT
+EOS
+ฉันไม่อยากอยู่ที่นี่
+ฉัน	PPRS
+ไม่	NEG
+อยาก	XVMM
+อยู่	VSTA
+ที่นี่	NCMN
+EOS
+ฉันบอกนางพยาบาลเสียงดังว่า“ถ้าฉันสูบบุหรี่ในนี้ไม่ได้ฉันก็ไม่อยู่
+ฉัน	PPRS
+บอก	VACT
+นางพยาบาล	NCMN
+เสียงดัง	NCMN
+ว่า	JSBR
+“	NCMN
+ถ้า	JSBR
+ฉัน	PPRS
+สูบบุหรี่	VACT
+ใน	RPRE
+นี้	DDAC
+ไม่	NEG
+ได้	VSTA
+ฉัน	NCMN
+ก็	JSBR
+ไม่	NEG
+อยู่	VSTA
+EOS
+เข้าใจไหม”
+เข้าใจ	VSTA
+ไหม	NCMN
+”	NCMN
+EOS
+“คุณพยาบาลคะรีบพาเขาไปเถอะค่ะ
+“	NTTL
+คุณ	NTTL
+พยาบาล	NCMN
+คะ	NCMN
+รีบ	VACT
+พา	VACT
+เขา	PPRS
+ไป	XVAE
+เถอะ	NCMN
+ค่ะ	NCMN
+EOS
+จัดการอะไรสักอย่างนี่เขาเริ่มจะรุนแรงอีกแล้ว"
+จัดการ	VACT
+อะไร	NCMN
+สัก	NCMN
+อย่าง	NCMN
+นี่	PDMN
+เขา	PPRS
+เริ่ม	XVAM
+จะ	XVBM
+รุนแรง	VATT
+อีกแล้ว	ADVN
+<quotation>	PUNC
+EOS
+แม่ฉันพูดกับพยาบาลด้วยน้ำเสียงอ้อนวอน
+แม่	NCMN
+ฉัน	PPRS
+พูด	VACT
+กับ	RPRE
+พยาบาล	NCMN
+ด้วย	RPRE
+น้ำเสียง	NCMN
+อ้อนวอน	NCMN
+EOS
+“ไม่แม่!ฝ้ายไม่อยู่แล้ว
+“	JSBR
+ไม่	NEG
+แม่	NCMN
+<exclamation>	PUNC
+ฝ้าย	NCMN
+ไม่	NEG
+อยู่แล้ว	XVAE
+EOS
+มันไม่เหมือนที่เราตกลงกันไว้เลย
+มัน	PPRS
+ไม่	NEG
+เหมือน	VSTA
+ที่	PREL
+เรา	PPRS
+ตกลง	VACT
+กัน	PDMN
+ไว้	XVAE
+เลย	ADVN
+EOS
+ฝ้ายไม่ยอม
+ฝ้าย	JSBR
+ไม่	NEG
+ยอม	VSTA
+EOS
+ฝ้ายจะอยู่กลับ
+ฝ้าย	NCMN
+จะ	XVBM
+อยู่	VSTA
+กลับ	VACT
+EOS
+พี่เขาพี่อยู่ไหน”
+พี่	NCMN
+เขา	PPRS
+พี่	NCMN
+อยู่	VSTA
+ไหน	PNTR
+”	NCMN
+EOS
+ฉันเกรี้ยวกราดพร้อมเรียกหาคู่หมั้น
+ฉัน	PPRS
+เกรี้ยวกราด	XVBM
+พร้อม	VSTA
+เรียกหา	NCMN
+คู่หมั้น	NCMN
+EOS
+สักพักคู่หมั้นฉันเดินเข้ามา
+สักพัก	NCMN
+คู่หมั้น	NPRP
+ฉัน	PPRS
+เดิน	VACT
+เข้ามา	VACT
+EOS
+เขาเข้ามากอดและหอมที่แก้มให้ฉันเย็นลงแล้วกระซิบบอกฉันว่า“เราจะมาหาเธอทุกวันเลยนะเราจะแอบเอาบุหรี่เข้ามาให้เธอด้วย
+เขา	PPRS
+เข้ามา	VACT
+กอด	NCMN
+และ	JCRG
+หอม	VATT
+ที่	PREL
+แก้ม	NCMN
+ให้	JSBR
+ฉัน	PPRS
+เย็น	VATT
+ลง	XVAE
+แล้ว	XVAE
+กระซิบ	VACT
+บอก	VACT
+ฉัน	NCMN
+ว่า	RPRE
+“	NCMN
+เรา	PPRS
+จะ	XVBM
+มาหา	VACT
+เธอ	NCMN
+ทุกวัน	ADVN
+เลย	ADVN
+นะ	JSBR
+เรา	PPRS
+จะ	XVBM
+แอบ	XVMM
+เอา	VACT
+บุหรี่	NCMN
+เข้ามา	XVAE
+ให้	JSBR
+เธอ	PPRS
+ด้วย	RPRE
+EOS
+เราจะไปซื้ออาหารกลางวันที่เธอชอบมาให้เธอกินทุกวันเลย
+เรา	PPRS
+จะ	XVBM
+ไป	XVAM
+ซื้อ	VACT
+อาหารกลางวัน	NCMN
+ที่	PREL
+เธอ	PPRS
+ชอบ	VACT
+มา	XVAE
+ให้	JSBR
+เธอ	PPRS
+กิน	VACT
+ทุกวัน	ADVN
+เลย	XVAE
+EOS
+เธอจะอยู่ที่นี่ไม่นานหรอกเชื่อเรานะ”
+เธอ	PPRS
+จะ	XVBM
+อยู่	VSTA
+ที่นี่	NCMN
+ไม่	NEG
+นาน	ADVN
+หรอก	NCMN
+เชื่อ	VSTA
+เรา	PPRS
+นะ	VACT
+”	NCMN
+EOS
+ฉันพยักหน้ายิ้มให้เขาทั้งน้ำตา
+ฉัน	PPRS
+พยัก	VACT
+หน้ายิ้ม	NCMN
+ให้	JSBR
+เขา	PPRS
+ทั้ง	DDBQ
+น้ำตา	NCMN
+EOS
+ที่ผ่านมาเราสองคนยังไม่เคยต้องแยกจากกันนานๆเลย
+ที่ผ่านมา	NCMN
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+ยัง	XVBM
+ไม่	NEG
+เคย	XVMM
+ต้อง	XVMM
+แยก	VACT
+จากกัน	NCMN
+นานๆ	ADVS
+เลย	XVAE
+EOS
+ฉันคิดถึงเขาตั้งแต่เขายังไม่ได้เดินออกไป
+ฉัน	PPRS
+คิดถึง	VACT
+เขา	PPRS
+ตั้งแต่	JSBR
+เขา	PPRS
+ยัง	XVBM
+ไม่	NEG
+ได้	XVAM
+เดิน	VACT
+ออก	XVAE
+ไป	XVAE
+EOS
+เมื่อมองมาที่แม่ฉันก็เกลียดแม่ที่คอยแต่จะผลักไสให้ฉันถูกขังอยู่ในนี้
+เมื่อ	JSBR
+มอง	VACT
+มา	XVAE
+ที่	RPRE
+แม่	NCMN
+ฉัน	PPRS
+ก็	JSBR
+เกลียด	NCMN
+แม่	NCMN
+ที่	PREL
+คอย	VACT
+แต่	JCRG
+จะ	XVBM
+ผลักไส	VACT
+ให้	JSBR
+ฉัน	PPRS
+ถูก	XVAM
+ขัง	VACT
+อยู่	XVAE
+ใน	RPRE
+นี้	DDAC
+EOS
+มองไปที่พยาบาลก็ขวางหูขวางตาไปหมด
+มอง	VACT
+ไป	XVAE
+ที่	RPRE
+พยาบาล	NCMN
+ก็	JSBR
+ขวางหูขวางตา	VACT
+ไป	XVAE
+หมด	ADVN
+EOS
+ฉันรับแชมพูสบู่แปรงสีฟันเครื่องอาบน้ำต่างๆเดินไปที่ห้องเดี่ยว
+ฉัน	PPRS
+รับ	VACT
+แชมพู	NCMN
+สบู่	NCMN
+แปรงสีฟัน	DCNM
+เครื่อง	CNIT
+อาบน้ำ	NCMN
+ต่างๆ	DIAC
+เดิน	VACT
+ไป	XVAE
+ที่	RPRE
+ห้อง	NCMN
+เดี่ยว	VATT
+EOS
+ทุกอย่างที่ฉันเตรียมมาเอาเข้ามาใช้ที่นี่ไม่ได้
+ทุกอย่าง	PDMN
+ที่	VSTA
+ฉัน	PPRS
+เตรียม	VACT
+มา	XVAE
+เอา	VACT
+เข้ามา	XVAE
+ใช้	VACT
+ที่นี่	NCMN
+ไม่	NEG
+ได้	XVAM
+EOS
+สงสัยเขากลัวฉันซ่อนคัตเตอร์ไว้ในขวดแชมพูละมั้ง
+สงสัย	VACT
+เขา	PPRS
+กลัว	VSTA
+ฉัน	PPRS
+ซ่อน	VACT
+คัตเตอร์	NCMN
+ไว้	XVAE
+ใน	RPRE
+ขวด	NCMN
+แชมพู	NCMN
+ละ	RPRE
+มั้ง	NCMN
+EOS
+แต่อย่างน้อยฉันก็ได้ห้องเดี่ยวซึ่งเป็นเพียงอย่างเดียวที่ฉันเรียกร้องจนได้มา
+แต่	JCRG
+อย่าง	FIXV
+น้อย	VATT
+ฉัน	NCMN
+ก็ได้	XVAE
+ห้อง	NCMN
+เดี่ยว	VATT
+ซึ่ง	JSBR
+เป็น	VSTA
+เพียง	DDBQ
+อย่าง	FIXV
+เดียว	VATT
+ที่	PREL
+ฉัน	PPRS
+เรียกร้อง	VACT
+จน	JSBR
+ได้มา	VSTA
+EOS
+ฉันปาทุกอย่างทิ้งลงกับพื้นให้พยาบาลและทุกคนเห็นว่าฉันไม่พอใจมากแค่ไหน
+ฉัน	PPRS
+ปา	VACT
+ทุกอย่าง	PDMN
+ทิ้ง	VACT
+ลง	XVAE
+กับ	RPRE
+พื้น	NCMN
+ให้	RPRE
+พยาบาล	NCMN
+และ	JCRG
+ทุกคน	PDMN
+เห็น	VSTA
+ว่า	JSBR
+ฉัน	PPRS
+ไม่	NEG
+พอใจ	VSTA
+มาก	VATT
+แค่	DDBQ
+ไหน	DIAC
+EOS
+ฉันล้มตัวลงนอนหันหลังให้กับทุกคนและทุกอย่าง
+ฉัน	PPRS
+ล้ม	VACT
+ตัว	NCMN
+ลงนอน	NCMN
+หันหลัง	NCMN
+ให้	JSBR
+กับ	RPRE
+ทุกคน	PDMN
+และ	JCRG
+ทุกอย่าง	PDMN
+EOS
+นางพยาบาลปิดประตูล็อกห้องไว้
+นางพยาบาล	NCMN
+ปิดประตู	VACT
+ล็อก	VACT
+ห้อง	NCMN
+ไว้	XVAE
+EOS
+ด้วยความหนาของประตูเหล็กฉันไม่ได้ยินเสียงใดๆอีกต่อไป
+ด้วย	RPRE
+ความ	FIXN
+หนา	VATT
+ของ	RPRE
+ประตู	NCMN
+เหล็ก	NCMN
+ฉัน	NCMN
+ไม่	NEG
+ได้ยิน	VACT
+เสียง	NCMN
+ใดๆ	DIAC
+อีกต่อไป	ADVN
+EOS
+พวกเขาคงกลับแล้วมั้ง
+พวกเขา	NCMN
+คง	XVBM
+กลับ	VACT
+แล้ว	XVAE
+มั้ง	ADVN
+EOS
+ฉันคิด
+ฉัน	PPRS
+คิด	VACT
+EOS
+น้ำตายังคงไหลจากความคิดถึงคู่หมั้นจับใจ
+น้ำตา	NCMN
+ยังคง	XVBM
+ไหล	VACT
+จาก	RPRE
+ความคิดถึง	NCMN
+คู่หมั้น	NCMN
+จับใจ	NPRP
+EOS
+ต้องอยู่แบบนี้อีกนานเท่าไรหนอ
+ต้อง	XVMM
+อยู่	VSTA
+แบบนี้	NCMN
+อีก	DDBQ
+นาน	ADVN
+เท่าไร	PNTR
+หนอ	NCMN
+EOS
+ทำไมที่นี่มันทุเรศแบบนี้นะ
+ทำไม	NCMN
+ที่นี่	NPRP
+มัน	PPRS
+ทุเรศ	ADVN
+แบบนี้	NCMN
+นะ	NPRP
+EOS
+เขาจะมาเยี่ยมฉันทุกวันจริงๆไหมนะ
+เขา	PPRS
+จะ	XVBM
+มา	XVAM
+เยี่ยม	VACT
+ฉัน	NCMN
+ทุกวัน	ADVN
+จริงๆ	ADVI
+ไหม	NCMN
+นะ	NCMN
+EOS
+ฉันคิดฟุ้งซ่านมากมายจนเผลอหลับไปและตื่นขึ้นมาอีกครั้งในยามพลบค่ำเพื่อกินยาก่อนนอน
+ฉัน	PPRS
+คิด	VACT
+ฟุ้งซ่าน	NCMN
+มากมาย	VATT
+จน	JSBR
+เผลอ	VACT
+หลับ	VACT
+ไป	XVAE
+และ	JCRG
+ตื่นขึ้น	VACT
+มา	XVAE
+อีกครั้ง	ADVN
+ใน	RPRE
+ยาม	NCMN
+พลบค่ำ	NCMN
+เพื่อ	JSBR
+กิน	VACT
+ยา	NCMN
+ก่อน	RPRE
+นอน	NCMN
+EOS
+คืนแรกในสถานที่กักขังฉันแห่งนี้ก็ไม่ได้เลวร้ายอะไรมากมาย
+คืน	VACT
+แรก	DONM
+ใน	RPRE
+สถานที่	NCMN
+กักขัง	NCMN
+ฉัน	NCMN
+แห่ง	CNIT
+นี้	DDAC
+ก็	JSBR
+ไม่	NEG
+ได้	VSTA
+เลวร้าย	NCMN
+อะไร	PNTR
+มากมาย	ADVN
+EOS
+เงียบดีเหมือนกัน
+เงียบ	NCMN
+ดี	VATT
+เหมือนกัน	ADVN
+EOS
+พรุ่งนี้ขออย่าให้ฉันต้องเจอกับความวุ่นวายใดๆเลย
+พรุ่งนี้	NCMN
+ขอ	VACT
+อย่า	NCMN
+ให้	JSBR
+ฉัน	PPRS
+ต้อง	XVMM
+เจอ	VACT
+กับ	RPRE
+ความวุ่นวาย	NCMN
+ใดๆ	DIAC
+เลย	XVAE
+EOS
+ฉันภาวนาแล้วหลับไปอีกครั้งด้วยฤทธิ์ยา
+ฉัน	PPRS
+ภาวนา	VACT
+แล้ว	XVAE
+หลับ	NPRP
+ไป	XVAE
+อีกครั้ง	ADVN
+ด้วย	RPRE
+ฤทธิ์ยา	NCMN
+EOS

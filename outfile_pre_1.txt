@@ -1,0 +1,12 @@
+สวัสดี	NPRP|นี่	PDMN|เรา	PPRS|เอง	PDMN
+ตื่นเต้น	NCMN|จัง	NCMN|ที่	PREL|ต้อง	XVMM|เขียน	VACT|แต่	JCRG|เรา	PPRS|เต็มใจ	VSTA|นะ	NCMN
+อย่าง	FIXV|น้อย	VATT|มัน	PPRS|ก็	JSBR|ต้อง	XVMM|ดี	VATT|บ้าง	ADVN|แหละ	ADVN
+ขอให้	VACT|มี	VSTA|แต่	JCRG|เรื่อง	NCMN|ดี	VATT|ๆ	PUNC|ทุกวัน	ADVN|เลย	XVAE|นะ	ADVN
+ปกติ	ADVS|เรา	PPRS|เป็น	VSTA|คน	NCMN|อารมณ์ดี	NCMN
+ชอบ	VSTA|ฟังเพลง	NCMN
+ชอบ	VACT|เล่น	VACT|แมว	NCMN
+ชอบ	VSTA|ปาร์ตี้	NCMN|กับ	RPRE|เพื่อน	NCMN
+ชอบ	VSTA|ไปเที่ยว	NCMN
+ชอบ	VSTA|กลิ่น	NCMN|ฝน	NCMN
+ชอบ	VSTA|เสียง	NCMN|ทะเล	NCMN
+ตอนนี้	NCMN|ตัวเรา	NCMN|กำลัง	XVBM|รู้สึก	VSTA|ดี	ADVN

@@ -1,0 +1,24 @@
+IT’SALLABOUTTHECUTใต้รอยกรีดPart1
+IT	NCMN
+’	NCMN
+SALLABOUTTHECUT	NCMN
+ใต้	RPRE
+รอย	NCMN
+กรีด	NCMN
+Part	NCMN
+1	DCNM
+EOS
+01กฎของเมนเดลให้ฉันลองเล่าถึงตัวเองสักนิดนะ
+01	NCNM
+กฎ	NCMN
+ของ	RPRE
+เมนเดล	NCMN
+ให้	JSBR
+ฉัน	PPRS
+ลอง	XVMM
+เล่า	VACT
+ถึง	RPRE
+ตัวเอง	PDMN
+สักนิด	NCMN
+นะ	NCMN
+EOS

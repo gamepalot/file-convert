@@ -1,0 +1,1880 @@
+21เอดู
+21	NLBL
+เอ	NCMN
+ดู	VACT
+EOS
+ฉันสนุกกับงานและยังคงรักษาตัวที่โรงพยาบาลอย่างต่อเนื่อง
+ฉัน	NCMN
+สนุก	NCMN
+กับ	RPRE
+งาน	NCMN
+และ	JCRG
+ยังคง	XVBM
+รักษาตัว	NCMN
+ที่	PREL
+โรงพยาบาล	NCMN
+อย่าง	FIXV
+ต่อเนื่อง	VSTA
+EOS
+ไม่ว่าจะผ่านเรื่องดีหรือร้ายฉันไม่เคยหยุดกินยาเลยสักครั้ง
+ไม่	NEG
+ว่า	JSBR
+จะ	XVBM
+ผ่าน	VSTA
+เรื่อง	NCMN
+ดี	VATT
+หรือ	JCRG
+ร้าย	VATT
+ฉัน	PPRS
+ไม่	NEG
+เคย	XVMM
+หยุด	VACT
+กิน	VACT
+ยา	NCMN
+เลย	XVAE
+สักครั้ง	ADVN
+EOS
+ฉันรู้สึกรักตัวเองมากขึ้นทุกวัน
+ฉัน	PPRS
+รู้สึก	VSTA
+รัก	NCMN
+ตัวเอง	PDMN
+มากขึ้น	ADVN
+ทุกวัน	ADVN
+EOS
+อาการฉันดีขึ้นมาก
+อาการ	NCMN
+ฉัน	NCMN
+ดีขึ้น	VATT
+มาก	ADVN
+EOS
+ไม่หุนหันพลันแล่น
+ไม่	NEG
+หุนหันพลันแล่น	VSTA
+EOS
+ไม่เศร้าโศกเสียใจดำดิ่งจนทำร้ายตัวเองอีก
+ไม่	NEG
+เศร้าโศก	XVAM
+เสีย	VSTA
+ใจดำ	NCMN
+ดิ่ง	NCMN
+จน	JSBR
+ทำร้าย	VACT
+ตัวเอง	PDMN
+อีก	ADVN
+EOS
+แต่ฉันยังคงรู้สึกไร้ความหมาย
+แต่	JCRG
+ฉัน	PPRS
+ยังคง	XVBM
+รู้สึก	VACT
+ไร้	VSTA
+ความหมาย	NCMN
+EOS
+ไม่รู้ว่าจริงๆแล้วฉันเป็นใคร
+ไม่	NEG
+รู้	VSTA
+ว่า	JSBR
+จริงๆ	VATT
+แล้ว	XVAE
+ฉัน	NCMN
+เป็น	VSTA
+ใคร	PNTR
+EOS
+มีความหมายอย่างไร
+มีความหมาย	VSTA
+อย่างไร	PNTR
+EOS
+หรือจะอยู่ไปทำไมเหมือนเดิม
+หรือ	JCRG
+จะ	XVBM
+อยู่	VSTA
+ไป	XVAE
+ทำไม	ADVN
+เหมือนเดิม	ADVN
+EOS
+หลายๆครั้งความรู้สึกว่างเปล่าก็มาเยี่ยมฉันบ้าง
+หลาย	DIBQ
+ๆ	PUNC
+ครั้ง	CFQC
+ความรู้สึก	RPRE
+ว่างเปล่า	NCMN
+ก็	JSBR
+มา	XVAE
+เยี่ยม	VACT
+ฉัน	NCMN
+บ้าง	ADVN
+EOS
+มันมาที่ไรฉันได้เสียเลือดกรีดตัวเองสังเวยมันทุกที
+มัน	PPRS
+มา	VACT
+ที่	PREL
+ไร	NPRP
+ฉัน	PPRS
+ได้เสีย	NCMN
+เลือด	NCMN
+กรีด	ADVS
+ตัวเอง	PDMN
+สังเวย	VSTA
+มัน	PPRS
+ทุกที	ADVN
+EOS
+แต่ฉันเริ่มกรีดตัวเองเบาลงและน้อยลงมาก
+แต่	JCRG
+ฉัน	PPRS
+เริ่ม	VSTA
+กรีด	NCMN
+ตัวเอง	PDMN
+เบา	VATT
+ลง	XVAE
+และ	JCRG
+น้อยลง	ADVN
+มาก	ADVN
+EOS
+จริงๆแล้วฉันยังคงอยากตายอยู่ทุกวัน
+จริงๆ	ADVS
+แล้ว	JSBR
+ฉัน	PPRS
+ยังคง	XVBM
+อยาก	XVMM
+ตาย	VSTA
+อยู่	XVAE
+ทุกวัน	ADVN
+EOS
+แต่ฉันแค่ยุ่งกับงานจนไม่คิดอยากทำมันก็เท่านั้น
+แต่	JCRG
+ฉัน	PPRS
+แค่	DDBQ
+ยุ่ง	NCMN
+กับ	RPRE
+งาน	NCMN
+จน	JSBR
+ไม่	NEG
+คิด	VACT
+อยาก	XVMM
+ทำ	VACT
+มัน	PPRS
+ก็	JSBR
+เท่านั้น	ADVN
+EOS
+งานใหม่ที่ฉันได้ทำสนุกกว่าเดิมมาก
+งาน	NCMN
+ใหม่	VATT
+ที่	PREL
+ฉัน	PPRS
+ได้	XVAM
+ทำ	VACT
+สนุก	ADVN
+กว่า	JCMP
+เดิม	VATT
+มาก	ADVN
+EOS
+ฉันได้พบปะกับเพื่อนร่วมงานมากมาย
+ฉัน	PPRS
+ได้	XVAM
+พบปะ	VACT
+กับ	RPRE
+เพื่อนร่วมงาน	NCMN
+มากมาย	VATT
+EOS
+แต่ละคนยิ้มแย้มพร้อมหยิบยื่นความช่วยเหลือให้ยามที่ฉันต้องการ
+แต่ละคน	NCMN
+ยิ้มแย้ม	NPRP
+พร้อม	JCRG
+หยิบยื่น	NCMN
+ความช่วยเหลือ	NCMN
+ให้	JSBR
+ยาม	NCMN
+ที่	PREL
+ฉัน	PPRS
+ต้องการ	VACT
+EOS
+บางคนรู้ว่าฉันป่วย
+บางคน	NCMN
+รู้	VSTA
+ว่า	JSBR
+ฉัน	PPRS
+ป่วย	VACT
+EOS
+แต่ไม่มีใครรังเกียจฉันเลย
+แต่	JCRG
+ไม่	NEG
+มี	VSTA
+ใคร	PNTR
+รังเกียจ	VATT
+ฉัน	PPRS
+เลย	XVAE
+EOS
+พวกเขาปฏิบัติกับฉันเยี่ยงคนปกติ
+พวกเขา	NCMN
+ปฏิบัติ	VACT
+กับ	RPRE
+ฉัน	NCMN
+เยี่ยง	NCMN
+คน	NCMN
+ปกติ	VATT
+EOS
+ไม่ดูแลเกินคนอื่น
+ไม่	NEG
+ดูแล	VACT
+เกิน	VSTA
+คนอื่น	NCMN
+EOS
+ฉันทำงานที่นี่ได้เกือบจะครบ2ปี
+ฉัน	PPRS
+ทำงาน	VACT
+ที่นี่	NCMN
+ได้	XVAE
+เกือบจะ	XVBM
+ครบ	VSTA
+2	NCMN
+ปี	NCMN
+EOS
+ปกติฉันจะทำผ่านอินเทอร์เน็ต
+ปกติ	ADVS
+ฉัน	PPRS
+จะ	XVBM
+ทำ	VACT
+ผ่าน	VSTA
+อินเทอร์เน็ต	NCMN
+EOS
+บินไปพบลูกค้าบ้างในแต่ละเดือน
+บิน	VACT
+ไป	XVAE
+พบ	VSTA
+ลูกค้า	NCMN
+บ้าง	ADVN
+ใน	RPRE
+แต่ละ	DIBQ
+เดือน	NCMN
+EOS
+ในปีหนึ่งๆ
+ใน	RPRE
+ปี	NCMN
+หนึ่ง	DCNM
+ๆ	PUNC
+EOS
+ถ้าฉันโชคดีฉันจะได้พบเพื่อนร่วมงานและเจ้านายที่เปรียบเสมือนครอบครัวตามที่เขากล่าวไว้ตั้งแต่เริ่มจ้างฉันปีละประมาณ2ครั้ง
+ถ้า	JSBR
+ฉัน	PPRS
+โชคดี	VACT
+ฉัน	NCMN
+จะ	XVBM
+ได้	XVAM
+พบ	VACT
+เพื่อนร่วมงาน	NCMN
+และ	JCRG
+เจ้านาย	NCMN
+ที่	PREL
+เปรียบเสมือน	VSTA
+ครอบครัว	NCMN
+ตามที่	RPRE
+เขา	PPRS
+กล่าว	VACT
+ไว้	XVAE
+ตั้งแต่	JSBR
+เริ่ม	VSTA
+จ้าง	VACT
+ฉัน	NCMN
+ปี	NCMN
+ละ	RPRE
+ประมาณ	DIBQ
+2	NCMN
+ครั้ง	CFQC
+EOS
+แต่สงสัยปีนี้ฉันจะโชคดีเป็นพิเศษที่มีการจัดเทรนนิ่งกันราวๆ
+แต่	JCRG
+สงสัย	VACT
+ปี	NCMN
+นี้	DDAC
+ฉัน	PPRS
+จะ	XVBM
+โชคดี	VACT
+เป็นพิเศษ	ADVP
+ที่	PREL
+มี	VSTA
+การ	FIXN
+จัด	VACT
+เทรนนิ่ง	VACT
+กัน	ADVN
+ราวๆ	ADVN
+EOS
+ช่วงปลายปี
+ช่วง	NCMN
+ปลายปี	NCMN
+EOS
+ฉันตื่นเต้นและรอคอยที่จะได้เจอและได้เรียนไปพร้อมๆกับเพื่อนร่วมงานเหล่านั้น
+ฉัน	NCMN
+ตื่นเต้น	NCMN
+และ	JCRG
+รอคอย	NPRP
+ที่จะ	JSBR
+ได้	XVAM
+เจอ	VACT
+และ	JCRG
+ได้	XVAM
+เรียน	VACT
+ไป	XVAE
+พร้อม	VSTA
+ๆ	NCMN
+กับ	RPRE
+เพื่อนร่วมงาน	NCMN
+เหล่านั้น	DDAC
+EOS
+การเทรนนิ่งครั้งนี้ฉันได้พบเพื่อนร่วมงานจากสำนักงานใหญ่อีกฝั่งที่ฉันยังไม่เคยพบ
+การ	FIXN
+เท	VACT
+รน	NCMN
+นิ่ง	VATT
+ครั้งนี้	JCMP
+ฉัน	PPRS
+ได้	XVAM
+พบ	VACT
+เพื่อนร่วมงาน	NCMN
+จาก	RPRE
+สำนักงานใหญ่	NCMN
+อีก	DDBQ
+ฝั่ง	NCMN
+ที่	PREL
+ฉัน	PPRS
+ยัง	XVBM
+ไม่	NEG
+เคย	XVMM
+พบ	VSTA
+EOS
+หลายๆคนยิ้มและทักทายทำความรู้จักกับฉันอย่างเป็นมิตร
+หลาย	DIBQ
+ๆคน	NCMN
+ยิ้ม	NCMN
+และ	JCRG
+ทักทาย	NCMN
+ทำความรู้จัก	NCMN
+กับ	RPRE
+ฉัน	NCMN
+อย่าง	FIXV
+เป็นมิตร	VATT
+EOS
+ที่สำนักงานฝั่งนี้จะเป็นกลุ่มนักเขียนและพัฒนาโปรแกรมเสียเป็นส่วนใหญ่
+ที่	JSBR
+สำนักงาน	NCMN
+ฝั่ง	NCMN
+นี้	DDAC
+จะ	XVBM
+เป็น	VSTA
+กลุ่ม	NCMN
+นักเขียน	NCMN
+และ	JCRG
+พัฒนาโปรแกรม	NCMN
+เสีย	XVAE
+เป็นส่วนใหญ่	ADVP
+EOS
+หลายคนที่ฉันได้คุยขอความช่วยเหลือผ่านอินเทอร์เน็ตอยู่บ่อยครั้ง
+หลาย	DIBQ
+คน	CNIT
+ที่	PREL
+ฉัน	PPRS
+ได้	XVAM
+คุย	VACT
+ขอความช่วยเหลือ	NCMN
+ผ่าน	VSTA
+อินเทอร์เน็ต	NCMN
+อยู่	VSTA
+บ่อยครั้ง	ADVN
+EOS
+และครั้งนี้เป็นครั้งแรกที่เราต่างได้เห็นตัวจริงของแต่ละคน
+และ	JCRG
+ครั้งนี้	NCMN
+เป็นครั้งแรก	ADVN
+ที่	JSBR
+เรา	PPRS
+ต่าง	VSTA
+ได้	XVAE
+เห็น	VSTA
+ตัวจริง	NCMN
+ของ	RPRE
+แต่ละคน	NCMN
+EOS
+ขณะกำลังเทรนนิ่งอยู่เมื่อฉันรู้สึกล้าฉันจะออกมาสูบบุหรี่ข้างนอก
+ขณะ	JSBR
+กำลัง	XVBM
+เทรนนิ่ง	VATC
+อยู่	XVAE
+เมื่อ	JSBR
+ฉัน	PPRS
+รู้สึก	VSTA
+ล้า	NCMN
+ฉัน	PPRS
+จะ	XVBM
+ออกมา	VACT
+สูบบุหรี่	VACT
+ข้างนอก	NCMN
+EOS
+โดยฉันมักจะออกมาพร้อมเพื่อนๆ
+โดย	JSBR
+ฉัน	PPRS
+มักจะ	XVBM
+ออกมา	VACT
+พร้อม	VSTA
+เพื่อน	NCMN
+ๆ	PUNC
+EOS
+ซึ่งหนึ่งในนั้นเขาชื่อ“เอดู
+ซึ่ง	JSBR
+หนึ่ง	NCMN
+ใน	RPRE
+นั้น	PDMN
+เขา	PPRS
+ชื่อ	NCMN
+“	NCMN
+เอ	NCMN
+ดู	VACT
+EOS
+เอดูเป็นคนที่ฉันคุยด้วยตั้งแต่ก่อนได้เจอตัวจริง
+เอ	NCMN
+ดู	VACT
+เป็น	VSTA
+คน	NCMN
+ที่	PREL
+ฉัน	PPRS
+คุย	VSTA
+ด้วย	ADVN
+ตั้ง	VACT
+แต่ก่อน	NCMN
+ได้	XVAE
+เจอ	VACT
+ตัวจริง	NCMN
+EOS
+เขาเป็นคนจัดการเรื่องเกี่ยวกับฮาร์ดแวร์คนเดียวทุกเคส
+เขา	PPRS
+เป็น	VSTA
+คน	NCMN
+จัดการ	VACT
+เรื่อง	NCMN
+เกี่ยวกับ	RPRE
+ฮาร์ดแวร์	NCMN
+คนเดียว	ADVN
+ทุก	DIBQ
+เคส	NCMN
+EOS
+ฉันนับถือในความเก่งและเฉลียวฉลาดในการแก้ปัญหาของเขามาก
+ฉัน	NCMN
+นับถือ	NCMN
+ใน	RPRE
+ความเก่ง	NCMN
+และ	JCRG
+เฉลียวฉลาด	NCMN
+ใน	RPRE
+การแก้ปัญหา	NCMN
+ของ	RPRE
+เขา	PPRS
+มาก	ADVN
+EOS
+เมื่อเราได้เจอกันจริงๆเราเลยสนิทกันมากเป็นพิเศษ
+เมื่อ	JSBR
+เรา	PPRS
+ได้	VSTA
+เจอกัน	NCMN
+จริงๆ	ADVI
+เรา	PPRS
+เลย	XVAE
+สนิท	NCMN
+กัน	ADVN
+มาก	ADVN
+เป็นพิเศษ	ADVP
+EOS
+เราสองคนเล่นและพูดคุยกันแทบทุกเรื่อง
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+เล่น	VACT
+และ	JCRG
+พูดคุย	VACT
+กัน	ADVN
+แทบ	DIBQ
+ทุก	DIBQ
+เรื่อง	CNIT
+EOS
+เขามีครอบครัวที่น่ารักมีภรรยาและลูกสาวลูกชายอายุ8ขวบและ4ขวบตามลำดับ
+เขา	PPRS
+มีครอบครัว	VACT
+ที่	PREL
+น่ารัก	NCMN
+มี	VSTA
+ภรรยา	NCMN
+และ	JCRG
+ลูกสาว	NCMN
+ลูกชาย	NCMN
+อายุ	NCMN
+8	DCNM
+ขวบ	NCMN
+และ	JCRG
+4	DCNM
+ขวบ	CNIT
+ตามลำดับ	ADVN
+EOS
+เขามักบ่นความซนของลูกๆให้ฉันฟัง
+เขา	PPRS
+มัก	XVBM
+บ่น	VACT
+ความ	FIXN
+ซน	VATT
+ของ	RPRE
+ลูก	CNIT
+ๆ	PUNC
+ให้	JSBR
+ฉัน	PPRS
+ฟัง	VACT
+EOS
+แม้เขาจะบ่นแต่ฉันก็สังเกตเห็นสีหน้าเปื้อนยิ้มอย่างมีความสุขทุกครั้งที่เขาเล่าเกี่ยวกับลูก
+แม้	JSBR
+เขา	PPRS
+จะ	XVBM
+บ่น	VACT
+แต่	JCRG
+ฉัน	PPRS
+ก็	JSBR
+สังเกตเห็น	VSTA
+สีหน้า	NCMN
+เปื้อน	NCMN
+ยิ้ม	NCMN
+อย่าง	FIXV
+มีความสุข	VATT
+ทุกครั้งที่	JSBR
+เขา	PPRS
+เล่า	VACT
+เกี่ยวกับ	RPRE
+ลูก	CNIT
+EOS
+ช่วงเดือนธันวาคมอากาศที่สเปนค่อนข้างจะหนาวเอาการ
+ช่วง	NCMN
+เดือน	NCMN
+ธันวาคม	NCMN
+อากาศ	NCMN
+ที่	PREL
+สเปน	VSTA
+ค่อนข้างจะ	NCMN
+หนาว	NCMN
+เอาการ	NPRP
+EOS
+ฉันเป็นคนขี้หนาวเป็นทุนเดิมอยู่แล้ว
+ฉัน	PPRS
+เป็น	VSTA
+คน	NCMN
+ขี้	NCMN
+หนาว	NCMN
+เป็น	VSTA
+ทุนเดิม	NCMN
+อยู่แล้ว	XVAE
+EOS
+ยิ่งหนาวแทบตายเวลาเจออากาศนอกอาคาร
+ยิ่ง	XVBM
+หนาว	VSTA
+แทบตาย	NCMN
+เวลา	NCMN
+เจอ	VACT
+อากาศ	NCMN
+นอก	RPRE
+อาคาร	NCMN
+EOS
+ความหนาวเย็นทำให้โรคฉันเริ่มกำเริบ
+ความ	FIXN
+หนาวเย็น	VACT
+ทำให้	VACT
+โรค	NCMN
+ฉัน	PPRS
+เริ่ม	VSTA
+กำเริบ	NCMN
+EOS
+จากคนร่าเริงเฮฮากลับค่อยๆเปลี่ยนเป็นคนเชื่องซึมเหมือนดอกไม้ที่เฉาลงเรื่อยๆ
+จาก	RPRE
+คน	NCMN
+ร่าเริง	NCMN
+เฮฮา	NCMN
+กลับ	VACT
+ค่อยๆ	NCMN
+เปลี่ยนเป็น	VACT
+คน	NCMN
+เชื่อง	NCMN
+ซึม	VATT
+เหมือน	JCMP
+ดอกไม้	NCMN
+ที่	PREL
+เฉา	VACT
+ลง	XVAE
+เรื่อยๆ	ADVI
+EOS
+ในวันสุดท้ายของการเทรนนิ่งเจ้านายแจ้งฉันว่าหลังฉันกลับถึงกรุงเทพฯแล้วฉันต้องบินไปทำงานต่อที่เวียดนามทันที
+ใน	RPRE
+วันสุดท้าย	NCMN
+ของ	RPRE
+การ	FIXN
+เทรนนิ่ง	VATC
+เจ้านาย	DIAQ
+แจ้ง	VACT
+ฉัน	PPRS
+ว่า	JSBR
+หลัง	RPRE
+ฉัน	PPRS
+กลับ	VACT
+ถึง	RPRE
+กรุงเทพฯ	NPRP
+แล้ว	ADVN
+ฉัน	PPRS
+ต้อง	XVMM
+บิน	VACT
+ไป	XVAE
+ทำงานต่อ	NCMN
+ที่	PREL
+เวียดนาม	NCMN
+ทันที	ADVN
+EOS
+ฉันฟังแล้วจุกพยายามอดกลั้นเก็บกดความเหนื่อยล้าเอาไว้ให้ได้มากที่สุด
+ฉัน	PPRS
+ฟัง	VACT
+แล้ว	JSBR
+จุก	NCMN
+พยายาม	VACT
+อดกลั้น	VATT
+เก็บกด	VATT
+ความ	FIXN
+เหนื่อยล้า	VATT
+เอาไว้	XVAE
+ให้ได้	NCMN
+มาก	ADVN
+ที่สุด	JCMP
+EOS
+แม้ฉันจะรักงานนี้
+แม้	JSBR
+ฉัน	PPRS
+จะ	XVBM
+รัก	VSTA
+งาน	NCMN
+นี้	DDAC
+EOS
+และสนุกกับมันมากๆ
+และ	JCRG
+สนุก	NCMN
+กับ	RPRE
+มัน	PPRS
+มาก	ADVN
+ๆ	PUNC
+EOS
+แต่การเดินทางติดต่อกันเกือบ3สัปดาห์แบบนี้มันทำให้ฉันเหนื่อยล้าทั้งใจและกายมาก
+แต่	JCRG
+การ	FIXN
+เดินทาง	VACT
+ติดต่อกัน	ADVN
+เกือบ	DIBQ
+3	DCNM
+สัปดาห์	CMTR
+แบบนี้	NCMN
+มัน	PPRS
+ทำให้	VACT
+ฉัน	NCMN
+เหนื่อยล้า	NCMN
+ทั้ง	DDBQ
+ใจ	NCMN
+และ	JCRG
+กาย	NPRP
+มาก	ADVN
+EOS
+อีกทั้งยังคาบเกี่ยวกับวันขึ้นปีใหม่
+อีก	DDBQ
+ทั้ง	DDBQ
+ยัง	XVBM
+คาบ	NCMN
+เกี่ยวกับ	RPRE
+วัน	NCMN
+ขึ้นปีใหม่	NCMN
+EOS
+ทำให้ฉันกลับไปเยี่ยมครอบครัวที่ลำพูนไม่ได้
+ทำให้	JSBR
+ฉัน	PPRS
+กลับ	VACT
+ไป	XVAE
+เยี่ยม	VACT
+ครอบครัว	NCMN
+ที่	PREL
+ลำพูน	NCMN
+ไม่	NEG
+ได้	XVAM
+EOS
+ฉันออกไปสูบบุหรี่ท่ามกลางลมหนาวเพียงลำพัง
+ฉัน	PPRS
+ออก	VACT
+ไป	XVAE
+สูบบุหรี่	ADVN
+ท่ามกลาง	RPRE
+ลมหนาว	NCMN
+เพียงลำพัง	NCMN
+EOS
+น้ำตาค่อยๆไหลอาบแก้ม
+น้ำตา	NCMN
+ค่อยๆ	NCMN
+ไหล	VACT
+อาบ	NCMN
+แก้ม	NCMN
+EOS
+ไม่ได้สะอึกสะอื้นเสียใจ
+ไม่	NEG
+ได้	XVAM
+สะอึกสะอื้น	VACT
+เสียใจ	NCMN
+EOS
+ฉันแค่ล้าจนน้ำตามันไหลออกมาเอง
+ฉัน	NCMN
+แค่	DDBQ
+ล้า	NCMN
+จน	JSBR
+น้ำตา	NCMN
+มัน	PPRS
+ไหล	VACT
+ออกมา	XVAE
+เอง	PDMN
+EOS
+ฉันพ่นควันขึ้นฟ้า
+ฉัน	PPRS
+พ่น	VACT
+ควัน	NCMN
+ขึ้น	XVAE
+ฟ้า	NCMN
+EOS
+ปล่อยใจให้ล่องลอยอยู่แบบนั้นสักพัก..
+ปล่อยใจ	NCMN
+ให้	RPRE
+ล่องลอย	NPRP
+อยู่	XVAE
+แบบ	NCMN
+นั้น	DDAC
+สักพัก	NCMN
+..	NCMN
+EOS
+เอดูก็เดินเข้ามาหาฉัน
+เอ	NCMN
+ดู	VACT
+ก็	JSBR
+เดิน	VACT
+เข้า	XVAE
+มาหา	ADVN
+ฉัน	PPRS
+EOS
+ฉันตกใจเล็กน้อยไม่นึกว่าจะได้เจอกับใคร
+ฉัน	NCMN
+ตกใจ	VACT
+เล็กน้อย	VATT
+ไม่	NEG
+นึก	VACT
+ว่า	JSBR
+จะ	XVBM
+ได้	XVAM
+เจอ	VACT
+กับ	RPRE
+ใคร	PNTR
+EOS
+ฉันรีบเช็ดน้ำตาและพยายามคุยกับเขาอย่างปกติให้ได้มากที่สุด
+ฉัน	PPRS
+รีบ	VACT
+เช็ด	VACT
+น้ำตา	NCMN
+และ	JCRG
+พยายาม	VACT
+คุย	NCMN
+กับ	RPRE
+เขา	PPRS
+อย่าง	FIXV
+ปกติ	VATT
+ให้ได้	NCMN
+มาก	ADVN
+ที่สุด	JCMP
+EOS
+เอดูยื่นบุหรี่ยี่ห้อที่ฉันสูบอยู่เป็นประจำให้ฉัน
+เอ	NCMN
+ดู	VACT
+ยื่น	NCMN
+บุหรี่	NCMN
+ยี่ห้อ	NCMN
+ที่	PREL
+ฉัน	PPRS
+สูบ	NCMN
+อยู่	VSTA
+เป็นประจำ	NCMN
+ให้	JSBR
+ฉัน	PPRS
+EOS
+เขาบอกว่าวันนี้เป็นวันสุดท้ายแล้ว
+เขา	PPRS
+บอ	NCMN
+กว่า	JCMP
+วันนี้	NCMN
+เป็น	VSTA
+วันสุดท้าย	NCMN
+แล้ว	ADVN
+EOS
+ที่ผ่านมาเขามักขอบุหรี่จากฉันเสมอ
+ที่ผ่านมา	NCMN
+เขา	PPRS
+มัก	XVBM
+ขอ	VACT
+บุหรี่	NCMN
+จาก	RPRE
+ฉัน	PPRS
+เสมอ	ADVN
+EOS
+วันนี้เขาเลยอยากซื้อมาคืน
+วันนี้	NCMN
+เขา	PPRS
+เลย	JSBR
+อยาก	XVAM
+ซื้อ	VACT
+มา	XVAE
+คืน	VACT
+EOS
+สิ้นเสียงพูดของเขาฉันปล่อยโฮอย่างกลั้นไม่อยู่
+สิ้น	VSTA
+เสียงพูด	NCMN
+ของ	RPRE
+เขา	PPRS
+ฉัน	NCMN
+ปล่อยโฮ	NCMN
+อย่าง	FIXV
+กลั้น	VACT
+ไม่	NEG
+อยู่	VSTA
+EOS
+เขาดูไม่ได้ตกใจนัก
+เขา	PPRS
+ดูไม่ได้	VACT
+ตกใจ	NCMN
+นัก	ADVN
+EOS
+สงสัยคงจะเห็นคราบน้ำตาของฉันอยู่ก่อนแล้วละมั้ง
+สงสัย	VACT
+คงจะ	XVBM
+เห็น	VSTA
+คราบ	NCMN
+น้ำตา	NCMN
+ของ	RPRE
+ฉัน	PPRS
+อยู่	VSTA
+ก่อน	ADVN
+แล้ว	XVAE
+ละ	RPRE
+มั้ง	NCMN
+EOS
+เขาถามฉันว่าฉันทุกข์ใจเรื่องอะไร
+เขา	PPRS
+ถาม	VACT
+ฉัน	PPRS
+ว่า	JSBR
+ฉัน	NCMN
+ทุกข์ใจ	NCMN
+เรื่อง	RPRE
+อะไร	PNTR
+EOS
+ฉันตอบได้ยากมากเพราะถ้าให้จำแนกชัดเจนว่าเหตุผลคืออะไรฉันฟันธงไปเลยไม่ได้
+ฉัน	PPRS
+ตอบ	VACT
+ได้	XVAE
+ยาก	ADVN
+มาก	ADVN
+เพราะ	JSBR
+ถ้า	JSBR
+ให้	XVAM
+จำแนก	VACT
+ชัดเจน	ADVN
+ว่า	JSBR
+เหตุผล	NCMN
+คือ	VSTA
+อะไร	PNTR
+ฉัน	PPRS
+ฟันธง	VACT
+ไป	XVAE
+เลย	XVAE
+ไม่	NEG
+ได้	XVAM
+EOS
+เพราะมันค่อยๆสะสมจากความอ่อนล้าความหนาวเย็นความกำเริบของโรคประจำตัวฉัน
+เพราะ	JSBR
+มัน	PPRS
+ค่อยๆ	VACT
+สะสม	VACT
+จาก	RPRE
+ความ	FIXN
+อ่อนล้า	VACT
+ความ	FIXN
+หนาวเย็น	VACT
+ความ	FIXN
+กำเริบ	VATT
+ของ	RPRE
+โรคประจำตัว	NCMN
+ฉัน	PPRS
+EOS
+บอกเขาไปเพียงว่าฉันเหนื่อยไม่มีอะไรมากหรอก
+บอก	VACT
+เขา	PPRS
+ไป	XVAE
+เพียง	ADVN
+ว่า	JSBR
+ฉัน	PPRS
+เหนื่อย	XVBM
+ไม่	NEG
+มี	VSTA
+อะไร	PNTR
+มาก	ADVN
+หรอก	NCMN
+EOS
+แต่เขาเริ่มทำหน้าตาจริงจัง
+แต่	JCRG
+เขา	PPRS
+เริ่ม	XVAM
+ทำ	VACT
+หน้าตา	NCMN
+จริงจัง	VATT
+EOS
+ชวนฉันขึ้นไปนั่งพักผ่อนบนออฟฟิศกันสองคน
+ชวน	VACT
+ฉัน	NCMN
+ขึ้นไป	ADVN
+นั่ง	VACT
+พักผ่อน	VACT
+บน	RPRE
+ออฟฟิศ	NCMN
+กัน	ADVN
+สอง	DCNM
+คน	CNIT
+EOS
+พอฉันนั่งลงบู๊บน้ำตาก็พรั่งพรูอีกรอบ
+พอ	JSBR
+ฉัน	PPRS
+นั่งลง	VACT
+บู๊	NCMN
+บ	NCMN
+น้ำตา	NPRP
+ก็	JSBR
+พรั่งพรู	NCMN
+อี	NCMN
+กรอบ	NCMN
+EOS
+ฉันบอกเขาด้วยเสียงสะอึกสะอื่น
+ฉัน	PPRS
+บอก	VACT
+เขา	PPRS
+ด้วย	RPRE
+เสียงสะอึกสะอืน	NCMN
+EOS
+“ฉันเหนื่อยเหลือเกิน
+“	NCMN
+ฉัน	PPRS
+เหนื่อย	NCMN
+เหลือเกิน	NCMN
+EOS
+ฉันไม่อยากอยู่บนโลกใบนี้แล้ว
+ฉัน	PPRS
+ไม่	NEG
+อยาก	XVMM
+อยู่	VSTA
+บน	RPRE
+โลก	NCMN
+ใบ	NCMN
+นี้	DDAC
+แล้ว	XVAE
+EOS
+ไม่มีใครเข้าใจฉันเลย
+ไม่	NEG
+มี	VSTA
+ใคร	PNTR
+เข้าใจ	VSTA
+ฉัน	PPRS
+เลย	XVAE
+EOS
+ต่อจากทริปนี้ฉันยังต้องทำงานอีก
+ต่อ	VACT
+จาก	RPRE
+ทริป	NCMN
+นี้	DDAC
+ฉัน	PPRS
+ยัง	XVBM
+ต้อง	XVMM
+ทำงาน	VACT
+อีก	DDBQ
+EOS
+ฉันจะไม่ได้กลับบ้านไปเจอแม่
+ฉัน	PPRS
+จะ	XVBM
+ไม่	NEG
+ได้	XVAM
+กลับบ้าน	VACT
+ไป	XVAE
+เจอ	VACT
+แม่	NCMN
+EOS
+ฉันคิดถึงแม่
+ฉัน	PPRS
+คิดถึง	VACT
+แม่	NCMN
+EOS
+ฉันรักแม่
+ฉัน	PPRS
+รัก	VSTA
+แม่	NCMN
+EOS
+แต่ฉันก็เกลียดแม่
+แต่	JCRG
+ฉัน	PPRS
+ก็	JSBR
+เกลียด	VSTA
+แม่	NCMN
+EOS
+เธอไม่เข้าใจหรอก
+เธอ	PPRS
+ไม่	NEG
+เข้าใจ	VACT
+หรอก	NCMN
+EOS
+ใจฉันมันล้าเหลือเกิน
+ใจ	NCMN
+ฉัน	PPRS
+มัน	PPRS
+ล้า	VATT
+เหลือเกิน	NCMN
+EOS
+เธอรู้ไหมฉันป่วยทางจิต
+เธอ	PPRS
+รู้	VSTA
+ไหม	NCMN
+ฉัน	PPRS
+ป่วยทางจิต	VACT
+EOS
+ฉันป่วยกว่าที่เธอคิดเยอะ
+ฉัน	PPRS
+ป่วย	VACT
+กว่า	NCMN
+ที่	PREL
+เธอ	PPRS
+คิด	VACT
+เยอะ	NCMN
+EOS
+เวลาฉันเศร้าไร้ตัวตนแบบนี้
+เวลา	NCMN
+ฉัน	PPRS
+เศร้า	DCNM
+ไร้	VSTA
+ตัวตน	NCMN
+แบบนี้	NCMN
+EOS
+ฉันมักจะกรีดตัวเองเหวอะหวะ
+ฉัน	PPRS
+มักจะ	XVBM
+กรีด	VACT
+ตัวเอง	PDMN
+เหวอะหวะ	NCMN
+EOS
+เธอรู้ไหมทั่วทั้งขาใต้กางเกงนี้เต็มไปด้วยรอยกรีดลึกทั่วทั้งตัวฉันหมดแล้ว
+เธอ	PPRS
+รู้	VSTA
+ไหม	NCMN
+ทั่ว	VSTA
+ทั้ง	DDBQ
+ขา	NCMN
+ใต้	RPRE
+กางเกง	NCMN
+นี้	DDAC
+เต็มไปด้วย	VSTA
+รอย	NCMN
+กรีด	NCMN
+ลึก	VATT
+ทั่ว	ADVN
+ทั้งตัว	DDAN
+ฉัน	NCMN
+หมด	VSTA
+แล้ว	XVAE
+EOS
+ฉันเจ็บขา
+ฉัน	PPRS
+เจ็บ	VACT
+ขา	NCMN
+EOS
+ใจฉันก็เจ็บ
+ใจ	NCMN
+ฉัน	PPRS
+ก็	JSBR
+เจ็บ	NCMN
+EOS
+ฉันเหนื่อยแล้ว
+ฉัน	PPRS
+เหนื่อย	VACT
+แล้ว	XVAE
+EOS
+ฉันหาทางออกก็ไม่เจอ
+ฉัน	PPRS
+หา	VACT
+ทางออก	NCMN
+ก็	JSBR
+ไม่	NEG
+เจอ	VACT
+EOS
+ฉันล้ามาพอแล้ว”
+ฉัน	PPRS
+ล้า	VACT
+มา	XVAE
+พอแล้ว	ADVN
+”	ADVN
+EOS
+เอดูที่นั่งอยู่ข้างฉันมองฉันร้องไห้แบบหนักหน่วง
+เอ	NCMN
+ดู	VACT
+ที่นั่ง	NCMN
+อยู่	XVAE
+ข้าง	RPRE
+ฉัน	PPRS
+มอง	VACT
+ฉัน	PPRS
+ร้องไห้	VACT
+แบบ	NCMN
+หนักหน่วง	NCMN
+EOS
+ฉันนึกว่าเขาคงจะรำคาญผู้หญิงร้องไห้
+ฉัน	PPRS
+นึก	VACT
+ว่า	JSBR
+เขา	PPRS
+คงจะ	XVBM
+รำคาญ	VACT
+ผู้หญิง	NCMN
+ร้องไห้	VACT
+EOS
+หรือวางตัวไม่ถูก
+หรือ	JCRG
+วางตัว	NCMN
+ไม่	NEG
+ถูก	XVAM
+EOS
+แต่เขากลับทำในสิ่งที่ฉันไม่คาดคิด
+แต่	JCRG
+เขา	PPRS
+กลับ	VACT
+ทำ	VACT
+ใน	RPRE
+สิ่ง	NCMN
+ที่	PREL
+ฉัน	PPRS
+ไม่	NEG
+คาดคิด	VACT
+EOS
+เขาค่อยๆวางมือเขาบนมือของฉัน
+เขา	PPRS
+ค่อยๆ	VACT
+วางมือ	NCMN
+เขา	PPRS
+บน	RPRE
+มือ	NCMN
+ของ	RPRE
+ฉัน	PPRS
+EOS
+ฉันตกใจเล็กน้อยฉันค่อยๆหันไปมองหน้าเขาตาเขาแดงกำน้ำตาคลอเบ้า
+ฉัน	PPRS
+ตกใจ	VATT
+เล็กน้อย	ADVN
+ฉัน	PPRS
+ค่อยๆ	VACT
+หันไป	NCMN
+มองหน้า	NPRP
+เขา	PPRS
+ตา	NCMN
+เขา	PPRS
+แดง	VATT
+กำ	NCMN
+น้ำตา	NCMN
+คลอ	NCMN
+เบ้า	NPRP
+EOS
+เขาร้องไห้ไปพร้อมๆกับฉัน
+เขา	PPRS
+ร้องไห้	VACT
+ไป	XVAE
+พร้อม	VSTA
+ๆ	NCMN
+กับ	RPRE
+ฉัน	PPRS
+EOS
+ฉันแทบไม่เชื่อสายตาตัวเองเลยว่าท่าทีภายนอกที่ออกกวนๆแข็งกร้าวภายในจิตใจเขาจะอ่อนโยนได้ถึงเพียงนี้
+ฉัน	NCMN
+แทบ	ADVN
+ไม่	NEG
+เชื่อ	VSTA
+สายตา	NCMN
+ตัวเอง	PDMN
+เลย	XVAE
+ว่า	JSBR
+ท่าที	NCMN
+ภายนอก	NCMN
+ที่	PREL
+ออก	VACT
+กวน	VACT
+ๆ	NCMN
+แข็งกร้าว	NCMN
+ภายใน	RPRE
+จิตใจ	NCMN
+เขา	PPRS
+จะ	XVBM
+อ่อนโยน	VACT
+ได้	XVAE
+ถึง	RPRE
+เพียงนี้	NCMN
+EOS
+เราทั้งสองคุยกันอย่างผ่อนคลาย
+เรา	PPRS
+ทั้งสอง	DDAN
+คุย	NCMN
+กัน	ADVN
+อย่าง	FIXV
+ผ่อนคลาย	VATT
+EOS
+ต่างรับรู้ถึงความทุกข์ของแต่ละคน
+ต่าง	VSTA
+รับรู้	VSTA
+ถึง	RPRE
+ความทุกข์	NCMN
+ของ	RPRE
+แต่ละคน	NCMN
+EOS
+เขาเริ่มเล่าเรื่องของเขาให้ฉันฟังบ้าง
+เขา	PPRS
+เริ่ม	VSTA
+เล่าเรื่อง	NCMN
+ของ	RPRE
+เขา	PPRS
+ให้	VACT
+ฉัน	PPRS
+ฟัง	VACT
+บ้าง	PDMN
+EOS
+เขาเป็นโรคAnxietyDisorderหรือโรควิตกกังวล
+เขา	PPRS
+เป็นโรค	VACT
+AnxietyDisorder	NCMN
+หรือ	JCRG
+โรค	NCMN
+วิตกกังวล	NCMN
+EOS
+ฉันค่อนข้างตกใจไม่นึกว่าจะเจอคนที่ป่วยเหมือนฉันที่นี่
+ฉัน	PPRS
+ค่อนข้าง	ADVN
+ตกใจ	VACT
+ไม่	NEG
+นึก	VACT
+ว่า	JSBR
+จะ	XVBM
+เจอ	VACT
+คน	NCMN
+ที่	PREL
+ป่วย	VACT
+เหมือน	VSTA
+ฉัน	NCMN
+ที่นี่	NCMN
+EOS
+ระหว่างที่เขาเล่าเรื่องและเหตุการณ์ต่างๆที่เขากลัวกังวลให้ฉันฟัง
+ระหว่าง	RPRE
+ที่	PREL
+เขา	PPRS
+เล่าเรื่อง	NCMN
+และ	JCRG
+เหตุการณ์	NCMN
+ต่างๆ	DIAC
+ที่	PREL
+เขา	PPRS
+กลัว	VSTA
+กังวล	NCMN
+ให้	JSBR
+ฉัน	PPRS
+ฟัง	VACT
+EOS
+ฉันมองตาขาหู
+ฉัน	PPRS
+มอง	VACT
+ตา	NCMN
+ขา	NCMN
+หู	NCMN
+EOS
+ฉันรับฟังเรื่องราวของเขาและใจฉันรับรู้ถึงความรู้สึกที่หลังไหลมาจากเขา
+ฉัน	PPRS
+รับฟัง	VACT
+เรื่องราว	NCMN
+ของ	RPRE
+เขา	PPRS
+และ	JCRG
+ใจ	NCMN
+ฉัน	NCMN
+รับรู้	VSTA
+ถึง	RPRE
+ความรู้สึก	NCMN
+ที่	PREL
+หลัง	VATT
+ไหล	VACT
+มาจาก	NCMN
+เขา	PPRS
+EOS
+เพียงเท่านั้นเองอยู่ๆ
+เพียง	DDBQ
+เท่านั้นเอง	ADVN
+อยู่	XVAE
+ๆ	PUNC
+EOS
+ใจฉันเหมือนเกิดปรากฏการณ์“คลิก”ขึ้นมาขา
+ใจ	NCMN
+ฉัน	PPRS
+เหมือน	VSTA
+เกิด	VSTA
+ปรากฏการณ์	NCMN
+“	NCMN
+คลิก	NCMN
+”	NPRP
+ขึ้น	XVAE
+มา	XVAE
+ขา	ADVN
+EOS
+จู่ๆฉันก็เกิดความคิดที่ว่าคนเราทุกคนต่างมีปัญหาของตัวเอง
+จู่ๆ	NCMN
+ฉัน	PPRS
+ก็	JSBR
+เกิด	VSTA
+ความคิด	NCMN
+ที่ว่า	JSBR
+คนเรา	NCMN
+ทุกคน	PDMN
+ต่าง	VSTA
+มีปัญหา	NCMN
+ของ	RPRE
+ตัวเอง	PDMN
+EOS
+ไม่มีใครสมบูรณ์แบบทุกสิ่ง
+ไม่	NEG
+มี	VSTA
+ใคร	PNTR
+สมบูรณ์แบบ	VSTA
+ทุกสิ่ง	NCMN
+EOS
+ทุกอย่างล้วนแล้วแต่เป็นสิ่งที่สมมติขึ้น
+ทุกอย่าง	PDMN
+ล้วนแล้วแต่	NCMN
+เป็น	VSTA
+สิ่ง	NCMN
+ที่	PREL
+สมมติ	VACT
+ขึ้น	XVAE
+EOS
+ไม่ได้มีอยู่จริง
+ไม่	NEG
+ได้	XVAM
+มี	VSTA
+อยู่	XVAE
+จริง	ADVN
+EOS
+ฉันไม่เข้าใจต้นตอที่อยู่ๆ
+ฉัน	PPRS
+ไม่	NEG
+เข้าใจ	VACT
+ต้นตอ	NCMN
+ที่อยู่	NCMN
+ๆ	PUNC
+EOS
+ความคิดของชีวิตนี้เข้ามาปักอยู่กลางใจฉันเต็มๆ
+ความคิด	NCMN
+ของ	RPRE
+ชีวิต	NCMN
+นี้	DDAC
+เข้ามา	VACT
+ปัก	NCMN
+อยู่	XVAE
+กลาง	VATT
+ใจ	ADVN
+ฉัน	PPRS
+เต็มๆ	NCMN
+EOS
+ฉันเริ่มมองเห็นทุกอย่างเบาบางลง
+ฉัน	PPRS
+เริ่ม	XVAM
+มองเห็น	VACT
+ทุกอย่าง	PDMN
+เบาบาง	XVAE
+ลง	XVAE
+EOS
+ไม่มีเหตุที่ทำให้โลกใบนี้ไม่น่าอยู่สำหรับฉันอีกต่อไป
+ไม่	NEG
+มี	VSTA
+เหตุ	NCMN
+ที่	PREL
+ทำให้	VACT
+โลก	NCMN
+ใบ	NCMN
+นี้	DDAC
+ไม่	NEG
+น่าอยู่	NCMN
+สำหรับ	RPRE
+ฉัน	PPRS
+อีกต่อไป	ADVN
+EOS
+ฉันรู้สึกว่าโลกใบนี้ยังมีอะไรอีกมากมายที่ฉันยังไม่รู้
+ฉัน	PPRS
+รู้สึก	VSTA
+ว่า	JSBR
+โลก	NCMN
+ใบ	NCMN
+นี้	DDAC
+ยังมี	NCMN
+อะไร	PNTR
+อีกมากมาย	ADVN
+ที่	JSBR
+ฉัน	PPRS
+ยัง	XVBM
+ไม่	NEG
+รู้	VSTA
+EOS
+เหมือนสิ่งที่ฉันเพิ่งจะรู้และเห็นจากการได้มองเขาและเกิดการ“คลิก”
+เหมือน	VSTA
+สิ่ง	NCMN
+ที่	PREL
+ฉัน	PPRS
+เพิ่งจะ	NCMN
+รู้	VSTA
+และ	JCRG
+เห็น	VSTA
+จาก	RPRE
+การ	FIXN
+ได้	XVAM
+มอง	VACT
+เขา	PPRS
+และ	JCRG
+เกิด	VSTA
+การ	FIXN
+“	VACT
+คลิก	NCMN
+”	NPRP
+EOS
+เมื่อปี4ฉันพยายามทำความเข้าใจกับตัวเอง
+เมื่อ	JSBR
+ปี	NCMN
+4	DONM
+ฉัน	PPRS
+พยายาม	VACT
+ทำความเข้าใจ	VACT
+กับ	RPRE
+ตัวเอง	PDMN
+EOS
+ฉันรู้สึกว่าสิ่งที่ทำให้ฉันสามารถ“คลิก”ได้นั้นคือการที่ฉันได้มองเห็นตัวฉันเองสะท้อนจากตัวเขา
+ฉัน	PPRS
+รู้สึก	VSTA
+ว่า	JSBR
+สิ่ง	NCMN
+ที่	PREL
+ทำให้	VACT
+ฉัน	PPRS
+สามารถ	XVAM
+“	VACT
+คลิก	NCMN
+”	NPRP
+ได้	XVAE
+นั้น	DDAC
+คือ	VSTA
+การ	FIXN
+ที่	PREL
+ฉัน	PPRS
+ได้	XVAM
+มองเห็น	VACT
+ตัว	NCMN
+ฉัน	PPRS
+เอง	PDMN
+สะท้อน	VACT
+จาก	RPRE
+ตัว	NCMN
+เขา	PPRS
+EOS
+มันก็แค่นั้นเองจริงๆ
+มัน	PPRS
+ก็	JSBR
+แค่นั้น	NCMN
+เอง	ADVN
+จริงๆ	ADVI
+EOS
+มันเป็นนามธรรมมากและยากที่จะอธิบาย
+มัน	PPRS
+เป็น	VSTA
+นามธรรม	NCMN
+มาก	ADVN
+และ	JCRG
+ยาก	ADVN
+ที่จะ	JSBR
+อธิบาย	VACT
+EOS
+หลัก“คลิก”นี้ทำให้ฉันเห็นว่าโลกใบนี้ชีวิตมนุษย์นี้มันก็ไม่มีอะไรมาก
+หลัก	NCMN
+“	NCMN
+คลิก	NCMN
+”	NCMN
+นี้	DDAC
+ทำให้	JSBR
+ฉัน	PPRS
+เห็น	VSTA
+ว่า	JSBR
+โลก	NCMN
+ใบ	NCMN
+นี้	DDAC
+ชีวิต	NCMN
+มนุษย์	NCMN
+นี้	DDAC
+มัน	PPRS
+ก็	XVBM
+ไม่	NEG
+มี	VSTA
+อะไร	PNTR
+มาก	ADVN
+EOS
+ก็มีเท่านี้
+ก็	JSBR
+มี	VSTA
+เท่านี้	DDAQ
+EOS
+ฉันไม่รู้สึกอยากตายอีกแล้ว
+ฉัน	PPRS
+ไม่	NEG
+รู้สึก	VACT
+อยาก	XVMM
+ตาย	VSTA
+อีกแล้ว	ADVN
+EOS
+ตรงกันข้าม...ฉันกลับอยากมีชีวิตอยู่นานๆ
+ตรงกัน	VSTA
+ข้าม.	CMTR
+ฉัน	PPRS
+กลับ	VACT
+อยาก	XVAM
+มีชีวิต	VSTA
+อยู่	XVAE
+นานๆ	ADVS
+EOS
+เพื่อค้นหาสิ่งใหม่ๆที่รอให้ฉันพบเจอ
+เพื่อ	JSBR
+ค้นหา	VACT
+สิ่งใหม่	NCMN
+ๆ	NCMN
+ที่	PREL
+รอ	VSTA
+ให้	JSBR
+ฉัน	PPRS
+พบ	VACT
+เจอ	VACT
+EOS
+และมันมักจะมีความพิเศษในตัวของมันเอง
+และ	JCRG
+มัน	PPRS
+มักจะ	XVBM
+มี	VSTA
+ความ	FIXN
+พิเศษ	VATT
+ใน	RPRE
+ตัว	NCMN
+ของ	RPRE
+มัน	PPRS
+เอง	PDMN
+EOS
+ฉันเคยป่วยอยากตายมองแต่ความทุกข์ของตัวเองมานานเกือบ8ปี
+ฉัน	PPRS
+เคย	XVMM
+ป่วย	VACT
+อยาก	XVMM
+ตาย	VSTA
+มอง	VACT
+แต่	JCRG
+ความทุกข์	NCMN
+ของ	RPRE
+ตัวเอง	PDMN
+มา	XVAE
+นาน	ADVN
+เกือบ	DIBQ
+8	DCNM
+ปี	CMTR
+EOS
+คราวนี้ฉันจะไม่ยอมเสียเวลาอีกแล้ว
+คราวนี้	NCMN
+ฉัน	PPRS
+จะ	XVBM
+ไม่	NEG
+ยอม	VSTA
+เสียเวลา	VSTA
+อีกแล้ว	ADVN
+EOS
+ฉันจะใช้ชีวิตที่เหลือกับร่างกายที่ยังเดินไหวของฉันในการค้นพบสิ่งที่น่าตื่นตาตื่นใจใหม่ๆต่อไป
+ฉัน	PPRS
+จะ	XVBM
+ใช้ชีวิต	VACT
+ที่	PREL
+เหลือ	VSTA
+กับ	RPRE
+ร่างกาย	NCMN
+ที่	PREL
+ยัง	XVBM
+เดิน	VACT
+ไหว	NCMN
+ของ	RPRE
+ฉัน	PPRS
+ใน	RPRE
+การ	FIXN
+ค้นพบ	VACT
+สิ่ง	NCMN
+ที่	PREL
+น่าตื่นตาตื่นใจ	VATT
+ใหม่	ADVN
+ๆ	PUNC
+ต่อไป	ADVN
+EOS
+ทั้งชีวิตที่เหลืออยู่ฉันจะทำอย่างเต็มที่
+ทั้ง	JCRG
+ชีวิต	NCMN
+ที่	PREL
+เหลืออยู่	VSTA
+ฉัน	PPRS
+จะ	XVBM
+ทำ	VACT
+อย่าง	FIXV
+เต็มที่	VSTA
+EOS
+ฉันนึกถึงน้องหมอขึ้นมาทันที
+ฉัน	PPRS
+นึกถึง	VACT
+น้อง	NCMN
+หมอ	NPRP
+ขึ้น	XVAE
+มา	XVAE
+ทันที	ADVN
+EOS
+ถ้าวันนั้นก่อนที่น้องหมอจะฆ่าตัวตาย
+ถ้า	JSBR
+วันนั้น	NCMN
+ก่อนที่	JSBR
+น้อง	NCMN
+หมอ	NCMN
+จะ	XVBM
+ฆ่าตัวตาย	NCMN
+EOS
+น้องหมอได้เห็นสิ่งที่ฉันเห็น
+น้อง	NCMN
+หมอ	NCMN
+ได้	XVAE
+เห็น	VSTA
+สิ่ง	NCMN
+ที่	PREL
+ฉัน	PPRS
+เห็น	VSTA
+EOS
+คือเห็นตัวเขาเองอย่างแท้จริง
+คือ	JSBR
+เห็น	VSTA
+ตัว	NCMN
+เขา	PPRS
+เอง	DDAN
+อย่าง	FIXV
+แท้จริง	VATT
+EOS
+วันนี้เขาคงเป็นหมอสุดหล่อที่เล่นกีตาร์เก่งมากคนหนึ่ง
+วันนี้	NCMN
+เขา	PPRS
+คง	XVBM
+เป็น	VSTA
+หมอ	NCMN
+สุด	ADVN
+หล่อ	VATT
+ที่	PREL
+เล่น	VACT
+กีตาร์	NCMN
+เก่ง	NCMN
+มาก	ADVN
+คน	CNIT
+หนึ่ง	DCNM
+EOS
+แต่ฉันไม่มีเวลามานั่งเสียใจกับอดีตที่เปลี่ยนแปลงอะไรไม่ได้หรือมีไว้ให้เฝ้าคอยสิ่งที่จะเกิดขึ้นในอนาคต
+แต่	JCRG
+ฉัน	PPRS
+ไม่	NEG
+มี	VSTA
+เวลา	NCMN
+มา	XVAE
+นั่ง	VACT
+เสียใจ	NCMN
+กับ	RPRE
+อดีต	NCMN
+ที่	PREL
+เปลี่ยนแปลง	VACT
+อะไร	PNTR
+ไม่	NEG
+ได้	VSTA
+หรือ	JCRG
+มี	VSTA
+ไว้	XVAE
+ให้	RPRE
+เฝ้าคอย	VACT
+สิ่ง	NCMN
+ที่จะ	JSBR
+เกิดขึ้น	VSTA
+ในอนาคต	NCMN
+EOS
+ฉันมีเวลาเพื่อใช้เฉพาะกับช่วงเวลาที่เป็นปัจจุบันเท่านั้น
+ฉัน	PPRS
+มี	VSTA
+เวลา	NCMN
+เพื่อ	JSBR
+ใช้	VACT
+เฉพาะ	VATT
+กับ	RPRE
+ช่วงเวลา	NCMN
+ที่	PREL
+เป็น	VSTA
+ปัจจุบัน	NCMN
+เท่านั้น	ADVN
+EOS
+ฉันจะมีความสุขสักที
+ฉัน	PPRS
+จะ	XVBM
+มีความสุข	VACT
+สักที	NCMN
+EOS
+เราสองคนแลกเบอร์โทรศัพท์ส่วนตัวกัน
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+แลก	NCMN
+เบอร์โทรศัพท์	NCMN
+ส่วนตัว	PDMN
+กัน	ADVN
+EOS
+เผื่อเวลาฉันกลับไปแล้วฉันจะยังสามารถติดต่อเขาผ่านแอปพลิเคชันได้
+เผื่อ	ADVN
+เวลา	NCMN
+ฉัน	PPRS
+กลับ	VACT
+ไป	XVAE
+แล้ว	JSBR
+ฉัน	PPRS
+จะ	XVBM
+ยัง	XVBM
+สามารถ	XVAM
+ติดต่อ	VACT
+เขา	PPRS
+ผ่าน	VACT
+แอปพลิเคชัน	NCMN
+ได้	XVAE
+EOS
+เทรนนิ่งจบแล้ว
+เทรนนิ่ง	VATC
+จบ	VSTA
+แล้ว	XVAE
+EOS
+เพื่อนร่วมงานฉันเริ่มทยอยออกมา
+เพื่อนร่วมงาน	NCMN
+ฉัน	PPRS
+เริ่ม	VSTA
+ทยอย	NCMN
+ออกมา	XVAE
+EOS
+ฉันบอกเอดูว่าฉันไม่อยากให้ใครเห็นฉันร้องไห้
+ฉัน	PPRS
+บอก	VACT
+เอ	NCMN
+ดู	VACT
+ว่า	JSBR
+ฉัน	PPRS
+ไม่	NEG
+อยาก	XVMM
+ให้	VACT
+ใคร	PNTR
+เห็น	VSTA
+ฉัน	PPRS
+ร้องไห้	VACT
+EOS
+เขาเลยพาฉันเดินหนีออกไปด้านหลัง
+เขา	PPRS
+เลย	JSBR
+พา	VACT
+ฉัน	NCMN
+เดิน	VACT
+หนี	VACT
+ออก	XVAE
+ไป	XVAE
+ด้านหลัง	NCMN
+EOS
+และเดินไปส่งฉันจนถึงที่พัก
+และ	JCRG
+เดิน	VACT
+ไป	XVAE
+ส่ง	VACT
+ฉัน	NCMN
+จนถึง	RPRE
+ที่พัก	NCMN
+EOS
+เรากอดลากัน
+เรา	PPRS
+กอด	VACT
+ลา	NCMN
+กัน	ADVN
+EOS
+ตอนนั้นฉันไม่นึกหรอกว่าเขาจะติดต่อฉันหลังจากวันนั้นฉันเลยแค่ลาเขาอย่างเรียบง่าย
+ตอนนั้น	NCMN
+ฉัน	PPRS
+ไม่	NEG
+นึก	VACT
+หรอ	NCMN
+กว่า	JSBR
+เขา	PPRS
+จะ	XVBM
+ติดต่อ	VACT
+ฉัน	PPRS
+หลังจาก	JSBR
+วันนั้น	VSTA
+ฉัน	NCMN
+เลย	XVAE
+แค่	DDBQ
+ลา	NCMN
+เขา	PPRS
+อย่าง	FIXV
+เรียบง่าย	NCMN
+EOS
+และหวังจะมีโอกาสได้เจอกันอีก
+และ	JCRG
+หวัง	VSTA
+จะ	XVBM
+มีโอกาส	VSTA
+ได้	XVAE
+เจอกัน	ADVN
+อีก	ADVN
+EOS
+ขอบคุณที่เป็นกระจกเงาสะท้อนตัวฉัน
+ขอบคุณ	VACT
+ที่	PREL
+เป็น	VSTA
+กระจกเงา	NCMN
+สะท้อน	VSTA
+ตัว	CNIT
+ฉัน	NCMN
+EOS
+ให้ฉันเห็นตัวเองในแบบที่ฉันเป็น
+ให้	JSBR
+ฉัน	PPRS
+เห็น	VSTA
+ตัวเอง	PDMN
+ใน	RPRE
+แบบ	NCMN
+ที่	PREL
+ฉัน	PPRS
+เป็น	VSTA
+EOS
+จนฉันเห็นมันอย่างถ่องแท้นะกระจกเงาเอดู
+จน	JSBR
+ฉัน	PPRS
+เห็น	VSTA
+มัน	PPRS
+อย่าง	FIXV
+ถ่องแท้	NCMN
+นะ	NCMN
+กระจกเงา	DCNM
+เอ	NCMN
+ดู	VACT
+EOS

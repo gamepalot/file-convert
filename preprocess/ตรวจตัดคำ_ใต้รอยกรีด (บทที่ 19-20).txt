@@ -1,0 +1,2181 @@
+19ชัยชนะของแม่
+19	NLBL
+ชัยชนะ	NCMN
+ของ	RPRE
+แม่	NCMN
+EOS
+ฉันรู้สึกทรมานจนต้องกรีดตัวเองให้ความเศร้าโศกในใจเบาบางลง
+ฉัน	PPRS
+รู้สึก	VSTA
+ทรมาน	VSTA
+จน	JSBR
+ต้อง	XVMM
+กรีด	VACT
+ตัวเอง	PDMN
+ให้	RPRE
+ความ	FIXN
+เศร้าโศก	VSTA
+ใน	RPRE
+ใจ	NCMN
+เบาบาง	VATT
+ลง	XVAE
+EOS
+แต่มันก็ยังคงวนเวียนอยู่ภายในใจอันแหลกเหลวของฉันตลอดเวลา
+แต่	JCRG
+มัน	PPRS
+ก็	JSBR
+ยังคง	XVBM
+วนเวียน	VACT
+อยู่	VSTA
+ภายใน	RPRE
+ใจ	NCMN
+อัน	PREL
+แหลกเหลว	VATT
+ของ	RPRE
+ฉัน	PPRS
+ตลอดเวลา	ADVN
+EOS
+ส่วนร่างกายฉันก็ทรมานไม่แพ้กัน
+ส่วน	NCMN
+ร่างกาย	NCMN
+ฉัน	PPRS
+ก็	JSBR
+ทรมาน	VSTA
+ไม่	NEG
+แพ้	VATT
+กัน	ADVN
+EOS
+ในขั้นตอนการถอนยาออกจากร่างกายฉันมันทรมานมาก
+ใน	RPRE
+ขั้นตอน	NCMN
+การ	FIXN
+ถอน	VACT
+ยา	NCMN
+ออกจาก	VACT
+ร่างกาย	NCMN
+ฉัน	PPRS
+มัน	VATT
+ทรมาน	VSTA
+มาก	ADVN
+EOS
+ท้อแท้
+ท้อแท้	VSTA
+EOS
+รู้สึกเหมือนร่างกายมันกำลังแตกเป็นเสี่ยงๆ
+รู้สึก	VSTA
+เหมือน	VSTA
+ร่างกาย	NCMN
+มัน	PPRS
+กำลัง	XVBM
+แตก	VSTA
+เป็น	VSTA
+เสี่ยง ๆ	VATT
+EOS
+จะเป็นจะตายเสียให้ได้
+จะ	XVBM
+เป็น	VSTA
+จะ	XVBM
+ตาย	VSTA
+เสีย	VSTA
+ให้ได้	ADVN
+EOS
+ช่างแตกต่างกับความรู้สึกในขณะเสพยาลิบลับ
+ช่าง	XVMM
+แตกต่าง	VACT
+กับ	RPRE
+ความ	FIXN
+รู้สึก	VSTA
+ใน	RPRE
+ขณะ	RPRE
+เสพ	VACT
+ยา	NCMN
+ลิบลับ	ADVN
+EOS
+เมื่อฉันเกิดอาการอยากยามากๆถึงขั้นเรียกว่า“ลงแดง”
+เมื่อ	RPRE
+ฉัน	PPRS
+เกิด	VSTA
+อาการ	NCMN
+อยาก	XVMM
+ยา	NCMN
+มาก ๆ	ADVN
+ถึงขั้น	JSBR
+เรียก	VACT
+ว่า	JSBR
+“	PUNC
+ลงแดง	VSTA
+”	PUNC
+EOS
+แม่ให้ฉันดื่มน้ำผสมน้ำตาลกลั้วท้อง
+แม่	NCMN
+ให้	RPRE
+ฉัน	PPRS
+ดื่ม	VACT
+น้ำ	NCMN
+ผสม	VACT
+น้ำตาล	NCMN
+กลั้ว	VACT
+ท้อง	NCMN
+EOS
+แม่พยุงฉันให้มานั่งที่พื้นนิ่งๆ
+แม่	NCMN
+พยุง	VACT
+ฉัน	PPRS
+ให้	VACT
+มา	XVAM
+นั่ง	VACT
+ที่	RPRE
+พื้น	NCMN
+นิ่ง ๆ	VATT
+EOS
+ฉันหมดเรี่ยวแรง
+ฉัน	PPRS
+หมด	VSTA
+เรี่ยวแรง	NCMN
+EOS
+พิงหลังกับผนังจนยากที่จะขยับเขยื้อนอะไร
+พิง	VACT
+หลัง	NCMN
+กับ	JCRG
+ผนัง	NCMN
+จน	JSBR
+ยาก	VATT
+ที่จะ	JSBR
+ขยับเขยื้อน	VACT
+อะไร	PNTR
+EOS
+แม่ขอให้ฉันลองนั่งขัดสมาธิดู
+แม่	NCMN
+ขอให้	VACT
+ฉัน	PPRS
+ลอง	XVMM
+นั่งขัดสมาธิ	VACT
+ดู	VACT
+EOS
+ฉันค่อยๆเอื้อมมือไปจับขาทั้งสองข้าง
+ฉัน	PPRS
+ค่อยๆ	VACT
+เอื้อม	VACT
+มือ	NCMN
+ไป	XVAE
+จับ	VACT
+ขา	NCMN
+ทั้ง	DDBQ
+สอง	NCNM
+ข้าง	CLTV
+EOS
+พาดทับกันไว้ตามแม่บอก
+พาด	VACT
+ทับกัน	VACT
+ไว้	XVAE
+ตาม	RPRE
+แม่	NCMN
+บอก	VACT
+EOS
+มือทั้งสองข้างฉันตกลงบนหน้าตัก
+มือ	NCMN
+ทั้ง	DDBQ
+สอง	NCNM
+ข้าง	DDAN
+ฉัน	PPRS
+ตกลง	VACT
+บน	RPRE
+หน้าตัก	NCMN
+EOS
+ฉันหลับตานิ่งด้วยความอ่อนล้า
+ฉัน	PPRS
+หลับตา	VACT
+นิ่ง	VACT
+ด้วย	RPRE
+ความ	FIXN
+อ่อนล้า	VACT
+EOS
+แม่เป็นคนที่ปฏิบัติธรรมอย่างสม่ำเสมอ
+แม่	NCMN
+เป็น	VSTA
+คน	NCMN
+ที่	PREL
+ปฏิบัติธรรม	VSTA
+อย่าง	FIXV
+สม่ำเสมอ	VATT
+EOS
+แม่เลยสอนให้ฉันข่มจิตที่เจ็บปวดและท้อแท้ทางใจรวมถึงความทรมานทางกายด้วยการเจริญสติ
+แม่	NCMN
+เลย	JSBR
+สอน	VACT
+ให้	JSBR
+ฉัน	PPRS
+ข่มจิต	VSTA
+ที่	PREL
+เจ็บปวด	VSTA
+และ	JCRG
+ท้อแท้	VSTA
+ทางใจ	NCMN
+รวมถึง	JCRG
+ความ	FIXN
+ทรมาน	VACT
+ทางกาย	NCMN
+ด้วย	RPRE
+การ	FIXN
+เจริญ	VSTA
+สติ	NCMN
+EOS
+แม่สอนให้ฉันไม่ต้องพยายามฝืนข่มจิตให้นิ่ง
+แม่	NCMN
+สอน	VACT
+ให้	JSBR
+ฉัน	PPRS
+ไม่ต้อง	XVAM
+พยายาม	VACT
+ฝืน	VSTA
+ข่มจิต	VSTA
+ให้	JSBR
+นิ่ง	ADVN
+EOS
+ให้ปล่อยใจให้เป็นอิสระ
+ให้	JSBR
+ปล่อยใจ	VSTA
+ให้	JSBR
+เป็นอิสระ	VSTA
+EOS
+ไม่ว่าจะเกิดสิ่งใดกับใจหรือร่างกาย
+ไม่	NEG
+ว่า	JSBR
+จะ	XVBM
+เกิด	VSTA
+สิ่งใด	NCMN
+กับ	RPRE
+ใจ	NCMN
+หรือ	JCRG
+ร่างกาย	NCMN
+EOS
+แค่ใช้สติกำหนดจิตให้รู้เท่าทันว่าสิ่งนั้นกำลังเกิดขึ้น
+แค่	DDBQ
+ใช้	VACT
+สติ	NCMN
+กำหนด	VACT
+จิต	NCMN
+ให้	JSBR
+รู้เท่าทัน	VACT
+ว่า	JSBR
+สิ่ง	NCMN
+นั้น	DDAC
+กำลัง	XVBM
+เกิดขึ้น	VSTA
+EOS
+แค่นั้นไม่ต้องคิดหรือตามติดปรุงแต่งใดๆต่อ
+แค่	DIBQ
+นั้น	DDAC
+ไม่ต้อง	NEG
+คิด	VSTA
+หรือ	JCRG
+ตามติด	VACT
+ปรุงแต่ง	VACT
+ใดๆ	DIAC
+ต่อ	RPRE
+EOS
+แล้วรีบมาโฟกัสที่การเคลื่อนไหว
+แล้ว	JSBR
+รีบ	VACT
+มา	XVAE
+โฟกัส	VACT
+ที่	RPRE
+การ	FIXN
+เคลื่อนไหว	VACT
+EOS
+บริเวณเนินท้องยุบพองไปตามกระบวนการหายใจที่เอาอากาศที่หายใจเข้าแล้วลมจะเข้ามาทำให้ท้องพอง
+บริเวณ	NCMN
+เนินท้อง	NCMN
+ยุบ	VACT
+พอง	VACT
+ไป	XVAE
+ตาม	RPRE
+กระบวนการ	NCMN
+หายใจ	VACT
+ที่	PREL
+เอา	VACT
+อากาศ	NCMN
+ที่	PREL
+หายใจเข้า	VACT
+แล้ว	XVAE
+ลม	NCMN
+จะ	XVBM
+เข้ามา	VACT
+ทำให้	VACT
+ท้อง	NCMN
+พอง	VSTA
+EOS
+เมื่อหายใจออกลมที่ท้องก็จะค่อยๆออกไปแล้วท้องก็จะยุบ
+เมื่อ	JSBR
+หายใจออก	VACT
+ลม	NCMN
+ที่	PREL
+ท้อง	NCMN
+ก็	JSBR
+จะ	XVBM
+ค่อยๆ	XVMM
+ออก	XVAE
+ไป	XVAE
+แล้ว	XVAE
+ท้อง	VACT
+ก็	JSBR
+จะ	XVBM
+ยุบ	VACT
+EOS
+เป็นแบบนี้ในทุกๆครั้ง
+เป็น	VSTA
+แบบนี้	NCMN
+ใน	RPRE
+ทุกๆ	DDBQ
+ครั้ง	CFQC
+EOS
+มันยากกว่าฉันจะทำตามได้ในครั้งแรกๆ
+มัน	PPRS
+ยาก	VATT
+กว่า	JCMP
+ฉัน	PPRS
+จะ	XVBM
+ทำตาม	VACT
+ได้	XVAE
+ใน	RPRE
+ครั้ง	CLTV
+แรก ๆ	DOMN
+EOS
+แต่พอจับทางและเริ่มทำได้
+แต่	JCRG
+พอ	XVAM
+จับ	VACT
+ทาง	NCMN
+และ	JCRG
+เริ่ม	VSTA
+ทำได้	VSTA
+EOS
+ผลลัพธ์ของมันดีเกินคาด
+ผลลัพธ์	NCMN
+ของ	RPRE
+มันดี	NCMN
+เกินคาด	NCMN
+EOS
+จิตฉันไม่ไปโฟกัสความอ่อนไหวเจ็บปวดใดๆอีก
+จิต	NCMN
+ฉัน	PPRS
+ไม่	NEG
+ไป	XVAM
+โฟกัส	VACT
+ความ	FIXN
+อ่อนไหว	VACT
+เจ็บปวด	NCMN
+ใดๆ	DIAC
+อีก	DDBQ
+EOS
+แต่กลับมาเฝ้าดูความเคลื่อนไหวที่ท้องแทน
+แต่	JCRG
+กลับมา	VACT
+เฝ้าดู	VACT
+ความ	FIXN
+เคลื่อนไหว	NCMN
+ที่	PREL
+ท้อง	NCMN
+แทน	VSTA
+EOS
+แม่บอกฉันว่ากลไกของวิธีนี้คล้ายกับการหนีส่วนที่เจ็บปวดไปก่อน
+แม่	NCMN
+บอก	VACT
+ฉัน	NCMN
+ว่า	RPRE
+กลไก	NCMN
+ของ	RPRE
+วิธี	NCMN
+นี้	DDAC
+คล้าย	VSTA
+กับ	RPRE
+การ	FIXN
+หนี	VACT
+ส่วน	NCMN
+ที่	PREL
+เจ็บปวด	VACT
+ไป	XVAE
+ก่อน	ADVN
+EOS
+เอาแค่จิตตระหนักรู้ว่าเจ็บพอ
+เอา	VACT
+แค่	DDBQ
+จิต	NCMN
+ตระหนัก	VSTA
+รู้	VSTA
+ว่า	JSBR
+เจ็บ	VSTA
+พอ	ADVN
+EOS
+ไม่ต้องไปสนใจมัน
+ไม่ต้อง	NEG
+ไป	XVAE
+สนใจ	VSTA
+มัน	PPRS
+EOS
+แต่ไปโฟกัสในจุดที่สบายแทน
+แต่	JCRG
+ไป	XVAE
+โฟกัส	NCMN
+ใน	RPRE
+จุด	NCMN
+ที่	PREL
+สบาย	VATT
+แทน	VSTA
+EOS
+ฝึกบ่อยๆฉันก็ค่อยๆสงบสติอารมณ์ได้มากขึ้นเป็นลำดับ
+ฝึก	VACT
+บ่อยๆ	ADVI
+ฉัน	PPRS
+ก็	JSBR
+ค่อยๆ	XVMM
+สงบสติอารมณ์	VSTA
+ได้	XVAE
+มากขึ้น	ADVN
+เป็นลำดับ	ADVP
+EOS
+ฉันว่ามันได้ผลดีนะ
+ฉัน	PPRS
+ว่า	JSBR
+มัน	PPRS
+ได้	VSTA
+ผลดี	NCMN
+นะ	NCMN
+EOS
+มันทำให้ทุกครั้งที่ฉันยังอยู่ในสมาธิ
+มัน	PPRS
+ทำให้	VACT
+ทุกครั้งที่	JSBR
+ฉัน	PPRS
+ยังอยู่	VACT
+ใน	RPRE
+สมาธิ	VACT
+EOS
+ใจและกายฉันแทบไม่อยากยาอีกเลย
+ใจ	NCMN
+และ	JCRG
+กาย	NCMN
+ฉัน	PPRS
+แทบ	ADVN
+ไม่	NEG
+อยาก	XVMM
+ยา	NCMN
+อีก	ADVN
+เลย	XVAE
+EOS
+ถึงแม้ฉันจะค่อยๆดีขึ้นด้วยการเจริญสติ
+ถึงแม้	JSBR
+ฉัน	PPRS
+จะ	XVBM
+ค่อยๆ	XVMM
+ดีขึ้น	ADVN
+ด้วย	RPRE
+การ	FIXN
+เจริญ	VSTA
+สติ	ADVN
+EOS
+แต่ฉันมันก็คนติดยาคนหนึ่ง
+แต่	JCRG
+ฉัน	PPRS
+มัน	PPRS
+ก็	JSBR
+คน	CNIT
+ติดยา	DCNM
+คน	CNIT
+หนึ่ง	DCNM
+EOS
+ใจฉันมักอยากกลับไปใช้มันอีก
+ใจ	NCMN
+ฉัน	PPRS
+มัก	XVBM
+อยาก	XVMM
+กลับ	VACT
+ไป	XVAE
+ใช้	VACT
+มัน	PPRS
+อีก	DDBQ
+EOS
+โชคดีของฉันที่แม่อยู่คอยดูแลฉันในทุกขณะ
+โชคดี	ADVN
+ของ	RPRE
+ฉัน	PPRS
+ที่	PREL
+แม่	NCMN
+อยู่	XVAE
+คอย	VACT
+ดูแล	VACT
+ฉัน	NCMN
+ใน	RPRE
+ทุกขณะ	NCMN
+EOS
+ฉันจึงต้องพยายามข่มความต้องการหนีไปซื้อยามาเสพต่อไป
+ฉัน	PPRS
+จึง	XVBM
+ต้อง	XVMM
+พยายาม	VACT
+ข่ม	VSTA
+ความ	FIXN
+ต้องการ	VSTA
+หนี	VACT
+ไป	XVAE
+ซื้อ	VACT
+ยา	NCMN
+มา	XVAE
+เสพ	VACT
+ต่อไป	ADVN
+EOS
+ผ่านไปเกือบเดือนที่ฉันปฏิบัติธรรมเจริญสติเป็นกิจวัตร
+ผ่าน	VACT
+ไป	XVAE
+เกือบ	DIBQ
+เดือน	NCMN
+ที่	PREL
+ฉัน	PPRS
+ปฏิบัติธรรม	NCMN
+เจริญ	VSTA
+สติ	NCMN
+เป็น	VSTA
+กิจวัตร	NCMN
+EOS
+ออกกำลังกาย
+ออกกำลังกาย	VACT
+EOS
+กินอาหารดีๆมีประโยชน์ที่แม่จัดหามาให้
+กิน	VACT
+อาหาร	NCMN
+ดี ๆ	VATT
+มี	VSTA
+ประโยชน์	NCMN
+ที่	RPRE
+แม่	NCMN
+จัดหา	VACT
+มา	XVAE
+ให้	JSBR
+EOS
+ฉันก็รู้สึกตัวเบาใจเบาขึ้นเมื่อได้ถอนยาสำเร็จสักที
+ฉัน	PPRS
+ก็	JSBR
+รู้สึก	VSTA
+ตัวเบา	VSTA
+ใจเบา	VSTA
+ขึ้น	XVAE
+เมื่อ	JSBR
+ได้	XVAM
+ถอน	VACT
+ยา	NCMN
+สำเร็จ	VSTA
+สักที	ADVN
+EOS
+ฉันรู้สึกขยาดกับมันมาก
+ฉัน	PPRS
+รู้สึก	VSTA
+ขยาด	VSTA
+กับ	RPRE
+มัน	PPRS
+มาก	ADVN
+EOS
+มันหนักหนาเอาการมากๆกับการเลิกยาตัวนี้
+มัน	PPRS
+หนักหนา	ADVN
+เอาการ	VACT
+มาก ๆ	ADVN
+กับ	RPRE
+การ	FIXN
+เลิก	VACT
+ยา	NCMN
+ตัว	CNIT
+นี้	DDAC
+EOS
+ฉันเข็ดมากจริงๆ
+ฉัน	PPRS
+เข็ด	VATT
+มาก	ADVN
+จริง ๆ	ADVI
+EOS
+มันไม่มีอะไรดีเลย
+มัน	PPRS
+ไม่	NEG
+มี	VSTA
+อะไร	PNTR
+ดี	ADVN
+เลย	ADVN
+EOS
+สุขเพียงชั่วคราวขณะเสพเท่านั้น
+สุข	VSTA
+เพียง	DDBQ
+ชั่วคราว	ADVN
+ขณะ	JSBR
+เสพ	NCMN
+เท่านั้น	DDAQ
+EOS
+แต่ผลลัพธ์ที่ตามมาทำให้ฉันทั้งไร้ยางอายไร้สติ
+แต่	JCRG
+ผลลัพธ์	NCMN
+ที่	PREL
+ตามมา	VACT
+ทำให้	VACT
+ฉัน	NCMN
+ทั้ง	JCRG
+ไร้ยางอาย	VSTA
+ไร้สติ	VSTA
+EOS
+กว่าจะเลิกมันมาได้ก็แสนยากและทรมานอีกด้วย
+กว่า	JSBR
+จะ	XVBM
+เลิก	VACT
+มัน	PPRS
+มา	XVAE
+ได้	XVAM
+ก็	JSBR
+แสน	DCNM
+ยาก	VATT
+และ	JCRG
+ทรมาน	VSTA
+อีกด้วย	ADVN
+EOS
+ไม่เอาอีกแล้วซาตินี้
+ไม่	NEG
+เอา	VACT
+อีกแล้ว	ADVN
+ซา	JCMP
+ติ	NCMN
+นี้	DDAC
+EOS
+ฉันจำจนขึ้นใจเลย
+ฉัน	PPRS
+จำ	VSTA
+จน	JSBR
+ขึ้นใจ	VSTA
+เลย	XVAE
+EOS
+การที่แม่มาอยู่กับฉัน
+การ	FIXN
+ที่	PREL
+แม่	NCMN
+มา	XVAE
+อยู่	XVAE
+กับ	RPRE
+ฉัน	PPRS
+EOS
+คอยดูแลจนฉันเลิกยาได้ทำให้ฉันซึ้งใจในความพยายามของแม่และรักแม่ขึ้นมาก
+คอย	VACT
+ดูแล	VACT
+จน	JSBR
+ฉัน	PPRS
+เลิก	VACT
+ยา	NCMN
+ได้	XVAE
+ทำให้	VACT
+ฉัน	NCMN
+ซึ้งใจ	NCMN
+ใน	RPRE
+ความ	FIXN
+พยายาม	VSTA
+ของ	RPRE
+แม่	NCMN
+และ	JCRG
+รัก	VSTA
+แม่	NCMN
+ขึ้น	XVAE
+มาก	ADVN
+EOS
+แม้ลึกๆในใจฉันจะบอกว่าฉันเกลียดแม่ที่ทำให้ฉันกลายเป็นโรคที่ไม่มีวันหายอย่างนี้
+แม้	JSBR
+ลึก ๆ	VATT
+ใน	RPRE
+ใจ	NCMN
+ฉัน	NCMN
+จะ	XVBM
+บอก	VSTA
+ว่า	JCMP
+ฉัน	PPRS
+เกลียด	VSTA
+แม่	NCMN
+ที่	PREL
+ทำให้	VACT
+ฉัน	PPRS
+กลายเป็น	VSTA
+โรค	NCMN
+ที่	PREL
+ไม่	NEG
+มี	VSTA
+วัน	NCMN
+หาย	VSTA
+อย่างนี้	NCMN
+EOS
+ถ้าแม่ไม่เคยทำร้ายจิตใจฉันอย่างรุนแรง
+ถ้า	JSBR
+แม่	NCMN
+ไม่	NEG
+เคย	XVMM
+ทำร้าย	VACT
+จิตใจ	NCMN
+ฉัน	NCMN
+อย่าง	FIXV
+รุนแรง	VATT
+EOS
+วันนี้ฉันคงเป็นคนปกติไม่ต้องมาทรมานโศกเศร้าไร้ค่าว่างเปล่าและไร้ตัวตนเช่นนี้
+วันนี้	NCMN
+ฉัน	PPRS
+คง	XVBM
+เป็น	VSTA
+คน	NCMN
+ปกติ	VATT
+ไม่ต้อง	NCMN
+มา	XVAE
+ทรมาน	VSTA
+โศกเศร้า	VSTA
+ไร้ค่า	VSTA
+ว่างเปล่า	VATT
+และ	JCRG
+ไร้	VSTA
+ตัวตน	NCMN
+เช่นนี้	DDAN
+EOS
+ฉันทั้งรักและเกลียดแม่
+ฉัน	NCMN
+ทั้ง	DDBQ
+รัก	VSTA
+และ	JCRG
+เกลียด	VSTA
+แม่	NCMN
+EOS
+ความรู้สึกฉันมันแสนซับซ้อน
+ความ	FIXN
+รู้สึก	VSTA
+ฉัน	PPRS
+มัน	PPRS
+แสน	DCNM
+ซับซ้อน	VSTA
+EOS
+อธิบายได้ยากยิ่ง
+อธิบาย	VACT
+ได้	XVAE
+ยาก	ADVN
+ยิ่ง	ADVN
+EOS
+รู้เพียงแต่ฉันคิดถึงเวลาอยู่ไกลแม่
+รู้	VSTA
+เพียงแต่	JSBR
+ฉัน	PPRS
+คิดถึง	VSTA
+เวลา	NCMN
+อยู่	XVAE
+ไกล	ADVN
+แม่	NCMN
+EOS
+มีความสุขที่ได้เจอ
+มี	VSTA
+ความ	FIXN
+สุข	VSTA
+ที่	PREL
+ได้	XVAM
+เจอ	VACT
+EOS
+แต่เกลียดทุกครั้งที่แม่พยายามจะทำหน้าที่แม่หรือพยายามเข้าหาฉัน
+แต่	JCRG
+เกลียด	VSTA
+ทุกครั้งที่	JSBR
+แม่	NCMN
+พยายาม	VSTA
+จะ	XVBM
+ทำหน้าที่	VACT
+แม่	NCMN
+หรือ	JCRG
+พยายาม	VSTA
+เข้าหา	VACT
+ฉัน	NCMN
+EOS
+มันยากที่จะปรับตัวและใจให้อยู่ร่วมกับแม่จนรอดมาถึงวันที่เลิกยาได้หายขาด
+มัน	PPRS
+ยาก	VATT
+ที่จะ	JSBR
+ปรับตัว	VACT
+และ	JCRG
+ใจ	VACT
+ให้	VACT
+อยู่	XVAE
+ร่วมกับ	RPRE
+แม่	NCMN
+จน	JSBR
+รอด	VSTA
+มาถึง	VACT
+วันที่	NCMN
+เลิก	VACT
+ยา	NCMN
+ได้	XVAE
+หายขาด	VSTA
+EOS
+ในคอนโดฉันมีห้องนอนและห้องนั่งเล่น
+ใน	RPRE
+คอนโด	NCMN
+ฉัน	PPRS
+มี	VSTA
+ห้องนอน	NCMN
+และ	JCRG
+ห้องนั่งเล่น	NCMN
+EOS
+เมื่อแม่มาพักกับฉันฉันเลยมานอนที่โซฟาในห้องนั่งเล่นตลอด
+เมื่อ	JSBR
+แม่	NCMN
+มา	XVAE
+พัก	VACT
+กับ	RPRE
+ฉัน	NCMN
+ฉัน	NCMN
+เลย	XVAE
+มา	XVAE
+นอน	VACT
+ที่	RPRE
+โซฟา	NCMN
+ใน	RPRE
+ห้องนั่งเล่น	NCMN
+ตลอด	RPRE
+EOS
+วันนี้เป็นวันที่แม่ต้องกลับแล้ว
+วันนี้	NCMN
+เป็น	VSTA
+วันที่	NCMN
+แม่	NCMN
+ต้อง	XVMM
+กลับ	VACT
+แล้ว	XVAE
+EOS
+ภารกิจแม่สำเร็จแล้ว
+ภารกิจ	NCMN
+แม่	NCMN
+สำเร็จ	VSTA
+แล้ว	XVAE
+EOS
+ฉันสับสนในใจ
+ฉัน	PPRS
+สับสน	VSTA
+ใน	RPRE
+ใจ	NCMN
+EOS
+ฉันคิดถึงแม่
+ฉัน	PPRS
+คิดถึง	VSTA
+แม่	NCMN
+EOS
+ไม่อยากให้แม่จากไป
+ไม่	NEG
+อยาก	XVMM
+ให้	VACT
+แม่	NCMN
+จากไป	VACT
+EOS
+แต่อีกใจก็ดีใจที่ไม่ต้องเจอแม่อีก
+แต่	JCRG
+อีก	DDBQ
+ใจ	NCMN
+ก็	JSBR
+ดีใจ	VSTA
+ที่	PREL
+ไม่ต้อง	NCMN
+เจอ	VACT
+แม่	NCMN
+อีก	DDBQ
+EOS
+ในระหว่างที่ฉันสับสนวุ่นวายในใจจนหาทางออกไม่เจออยู่นั้น
+ใน	RPRE
+ระหว่าง	RPRE
+ที่	PREL
+ฉัน	PPRS
+สับสนวุ่นวาย	VSTA
+ใน	RPRE
+ใจ	NCMN
+จน	JSBR
+หา	VACT
+ทางออก	NCMN
+ไม่	NEG
+เจอ	VACT
+อยู่	XVAE
+นั้น	DDAC
+EOS
+ฉันกลับน้ำตาไหลพรากโดยไม่รู้สาเหตุ
+ฉัน	PPRS
+กลับ	VACT
+น้ำตาไหล	VSTA
+พราก	VATT
+โดย	JSBR
+ไม่	NEG
+รู้	VSTA
+สาเหตุ	NCMN
+EOS
+ฉันร้องไห้สะอึกสะอื้นเมื่อรถเริ่มวิ่งเข้าใกล้สนามบินถึงที่หมายซะแล้ว...
+ฉัน	PPRS
+ร้องไห้	VSTA
+สะอึกสะอื้น	VSTA
+เมื่อ	JSBR
+รถ	NCMN
+เริ่ม	XVAM
+วิ่ง	VACT
+เข้าใกล้	NCMN
+สนามบิน	NCMN
+ถึง	RPRE
+ที่หมาย	NCMN
+ซะ	EAFF
+แล้ว	ADVN
+...	PUNC
+EOS
+ฉันจอดรถแล้วช่วยแม่ยกกระเป๋าลงมา
+ฉัน	PPRS
+จอด	VACT
+รถ	NCMN
+แล้ว	XVAE
+ช่วย	VACT
+แม่	NCMN
+ยก	VACT
+กระเป๋า	NCMN
+ลงมา	ADVN
+EOS
+พอฉันหันหน้ามาจะลาแม่
+พอ	JSBR
+ฉัน	PPRS
+หันหน้า	VACT
+มา	XVAE
+จะ	XVBM
+ลา	NCMN
+แม่	NCMN
+EOS
+แม่กลับรีบกอดฉันและบอกให้ฉันดูแลตัวเองให้ดี
+แม่	NCMN
+กลับ	VACT
+รีบ	VACT
+กอด	VACT
+ฉัน	NCMN
+และ	JCRG
+บอก	VSTA
+ให้	JSBR
+ฉัน	PPRS
+ดูแลตัวเอง	VACT
+ให้	JSBR
+ดี	ADVN
+EOS
+ฉันน้ำตาไหลพรากโดยอัตโนมัติ
+ฉัน	PPRS
+น้ำตาไหล	VACT
+พราก	NCMN
+โดยอัตโนมัติ	NPRP
+EOS
+สะอีกสะอื้นอีกครั้ง
+สะอึกสะอื้น	VSTA
+อีกครั้ง	ADVN
+EOS
+ไม่อยากเชื่อตัวเองเลยว่าคนอย่างฉันจะร้องไห้อย่างไร้สติได้ถึงเพียงนี้
+ไม่	NEG
+อยาก	XVMM
+เชื่อ	VSTA
+ตัวเอง	PDMN
+เลย	XVAE
+ว่า	JSBR
+คน	NCMN
+อย่าง	CNIT
+ฉัน	PPRS
+จะ	XVBM
+ร้องไห้	VSTA
+อย่าง	FIXV
+ไร้สติ	VATT
+ได้	XVAE
+ถึง	RPRE
+เพียงนี้	NCMN
+EOS
+ตลอดเวลาในการเลิกยาแม่ไม่เคยด่าว่าที่ฉันไปยุ่งเกี่ยวกับยาเลยสักครั้ง
+ตลอดเวลา	ADVN
+ใน	RPRE
+การ	FIXN
+เลิก	VACT
+ยา	NCMN
+แม่	NCMN
+ไม่	NEG
+เคย	XVMM
+ด่า	VACT
+ว่าที่	JSBR
+ฉัน	PPRS
+ไป	VACT
+ยุ่ง	VACT
+เกี่ยวกับ	RPRE
+ยา	NCMN
+เลย	XVAE
+สักครั้ง	ADVN
+EOS
+ไม่เคยแม้แต่จะตัดสินฉันเลยสักนิด
+ไม่	NEG
+เคย	XVMM
+แม้แต่	JSBR
+จะ	XVBM
+ตัดสิน	VACT
+ฉัน	PPRS
+เลย	XVAE
+สักนิด	NCMN
+EOS
+แม่ระมัดระวังในการใช้คำพูดกับฉัน
+แม่	NCMN
+ระมัดระวัง	VACT
+ใน	RPRE
+การ	FIXN
+ใช้	VACT
+คำพูด	NCMN
+กับ	RPRE
+ฉัน	PPRS
+EOS
+ทั้งยังคอยลูบหลังให้ทุกครั้งที่ฉันอาเจียนอย่างไม่รังเกียจใดๆ
+ทั้ง	JCRG
+ยัง	XVBM
+คอย	VSTA
+ลูบ	NCMN
+หลัง	VATT
+ให้	JSBR
+ทุกครั้งที่	JSBR
+ฉัน	PPRS
+อาเจียน	VACT
+อย่าง	NCMN
+ไม่	NEG
+รังเกียจ	VSTA
+ใดๆ	DIAC
+EOS
+คืนนี้แม่ไม่อยู่ที่นี่กับฉันแล้ว
+คืนนี้	NCMN
+แม่	NCMN
+ไม่	NEG
+อยู่	VSTA
+ที่นี่	NCMN
+กับ	RPRE
+ฉัน	PPRS
+แล้ว	XVAE
+EOS
+เวลานี้ก็ดึกมากแล้วด้วย
+เวลานี้	NCMN
+ก็	JSBR
+ดึก	NCMN
+มาก	ADVN
+แล้วด้วย	ADVN
+EOS
+แต่ฉันยังไม่อาจทำใจให้กลับไปนอนในห้องนอนได้
+แต่	JCRG
+ฉัน	PPRS
+ยัง	XVBM
+ไม่	NEG
+อาจ	XVMM
+ทำใจ	VSTA
+ให้	JSBR
+กลับ	VACT
+ไป	XVAE
+นอน	VACT
+ใน	RPRE
+ห้องนอน	NCMN
+ได้	XVAE
+EOS
+ฉันยังอยากปิดห้องนอนไว้อย่างนี้
+ฉัน	PPRS
+ยัง	XVBM
+อยาก	XVMM
+ปิด	VACT
+ห้องนอน	NCMN
+ไว้	XVAE
+อย่างนี้	NCMN
+EOS
+เพื่อใจฉันจะจินตนาการได้ว่าแม่นอนหลับอยู่ในนั้น
+เพื่อ	JSBR
+ใจ	NCMN
+ฉัน	PPRS
+จะ	XVBM
+จินตนาการ	VSTA
+ได้	XVAE
+ว่า	JSBR
+แม่	NCMN
+นอนหลับ	VACT
+อยู่	XVAE
+ใน	RPRE
+นั้น	DDAC
+EOS
+ฉันไม่ได้โดดเดี่ยวลำพังที่นี่อีกต่อไปแล้ว
+ฉัน	PPRS
+ไม่	NEG
+ได้	XVAM
+โดดเดี่ยว	VSTA
+ลำพัง	ADVN
+ที่นี่	NCMN
+อีกต่อไป	ADVN
+แล้ว	XVAE
+EOS
+นับตั้งแต่วันนั้นจนถึงวันนี้ที่ฉันกำลังนั่งเขียนหนังสือเล่มนี้อยู่
+นับตั้งแต่	JSBR
+วันนั้น	NCMN
+จนถึง	RPRE
+วันนี้	NCMN
+ที่	PREL
+ฉัน	PPRS
+กำลัง	XVBM
+นั่ง	VACT
+เขียนหนังสือ	VACT
+เล่ม	CNIT
+นี้	DDAC
+อยู่	VSTA
+EOS
+ทุกอย่างยังคงดำเนินไปเช่นเดิมฉัน
+ทุกอย่าง	PDMN
+ยังคง	XVBM
+ดำเนิน	VACT
+ไป	XVAE
+เช่น	RPRE
+เดิม	NCMN
+ฉัน	PPRS
+EOS
+ไม่เคยเข้าไปนอนในห้องนอน
+ไม่	NEG
+เคย	XVMM
+เข้าไป	VACT
+นอน	NCMN
+ใน	RPRE
+ห้องนอน	NCMN
+EOS
+เว้นมันไว้ให้ได้จินตนาการว่าฉันไม่ได้อยู่อย่างลำพังดังเดิม
+เว้น	VACT
+มัน	PPRS
+ไว้	XVAE
+ให้ได้	RPRE
+จินตนาการ	VSTA
+ว่า	JSBR
+ฉัน	PPRS
+ไม่ได้	NEG
+อยู่	VSTA
+อย่าง	FIXV
+ลำพัง	VATT
+ดังเดิม	ADVN
+EOS
+20คู่หมั้นคนที่2
+20	NLBL
+คู่หมั้น	PUNC
+คน	CNIT
+ที่	PREL
+2	DCNM
+EOS
+ฉันดำเนินชีวิตไปเรื่อยๆ
+ฉัน	PPRS
+ดำเนินชีวิต	VACT
+ไป	XVAE
+เรื่อยๆ	ADVI
+EOS
+ทำงาน
+ทำงาน	VACT
+EOS
+พยายามค้นคว้าหาหนทางที่จะหายจากโรคอย่างมีหวัง
+พยายาม	VSTA
+ค้นคว้า	VACT
+หา	VACT
+หนทาง	NCMN
+ที่จะ	JSBR
+หาย	VSTA
+จาก	RPRE
+โรค	NCMN
+อย่าง	FIXV
+มีหวัง	VSTA
+EOS
+ฉันยังกรีดตัวเองเรื่อยๆเหมือนเดิม
+ฉัน	PPRS
+ยัง	XVBM
+กรีด	VSTA
+ตัวเอง	PDMN
+เรื่อยๆ	ADVI
+เหมือนเดิม	ADVN
+EOS
+ฉันโชคดีที่ได้งานใหม่จากบริษัทในประเทศสเปน
+ฉัน	NCMN
+โชคดี	VSTA
+ที่	PREL
+ได้	XVAM
+งาน	NCMN
+ใหม่	VATT
+จาก	RPRE
+บริษัท	NCMN
+ใน	RPRE
+ประเทศ	NCMN
+สเปน	NCMN
+EOS
+ที่นี้ดีกับฉันมาก
+ที่	NCMN
+นี้	DDAC
+ดี	VATT
+กับ	RPRE
+ฉัน	PPRS
+มาก	ADVN
+EOS
+ลักษณะงานสนุกขึ้นโดยเป็นงานเชิงเทคนิค
+ลักษณะ	NCMN
+งาน	NCMN
+สนุก	NCMN
+ขึ้น	XVAE
+โดย	FIXV
+เป็นงาน	VATT
+เชิง	RPRE
+เทคนิค	NCMN
+EOS
+ต่างกับงานที่บริษัทอินเดีย
+ต่าง	VSTA
+กับ	RPRE
+งาน	NCMN
+ที่	PREL
+บริษัท	NCMN
+อินเดีย	NCMN
+EOS
+แต่เวลาว่างก็ยังคงเหมือนเดิม
+แต่	JCRG
+เวลาว่าง	NCMN
+ก็	JSBR
+ยังคง	XVBM
+เหมือนเดิม	VSTA
+EOS
+ด้วยความซื่อสัตย์ฉันบอกเขาก่อนจะจ้างว่าฉันป่วยทางจิต
+ด้วย	RPRE
+ความ	FIXN
+ซื่อสัตย์	VSTA
+ฉัน	PPRS
+บอก	VACT
+เขา	PPRS
+ก่อน	JSBR
+จะ	XVBM
+จ้าง	VACT
+ว่า	JSBR
+ฉัน	PPRS
+ป่วย	VACT
+ทางจิต	NCMN
+EOS
+แต่ฉันยืนยันกับเขาอย่างมั่นใจว่าฉันสามารถทำงานได้
+แต่	JCRG
+ฉัน	PPRS
+ยืนยัน	VACT
+กับ	RPRE
+เขา	PPRS
+อย่าง	FIXV
+มั่นใจ	VSTA
+ว่า	JSBR
+ฉัน	PPRS
+สามารถ	XVAM
+ทำงาน	VACT
+ได้	XVAE
+EOS
+พวกเขายอมรับฉัน
+พวกเขา	NCMN
+ยอมรับ	VSTA
+ฉัน	PPRS
+EOS
+เขาบอกว่าบริษัทเราทำงานแบบครอบครัว
+เขา	PPRS
+บอก	VACT
+ว่า	JSBR
+บริษัท	CNIT
+เรา	PPRS
+ทำงาน	VACT
+แบบ	NCMN
+ครอบครัว	NCMN
+EOS
+ฉันซึ้งและประทับใจเป็นที่สุด
+ฉัน	NCMN
+ซึ้ง	VSTA
+และ	JCRG
+ประทับใจ	VSTA
+เป็น	VSTA
+ที่สุด	ADVN
+EOS
+เพราะฉันตามหาครอบครัวมานานเหลือเกิน
+เพราะ	JSBR
+ฉัน	PPRS
+ตามหา	VACT
+ครอบครัว	NCMN
+มา	XVAE
+นาน	ADVN
+เหลือเกิน	ADVN
+EOS
+แม้เวลาจะผ่านมาแล้วหลายปีฉันก็ยังคงกลัวที่จะมีความรัก
+แม้	JSBR
+เวลา	NCMN
+จะ	XVBM
+ผ่าน	VSTA
+มา	XVAE
+แล้ว	XVAE
+หลาย	DIBQ
+ปี	CNIT
+ฉัน	PPRS
+ก็	JSBR
+ยังคง	XVBM
+กลัว	VSTA
+ที่จะ	JSBR
+มี	VSTA
+ความ	FIXN
+รัก	VSTA
+EOS
+ฉันไม่เคยเปิดโอกาสให้กับใครเลย
+ฉัน	PPRS
+ไม่	NEG
+เคย	XVMM
+เปิดโอกาส	VACT
+ให้	XVAE
+กับ	RPRE
+ใคร	PNTR
+เลย	XVAE
+EOS
+ฉันมุ่งมั่นทำแต่งานเพียงอย่างเดียว
+ฉัน	PPRS
+มุ่งมั่น	VSTA
+ทำ	VACT
+แต่	JCRG
+งาน	NCMN
+เพียง	DDBQ
+อย่าง	CNIT
+เดียว	DCNM
+EOS
+จนกระทั่งวันหนึ่งฉันไปนั่งดื่มอยู่ที่บาร์ย่านสีลม
+จนกระทั่ง	JSBR
+วันหนึ่ง	NCMN
+ฉัน	NCMN
+ไป	XVAE
+นั่ง	VACT
+ดื่ม	VACT
+อยู่	XVAE
+ที่	RPRE
+บาร์	NCMN
+ย่าน	NCMN
+สีลม	NPRP
+EOS
+มีชาวต่างชาติคนหนึ่งเข้ามาคุยกับฉัน
+มี	VSTA
+ชาวต่างชาติ	NCMN
+คน	CNIT
+หนึ่ง	DCNM
+เข้ามา	VACT
+คุย	NCMN
+กับ	RPRE
+ฉัน	PPRS
+EOS
+เราสองคนคุยกันถูกคอ
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+คุย	ADVP
+กัน	ADVN
+ถูกคอ	VSTA
+EOS
+เขาเป็นคนฉลาดอย่างที่ฉันชอบคุยด้วย
+เขา	PPRS
+เป็น	VSTA
+คน	NCMN
+ฉลาด	VATT
+อย่าง	NCMN
+ที่	PREL
+ฉัน	PPRS
+ชอบ	VACT
+คุย	VACT
+ด้วย	RPRE
+EOS
+ที่สำคัญเขาไม่ได้มีท่าทีจะจีบฉัน
+ที่	PREL
+สำคัญ	VATT
+เขา	PPRS
+ไม่	NEG
+ได้	XVAM
+มี	VSTA
+ท่าที	NCMN
+จะ	XVBM
+จีบ	VSTA
+ฉัน	PPRS
+EOS
+มันทำให้ฉันไม่เกร็งและผ่อนคลาย
+มัน	PPRS
+ทำให้	JSBR
+ฉัน	PPRS
+ไม่	NEG
+เกร็ง	VACT
+และ	JCRG
+ผ่อนคลาย	VACT
+EOS
+เราสองคนแลกเบอร์โทรศัพท์
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+แลก	NCMN
+เบอร์โทรศัพท์	NCMN
+EOS
+และเริ่มคุยกันมากขึ้นเรื่อยๆ
+และ	JCRG
+เริ่ม	VSTA
+คุย	NCMN
+กัน	ADVN
+มากขึ้น	ADVN
+เรื่อยๆ	ADVI
+EOS
+ในที่สุดเขาก็ขอฉันไปออกเดตกับเขา
+ในที่สุด	ADVS
+เขา	PPRS
+ก็	JSBR
+ขอ	VACT
+ฉัน	NCMN
+ไป	XVAE
+ออก	VACT
+เดต	NCMN
+กับ	RPRE
+เขา	PPRS
+EOS
+เขายอมรับว่าเขาชอบฉันมาก
+เขา	PPRS
+ยอมรับ	VSTA
+ว่า	JSBR
+เขา	PPRS
+ชอบ	VSTA
+ฉัน	PPRS
+มาก	ADVN
+EOS
+และขอคบกับฉัน
+และ	JCRG
+ขอ	VACT
+คบ	VACT
+กับ	RPRE
+ฉัน	PPRS
+EOS
+คราวนี้ฉันไม่ได้กลัวการมีคนรัก
+คราวนี้	NCMN
+ฉัน	PPRS
+ไม่ได้	NEG
+กลัว	VSTA
+การ	FIXN
+มี	VSTA
+คนรัก	NCMN
+EOS
+ฉันจึงตอบตกลงที่จะคบกับเขา
+ฉัน	PPRS
+จึง	XVBM
+ตอบ	VACT
+ตกลง	VACT
+ที่จะ	JSBR
+คบ	VACT
+กับ	RPRE
+เขา	PPRS
+EOS
+แต่คุณรู้ไหมฉันไม่ได้รักเขาเลย
+แต่	JCRG
+คุณ	PPRS
+รู้	VSTA
+ไหม	NCMN
+ฉัน	PPRS
+ไม่	NEG
+ได้	XVAM
+รัก	VSTA
+เขา	PPRS
+เลย	XVAE
+EOS
+ฉันพยายามแล้ว
+ฉัน	PPRS
+พยายาม	VACT
+แล้ว	XVAEV
+EOS
+แต่ไม่เป็นไรฉันไม่ได้ใช้ความรักในการตัดสินใจครั้งนี้
+แต่	JCRG
+ไม่เป็นไร	VACT
+ฉัน	PPRS
+ไม่	NEG
+ได้	XVAM
+ใช้	VACT
+ความ	FIXN
+รัก	VSTA
+ใน	RPRE
+การ	FIXN
+ตัดสินใจ	VSTA
+ครั้งนี้	NCMN
+EOS
+ฉันคิดว่ามันแค่เหมาะสมระหว่างเราสองคน
+ฉัน	PPRS
+คิด	VACT
+ว่า	JSBR
+มัน	PPRS
+แค่	DDBQ
+เหมาะสม	VSTA
+ระหว่าง	RPRE
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+EOS
+และเขาเป็นคนดีที่รักฉัน
+และ	JCRG
+เขา	PPRS
+เป็น	VSTA
+คนดี	NCMN
+ที่รัก	VSTA
+ฉัน	PPRS
+EOS
+หลังจากฉันเลิกยาได้
+หลังจาก	JSBR
+ฉัน	PPRS
+เลิก	VACT
+ยา	NCMN
+ได้	XVAE
+EOS
+ฉันก็ไม่ได้มีอะไรกับคนแปลกหน้าอีก
+ฉัน	PPRS
+ก็	XVBM
+ไม่ได้	NEG
+มี	VSTA
+อะไร	PNTR
+กับ	RPRE
+คนแปลกหน้า	NCMN
+อีก	DDBQ
+EOS
+ฉันคิดแค่ว่าคราวนี้ฉันจะทำทุกอย่างให้ไร้ที่ติ
+ฉัน	PPRS
+คิด	VACT
+แค่	DDBQ
+ว่า	RPRE
+คราวนี้	NCMN
+ฉัน	PPRS
+จะ	XVBM
+ทำ	VACT
+ทุกอย่าง	PDMN
+ให้	JSBR
+ไร้	VSTA
+ที่	RPRE
+ติ	NCMN
+EOS
+ไม่ทำแบบเดิมอีกแล้ว
+ไม่	NEG
+ทำ	VACT
+แบบ	NCMN
+เดิม	VATT
+อีกแล้ว	ADVN
+EOS
+เราสองคนคบหากันได้แค่3เดือน
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+คบหา	NCMN
+กัน	PDMN
+ได้	XVAE
+แค่	DDBQ
+3	DCNM
+เดือน	CMTR
+EOS
+อยู่ๆเขาก็ขอฉันแต่งงานด้วยเพชรเม็ดโต
+อยู่ ๆ	VSTA
+เขา	PPRS
+ก็	JSBR
+ขอ	VACT
+ฉัน	NCMN
+แต่งงาน	VSTA
+ด้วย	RPRE
+เพชร	NCMN
+เม็ด	NCMN
+โต	VATT
+EOS
+ใจฉันยังคงมีเกราะแน่นหนาที่ไม่ว่ายังไงเขาก็ไม่สามารถพังทลายเข้ามาได้
+ใจ	NCMN
+ฉัน	PPRS
+ยังคง	XVBM
+มี	VSTA
+เกราะ	NCMN
+แน่นหนา	ADVN
+ที่	PREL
+ไม่	NEG
+ว่า	JSBR
+ยังไง	CNIT
+เขา	PPRS
+ก็	XVBM
+ไม่	NEG
+สามารถ	XVAM
+พังทลาย	VACT
+เข้ามา	XVAE
+ได้	XVAE
+EOS
+แต่ด้วยฉันเป็นคนชอบเพชร
+แต่	JCRG
+ด้วย	RPRE
+ฉัน	PPRS
+เป็น	VSTA
+คน	NCMN
+ชอบ	VSTA
+เพชร	NCMN
+EOS
+ชอบความหมายและที่มาของมันเป็นทุนเดิมอยู่แล้ว
+ชอบ	VSTA
+ความหมาย	NCMN
+และ	JCRG
+ที่มา	NCMN
+ของ	RPRE
+มัน	PPRS
+เป็น	VSTA
+ทุนเดิม	NCMN
+อยู่แล้ว	XVAE
+EOS
+ฉันจึงตอบตกลงแต่งงานกับเขาไป
+ฉัน	PPRS
+จึง	XVBM
+ตอบ	VACT
+ตกลง	VACT
+แต่งงาน	VSTA
+กับ	RPRE
+เขา	PPRS
+ไป	XVAE
+EOS
+แต่ครั้นพอนึกว่าจะต้องแต่งงานเข้าจริงๆ
+แต่	JCRG
+ครั้น	JSBR
+พอ	ADVN
+นึก	VACT
+ว่า	JSBR
+จะ	XVBM
+ต้อง	XVMM
+แต่งงาน	VACT
+เข้า	XVAE
+จริงๆ	ADVI
+EOS
+ฉันกลับกลัวไปหมด
+ฉัน	PPRS
+กลับ	VACT
+กลัว	VSTA
+ไป	XVAE
+หมด	ADVN
+EOS
+ฉันไม่อยากแต่งแล้วไม่ได้รัก
+ฉัน	PPRS
+ไม่	NEG
+อยาก	XVMM
+แต่ง	VACT
+แล้ว	XVAE
+ไม่ได้	NEG
+รัก	VSTA
+EOS
+แต่ใจก็ไม่อยากคืนแหวนเพชรให้เขาไป
+แต่	JCRG
+ใจ	NCMN
+ก็	JSBR
+ไม่	NEG
+อยาก	XVMM
+คืน	VACT
+แหวน	NCMN
+เพชร	NCMN
+ให้	JSBR
+เขา	PPRS
+ไป	XVAE
+EOS
+ฉันตัดสินใจสักพัก
+ฉัน	PPRS
+ตัดสินใจ	VACT
+สักพัก	NCMN
+EOS
+และพบว่าฉันยังมีทักษะพิเศษที่ใช้กับสถานการณ์แบบนี้ได้อยู่
+และ	JCRG
+พบ	VSTA
+ว่า	JSBR
+ฉัน	PPRS
+ยังมี	NCMN
+ทักษะ	NCMN
+พิเศษ	VATT
+ที่	PREL
+ใช้กับ	VACT
+สถานการณ์	NCMN
+แบบนี้	NPRP
+ได้	XVAE
+อยู่	XVAE
+EOS
+ด้วยเล่ห์เหลี่ยมของฉันที่มาพร้อมกับโรคที่ฉันเป็น
+ด้วย	RPRE
+เล่ห์เหลี่ยม	NCMN
+ของ	RPRE
+ฉัน	NCMN
+ที่มา	NCMN
+พร้อมกับ	JCRG
+โรค	NCMN
+ที่	PREL
+ฉัน	PPRS
+เป็น	VSTA
+EOS
+ฉันจึงตัดสินใจวางแผนให้เขาเป็นคนเลิกราไปเอง
+ฉัน	PPRS
+จึง	XVBM
+ตัดสินใจ	VSTA
+วางแผน	VACT
+ให้	JSBR
+เขา	PPRS
+เป็น	VSTA
+คน	NCMN
+เลิกรา	VACT
+ไป	XVAE
+เอง	PDMN
+EOS
+เพื่อจะได้ไม่ต้องเสียแหวนไป
+เพื่อ	JSBR
+จะ	XVBM
+ได้	XVAM
+ไม่ต้อง	VACT
+เสีย	VSTA
+แหวน	NPRP
+ไป	XVAE
+EOS
+เช้าวันรุ่งขึ้นฉันโทรศัพท์ขอให้เขามาพบฉันที่คอนโด
+เช้า	NCMN
+วันรุ่งขึ้น	NCMN
+ฉัน	NCMN
+โทรศัพท์	VACT
+ขอให้	VACT
+เขา	PPRS
+มา	XVAM
+พบ	VSTA
+ฉัน	PPRS
+ที่	PREL
+คอนโด	VSTA
+EOS
+เมื่อเขามาถึง..ฉันกอดและจูบเขาพร้อมแสดงท่าที่ตื่นเต้น
+เมื่อ	JSBR
+เขา	PPRS
+มาถึง	VACT
+..	PUNC
+ฉัน	NCMN
+กอด	VACT
+และ	JCRG
+จูบ	VACT
+เขา	PPRS
+พร้อม	VSTA
+แสดง	VACT
+ท่า	NCMN
+ที่	PREL
+ตื่นเต้น	VSTA
+EOS
+เขายิ้มและสงสัยว่าทำไมฉันมีท่าทีดีใจขนาดนั้น
+เขา	PPRS
+ยิ้ม	VACT
+และ	JCRG
+สงสัย	VACT
+ว่า	RPRE
+ทำไม	NCMN
+ฉัน	PPRS
+มี	VSTA
+ท่าที	NCMN
+ดีใจ	VSTA
+ขนาด	NCMN
+นั้น	DDAC
+EOS
+ฉันรีบบอกเขาไปว่าฉันได้ฤกษ์แต่งงานจากครอบครัวแล้ว
+ฉัน	PPRS
+รีบ	VACT
+บอก	VACT
+เขา	PPRS
+ไป	XVAE
+ว่า	JSBR
+ฉัน	PPRS
+ได้ฤกษ์	VACT
+แต่งงาน	VACT
+จาก	RPRE
+ครอบครัว	NCMN
+แล้ว	XVAE
+EOS
+เป็นอีก1เดือนข้างหน้า
+เป็น	VSTA
+อีก	DDBQ
+1	DCNM
+เดือน	CMTR
+ข้างหน้า	NCMN
+EOS
+เขาตกใจที่มันเร็วไป
+เขา	PPRS
+ตกใจ	VACT
+ที่	PREL
+มัน	PPRS
+เร็ว	VATT
+ไป	XVAE
+EOS
+แต่ก็ตกลงเรื่องวันเวลา
+แต่	JCRG
+ก็	JSBR
+ตกลง	VACT
+เรื่อง	NCMN
+วัน	NCMN
+เวลา	NCMN
+EOS
+เช้าวันต่อมาเขารีบร้อนโทร.มาหาฉันด้วยน้ำเสียงเป็นกังวล
+เช้า	NCMN
+วัน	NCMN
+ต่อมา	DDAC
+เขา	PPRS
+รีบร้อน	VACT
+โทร	VACT
+มาหา	NCMN
+ฉัน	NCMN
+ด้วย	RPRE
+น้ำเสียง	NCMN
+เป็น	VSTA
+กังวล	VSTA
+EOS
+เขาต้องการพบฉันที่บ้านเขา
+เขา	PPRS
+ต้องการ	XVMM
+พบ	VACT
+ฉัน	NCMN
+ที่	PREL
+บ้าน	NCMN
+เขา	PPRS
+EOS
+ฉันรีบแต่งตัวไปหาเขาด้วยใจระทึก
+ฉัน	PPRS
+รีบ	VACT
+แต่งตัว	VACT
+ไปหา	VACT
+เขา	PPRS
+ด้วย	ADVN
+ใจระทึก	VSTA
+EOS
+เมื่อเราสองคนพบกันเขาพาฉันนั่งลงและสารภาพตรงๆว่าเขาสับสนทุกสิ่งทุกอย่างมันเร็วไป
+เมื่อ	JSBR
+เรา	PPRS
+สอง	DCNM
+คน	CNIT
+พบกัน	VSTA
+เขา	PPRS
+พา	VACT
+ฉัน	NCMN
+นั่งลง	VACT
+และ	JCRG
+สารภาพ	VACT
+ตรงๆ	ADVN
+ว่า	JSBR
+เขา	PPRS
+สับสน	VSTA
+ทุกสิ่งทุกอย่าง	NCMN
+มัน	VATT
+เร็ว	VATT
+ไป	XVAE
+EOS
+เขาอยากกลับไปทบทวนตัวเอง
+เขา	PPRS
+อยาก	XVMM
+กลับ	VACT
+ไป	XVAE
+ทบทวน	VACT
+ตัวเอง	PDMN
+EOS
+ฉันถามเขาตรงๆว่าเขาอยากเลิกกับฉันก่อนใช่ไหม
+ฉัน	PPRS
+ถาม	VACT
+เขา	PPRS
+ตรงๆ	ADVN
+ว่า	JSBR
+เขา	PPRS
+อยาก	XVMM
+เลิก	VACT
+กับ	RPRE
+ฉัน	NCMN
+ก่อน	RPRE
+ใช่ไหม	NCMN
+EOS
+เขาตอบว่าใช่
+เขา	PPRS
+ตอบ	VACT
+ว่า	JSBR
+ใช่	VSTA
+EOS
+น้ำเสียงเขาเต็มไปด้วยความรู้สึกผิด
+น้ำเสียง	NCMN
+เขา	PPRS
+เต็มไปด้วย	NCMN
+ความ	FIXN
+รู้สึกผิด	VSTA
+EOS
+ฉันก้มหน้าลงเหมือนจะร้องไห้
+ฉัน	PPRS
+ก้มหน้า	VACT
+ลง	XVAE
+เหมือน	VATT
+จะ	XVBM
+ร้องไห้	VSTA
+EOS
+เขารีบกุมมือฉันและบอกว่าเขาเสียใจ
+เขา	PPRS
+รีบ	VACT
+กุมมือ	VACT
+ฉัน	PPRS
+และ	JCRG
+บอ	VATT
+กว่า	JCMP
+เขา	PPRS
+เสียใจ	VSTA
+EOS
+อย่างน้อยเพื่อเป็นการขอโทษเขาอยากให้ฉันเก็บแหวนไว้
+อย่าง	FIXV
+น้อย	VATT
+เพื่อ	RPRE
+เป็น	VSTA
+การ	FIXN
+ขอโทษ	VACT
+เขา	PPRS
+อยาก	XVMM
+ให้	VACT
+ฉัน	PPRS
+เก็บ	VACT
+แหวน	NCMN
+ไว้	XVAE
+EOS
+เรากอดลากัน
+เรา	PPRS
+กอด	VACT
+ลา	NCMN
+กัน	ADVN
+EOS
+ฉันจึงรีบกลับคอนโดฉันทันที
+ฉัน	PPRS
+จึง	XVBM
+รีบ	VACT
+กลับ	VACT
+คอนโด	NCMN
+ฉัน	PPRS
+ทันที	ADVN
+EOS
+ได้ผลตามคาด
+ได้ผล	VSTA
+ตาม	RPRE
+คาด	VACT
+EOS
+ฉันดีใจที่ทุกอย่างเป็นไปตามแผนที่วางไว้
+ฉัน	PPRS
+ดีใจ	VSTA
+ที่	PREL
+ทุกอย่าง	PDMN
+เป็นไปตาม	VSTA
+แผน	NCMN
+ที่	PREL
+วาง	VACT
+ไว้	XVAE
+EOS
+ฉันทำให้เขากลัวการแต่งงานและเป็นฝ่ายบอกเลิกฉันเอง
+ฉัน	PPRS
+ทำให้	VACT
+เขา	PPRS
+กลัว	VSTA
+การ	FIXN
+แต่งงาน	VACT
+และ	JCRG
+เป็น	VSTA
+ฝ่าย	NCMN
+บอกเลิก	VACT
+ฉัน	PPRS
+เอง	PDMN
+EOS
+เพื่อที่ฉันจะได้เก็บแหวนวงนี้ไว้
+เพื่อ	JSBR
+ที่	JSBR
+ฉัน	PPRS
+จะ	XVBM
+ได้	XVAM
+เก็บ	VACT
+แหวน	NCMN
+วง	NCMN
+นี้	DDAC
+ไว้	XVAE
+EOS
+ฉันยิ้มดีใจกับความสำเร็จนี้
+ฉัน	PPRS
+ยิ้ม	VACT
+ดีใจ	VSTA
+กับ	RPRE
+ความ	FIXN
+สำเร็จ	ADVN
+นี้	DDAC
+EOS
+คุณจะคิดว่าฉันไร้หัวใจหรือร้ายกาจอย่างไรก็ได้
+คุณ	PPRS
+จะ	XVBM
+คิด	VSTA
+ว่า	JSBR
+ฉัน	PPRS
+ไร้	VSTA
+หัวใจ	NCMN
+หรือ	JCRG
+ร้ายกาจ	VSTA
+อย่างไร	PNTR
+ก็ได้	XVAE
+EOS
+ฉันไม่ได้สนใจคำวิจารณ์ของใครหรอก
+ฉัน	PPRS
+ไม่ได้	NEG
+สนใจ	VACT
+คำวิจารณ์	NCMN
+ของ	RPRE
+ใคร	PNTR
+หรอก	ADVN
+EOS
+ฉันรักเพชร...
+ฉัน	PPRS
+รัก	VSTA
+เพชร	NCMN
+...	PUNC
+EOS
+แต่เพชรเม็ดนี้มันโตและก็แพงเกินไป
+แต่	JCRG
+เพชร	NCMN
+เม็ด	NCMN
+นี้	DDAC
+มัน	PPRS
+โต	VATT
+และ	JCRG
+ก็	JSBR
+แพง	VATT
+เกินไป	ADVN
+EOS
+ฉันรีบเอาไปขาย
+ฉัน	PPRS
+รีบ	VACT
+เอา	VACT
+ไป	XVAE
+ขาย	VACT
+EOS
+ฉันเปลี่ยนจากแหวนเป็นรถที่ฉันใช้จนถึงทุกวันนี้
+ฉัน	PPRS
+เปลี่ยน	VACT
+จาก	RPRE
+แหวน	NCMN
+เป็น	VSTA
+รถ	NCMN
+ที่	PREL
+ฉัน	PPRS
+ใช้	VSTA
+จนถึง	JSBR
+ทุกวันนี้	ADVS
+EOS
+แถมยังเหลือเงินอีกเล็กน้อยไว้ใช้จ่ายในยามจำเป็น
+แถม	NCMN
+ยัง	XVBM
+เหลือ	VSTA
+เงิน	NCMN
+อีก	ADVN
+เล็กน้อย	VATT
+ไว้	XVAE
+ใช้จ่าย	VACT
+ใน	RPRE
+ยาม	NCMN
+จำเป็น	VSTA
+EOS
+คุณคงพอจะเข้าใจกลไกการทำงานของใจฉันบ้างแล้วไม่มากก็น้อย
+คุณ	PPRS
+คง	XVBM
+พอ	XVAM
+จะ	XVBM
+เข้าใจ	VSTA
+กลไก	NCMN
+การทำงาน	NCMN
+ของ	RPRE
+ใจ	NCMN
+ฉัน	PPRS
+บ้าง	PDMN
+แล้ว	XVBM
+ไม่	NEG
+มาก	ADVN
+ก็	JSBR
+น้อย	VATT
+EOS
+ว่าฉันมีเกราะป้องกันแน่นหนาในใจเกราะที่หนาขึ้นเรื่อยๆตามวันและเวลา
+ว่า	JSBR
+ฉัน	PPRS
+มี	VSTA
+เกราะ	NCMN
+ป้องกัน	VACT
+แน่นหนา	NCMN
+ใน	RPRE
+ใจ	NCMN
+เกราะ	NCMN
+ที่	PREL
+หนา	VATT
+ขึ้น	XVAE
+เรื่อยๆ	ADVI
+ตาม	RPRE
+วัน	NCMN
+และ	JCRG
+เวลา	NCMN
+EOS
+ฉันกลายเป็นคนอย่างไร
+ฉัน	PPRS
+กลายเป็น	VSTA
+คน	NCMN
+อย่างไร	PNTR
+EOS
+เด็ดขาดและเลือดเย็นแค่ไหน
+เด็ดขาด	NCMN
+และ	JCRG
+เลือดเย็น	NPRP
+แค่	DDBQ
+ไหน	PNTR
+EOS
+หลังจากวันนั้นฉันก็ไม่ได้ติดต่อกับเขาอีกเลยจนวันนี้
+หลังจาก	JSBR
+วันนั้น	NCMN
+ฉัน	NCMN
+ก็	JSBR
+ไม่ได้	NEG
+ติดต่อ	VACT
+กับ	RPRE
+เขา	PPRS
+อีก	DDBQ
+เลย	XVAE
+จน	JSBR
+วันนี้	NCMN
+EOS
+ฉันไม่รู้สึกเสียใจที่ไม่ได้แต่งงาน
+ฉัน	PPRS
+ไม่	NEG
+รู้สึก	VSTA
+เสียใจ	VSTA
+ที่	PREL
+ไม่ได้	NEG
+แต่งงาน	VACT
+EOS
+ไม่รู้สึกผิดที่ขายแหวนไป
+ไม่	NEG
+รู้สึก	VSTA
+ผิด	ADVN
+ที่	PREL
+ขาย	VACT
+แหวน	ADVN
+ไป	XVAE
+EOS
+มันเป็นสมบัติส่วนตัวของฉันตามกฎหมาย
+มัน	PPRS
+เป็น	VSTA
+สมบัติส่วนตัว	NCMN
+ของ	RPRE
+ฉัน	PPRS
+ตามกฎหมาย	VACT
+EOS
+ซึ่งฉันได้มาโดยสุจริต
+ซึ่ง	JSBR
+ฉัน	PPRS
+ได้มา	VSTA
+โดย	RPRE
+สุจริต	NCMN
+EOS
+ฉันจะทำอะไรกับมันก็ย่อมได้
+ฉัน	PPRS
+จะ	XVBM
+ทำ	VACT
+อะไร	PNTR
+กับ	RPRE
+มัน	PPRS
+ก็	JSBR
+ย่อม	XVBM
+ได้	XVAM
+EOS
+และนี่แหละความเป็นนั้นเมื่อ2ปีที่แล้วที่ต้องการชนะทุกสิ่ง
+และ	JCRG
+นี่แหละ	NCMN
+ความ	FIXN
+เป็น	VSTA
+นั้น	DDAC
+เมื่อ	JSBR
+2	DCNM
+ปี	CNIT
+ที่แล้ว	DIAC
+ที่	PREL
+ต้องการ	XVMM
+ชนะ	VACT
+ทุกสิ่ง	NCMN
+EOS
+ไร้ความเสียใจและเลือดเย็น
+ไร้	VSTA
+ความเสียใจ	NCMN
+และ	JCRG
+เลือดเย็น	NPRP
+EOS

@@ -1,0 +1,82 @@
+สวัสดีนี่เราเอง
+สวัสดี	NPRP
+นี่	PDMN
+เรา	PPRS
+เอง	PDMN
+EOS
+ตื่นเต้นจังที่ต้องเขียนแต่เราเต็มใจนะ
+ตื่นเต้น   NCMN
+จัง  NCMN
+ที่   PREL
+ต้อง	XVMM
+เขียน	VACT
+แต่	JCRG
+เรา	PPRS
+เต็มใจ	VSTA
+นะ	NCMN
+EOS
+อย่างน้อยมันก็ต้องดีบ้างแหละ
+อย่าง	FIXV
+น้อย	VATT
+มัน	PPRS
+ก็	JSBR
+ต้อง	XVMM
+ดี	VATT
+บ้าง	ADVN
+แหละ	ADVN
+EOS
+ขอให้มีแต่เรื่องดีๆทุกวันเลยนะ
+ขอให้	VACT
+มี	VSTA
+แต่	JCRG
+เรื่อง	NCMN
+ดี	VATT
+ๆ	PUNC
+ทุกวัน	ADVN
+เลย	XVAE
+นะ	ADVN
+EOS
+ปกติเราเป็นคนอารมณ์ดี
+ปกติ	ADVS
+เรา	PPRS
+เป็น	VSTA
+คน	NCMN
+อารมณ์ดี	NCMN
+EOS
+ชอบฟังเพลง
+ชอบ	VSTA
+ฟังเพลง	NCMN
+EOS
+ชอบเล่นแมว
+ชอบ	VACT
+เล่น	VACT
+แมว	NCMN
+EOS
+ชอบปาร์ตี้กับเพื่อน
+ชอบ	VSTA
+ปาร์ตี้	NCMN
+กับ	RPRE
+เพื่อน	NCMN
+EOS
+ชอบไปเที่ยว
+ชอบ	VSTA
+ไปเที่ยว	NCMN
+EOS
+ชอบกลิ่นฝน
+ชอบ	VSTA
+กลิ่น	NCMN
+ฝน	NCMN
+EOS
+ชอบเสียงทะเล
+ชอบ	VSTA
+เสียง	NCMN
+ทะเล	NCMN
+EOS
+ตอนนี้ตัวเรากำลังรู้สึกดีนะ
+ตอนนี้	NCMN
+ตัวเรา	NCMN
+กำลัง	XVBM
+รู้สึก	VSTA
+ดี	ADVN
+นะ	ADVN
+EOS
